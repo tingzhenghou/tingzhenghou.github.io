@@ -28,4 +28,11 @@ Work experience
   
 Service and leadership
 ======
-* Peer reviewer: Nature Catal., Chem. Mater, RSC Adv.
+* Peer reviewer: 
+  * Nature Catalysis
+  * Chemistry of Materials
+  * RSC Advances
+* Developer
+  * The Materials Project (32 commits, 16,830 additions, 617 deletions)
+* Research Mentor
+  * Tsinghua University: Xiang Chen, Undergraduate in Chemical Engineering
