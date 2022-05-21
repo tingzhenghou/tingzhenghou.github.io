@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Materials Science and Engineering, University of California, Berkeley (2021)
+* B.S. in Chemical Engineering, Tsinghua University (2016)
+* M.S. in Materials Science and Engineering, Tsinghua University (2014)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* University of California, Berkeley
+  * Postdoctoral scholar in Prof. Kristin A. Persson research group (2021 - 2022)
+  * Graduate student researcher in Prof. Kristin A. Persson research group (2016 - 2021)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Tsinghua University
+  * Master’s student in Prof. Qiang Zhang research group (2014 - 2016)
+  * Undergraduate graduation project in Prof. Qiang Zhang and Prof. Qiang Cai groups (2013 - 2014)
+  * Undergraduate Student Research Training (SRT) program in Prof. Xiumei Wang research group (2012 - 2013)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer reviewer: Nature Catal., Chem. Mater, RSC Adv.
