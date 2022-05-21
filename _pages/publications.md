@@ -9,9 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-(20) **Hou, T.**<sup>‡</sup>; Xu, W.<sup>‡</sup>; Pei, X.; Jiang, L.; Yaghi, O. M.; Persson, K. A., Conduction Mechanism and Design of Metal–Organic Frameworks Based Quasi-Solid-State Electrolytes. **J. Am. Chem. Soc.**, Revised.
+(20) **Hou, T.**<sup>‡</sup>; Xu, W.<sup>‡</sup>; Pei, X.; Jiang, L.; Yaghi, O. M.; Persson, K. A., Conduction Mechanism and Design of Metal–Organic Frameworks Based Quasi-Solid-State Electrolytes. *J. Am. Chem. Soc.*, Revised.
 
-(19) Spotte-Smith, E. W. C.; Kam, R. L.; Barter, D.; Xie, X.; **Hou, T.**; Dwaraknath, S.; Blau, S. M.; Persson, K. A., Toward a Mechanistic Model of Solid–Electrolyte Interphase Formation and Evolution in Lithium-Ion Batteries. *ACS Energy Lett.* **2022,** *7*, 1446-1453.
+(19) Spotte-Smith, E. W. C.; Kam, R. L.; Barter, D.; Xie, X.; **Hou, T.**; Dwaraknath, S.; Blau, S. M.; Persson, K. A., Toward a Mechanistic Model of Solid–Electrolyte Interphase Formation and Evolution in Lithium-Ion Batteries. *ACS Energy Lett.* **2022,** *7*, 1446-1453. [[doi](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc04265c)] [[pdf](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc04265c)] 
 
 (18) **Hou, T.**; Fong, K. D.; Wang, J.; Persson, K. A., The solvation structure, transport properties and reduction behavior of carbonate-based electrolytes of lithium-ion batteries. *Chem. Sci.* **2021,** *12*, 14740-14751.
 
