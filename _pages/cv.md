@@ -32,13 +32,13 @@ Honors and Awards
 *	China Top Cited Author Award, IOP Publishing (2018)
 *	Mitsui Chemicals Graduate Scholarship, Tsinghua University (2015)
 *	Excellent Graduate Award, Tsinghua University (2014)
-*	Outstanding Thesis for Undergraduates, Tsinghua University (2014)
+*	Outstanding Undergraduate Thesis Award, Tsinghua University (2014)
   
 Academic service
 ======
 * Peer reviewer: 
-  * Nature Catalysis, Chemistry of Materials, RSC Advances
+  * [Nature Catalysis](https://www.nature.com/natcatal/), [Chemistry of Materials](https://pubs.acs.org/journal/cmatex), [RSC Advances](https://www.rsc.org/journals-books-databases/about-journals/rsc-advances/)
 * Developer
-  * The Materials Project (32 commits, 16,830 additions, 617 deletions)
+  * [The Materials Project](https://materialsproject.org/about)
 * Research Mentor
-  * Tsinghua University: [Xiang Chen](https://scholar.google.co.jp/citations?user=q44q6B0AAAAJ), Undergraduate in Chemical Engineering
+  * [Xiang Chen](https://scholar.google.co.jp/citations?user=q44q6B0AAAAJ), Tsinghua University
