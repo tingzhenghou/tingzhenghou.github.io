@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Tingzheng Hou 侯廷政"
+title                    : "Dr. Tingzheng Hou"
 title_separator          : "-"
 name                     : &name "Dr. Tingzheng Hou"
 description              : &description "Postdoctoral Scholar at the University of California, Berkeley"
