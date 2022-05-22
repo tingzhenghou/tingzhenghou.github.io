@@ -9,11 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-(20) **Hou, T.**<sup>‡</sup>; Xu, W.<sup>‡</sup>; Pei, X.; Jiang, L.; Yaghi, O. M.; Persson, K. A., Conduction Mechanism and Design of Metal–Organic Frameworks Based Quasi-Solid-State Electrolytes. *J. Am. Chem. Soc.*, Revised.
+(20) **Hou, T.**<sup>‡</sup>; Xu, W.<sup>‡</sup>; Pei, X.; Jiang, L.; Yaghi, O. M.<sup>\*</sup>; Persson, K. A.<sup>\*</sup>, Conduction Mechanism and Design of Metal–Organic Frameworks Based Quasi-Solid-State Electrolytes. *J. Am. Chem. Soc.*, Revised.
 
-(19) Spotte-Smith, E. W. C.; Kam, R. L.; Barter, D.; Xie, X.; **Hou, T.**; Dwaraknath, S.; Blau, S. M.; Persson, K. A., Toward a Mechanistic Model of Solid–Electrolyte Interphase Formation and Evolution in Lithium-Ion Batteries. *ACS Energy Lett.* **2022,** *7*, 1446-1453. [[doi](https://doi.org/10.1021/acsenergylett.2c00517)] [[pdf](https://tingzhenghou.github.io/files/papers/ACSEL-2022-kMC.pdf)] 
+(19) Spotte-Smith, E. W. C.; Kam, R. L.; Barter, D.; Xie, X.; **Hou, T.**; Dwaraknath, S.; Blau, S. M.; Persson, K. A.<sup>\*</sup>, Toward a Mechanistic Model of Solid–Electrolyte Interphase Formation and Evolution in Lithium-Ion Batteries. *ACS Energy Lett.* **2022,** *7*, 1446-1453. [[doi](https://doi.org/10.1021/acsenergylett.2c00517)] [[pdf](https://tingzhenghou.github.io/files/papers/ACSEL-2022-kMC.pdf)] 
 
-(18) **Hou, T.**; Fong, K. D.; Wang, J.; Persson, K. A., The solvation structure, transport properties and reduction behavior of carbonate-based electrolytes of lithium-ion batteries. *Chem. Sci.* **2021,** *12*, 14740-14751. [[doi](https://doi.org/10.1039/D1SC04265C)] [[pdf](https://tingzhenghou.github.io/files/papers/ChemSci-2021-gen2.pdf)]
+(18) **Hou, T.**<sup>\*</sup>; Fong, K. D.; Wang, J.; Persson, K. A.<sup>\*</sup>, The solvation structure, transport properties and reduction behavior of carbonate-based electrolytes of lithium-ion batteries. *Chem. Sci.* **2021,** *12*, 14740-14751. [[doi](https://doi.org/10.1039/D1SC04265C)] [[pdf](https://tingzhenghou.github.io/files/papers/ChemSci-2021-gen2.pdf)]
 
 (17) Pekarek, R. T.; Affolter, A.; Baranowski, L. L.; Coyle, J.; **Hou, T.**; Sivonxay, E.; Smith, B. A.; McAuliffe, R. D.; Persson, K. A.; Key, B.; Apblett, C.; Veith, G. M.; Neale, N. R., Intrinsic chemical reactivity of solid-electrolyte interphase components in silicon–lithium alloy anode batteries probed by FTIR spectroscopy. *J. Mater. Chem. A* **2020,** *8*, 7897-7906. [[doi](https://doi.org/10.1039/C9TA13535A)] [[pdf](https://tingzhenghou.github.io/files/papers/JMCA-2020-FTIR.pdf)]
 
