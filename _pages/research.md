@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My current research interests lie in understanding transport and thermodynamics in electrolyte solutions for energy storage applications. I use theoretical tools from statistical mechanics and nonequilibrium thermodynamics as well as atomistic simulation techniques such as molecular dynamics. 
+Details.
  
 ## Theory for the Interfacial Interactions in Li–S Battery Cathodes
  
