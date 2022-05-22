@@ -28,18 +28,16 @@ Research experience
 
 Honors and Awards
 ======
-* First-class Award of Natural Science of the Ministry of Education (2019)
-*	IOP China Top Cited Author Award (2018)
-*	Tsinghua University-Mitsui Chemicals Inc. Graduate Scholarship (2015)
-*	Excellent Thesis for Undergraduates in Tsinghua University (2014)
-*	Excellent Graduates Award of Tsinghua University (2014)
+* First-class Award of Natural Science, China Ministry of Education (2019)
+*	China Top Cited Author Award, IOP Publishing (2018)
+*	Mitsui Chemicals Graduate Scholarship, Tsinghua University (2015)
+*	Excellent Graduate Award, Tsinghua University (2014)
+*	Outstanding Thesis for Undergraduates, Tsinghua University (2014)
   
 Academic service
 ======
 * Peer reviewer: 
-  * Nature Catalysis
-  * Chemistry of Materials
-  * RSC Advances
+  * Nature Catalysis, Chemistry of Materials, RSC Advances
 * Developer
   * The Materials Project (32 commits, 16,830 additions, 617 deletions)
 * Research Mentor
