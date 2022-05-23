@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+<style>body {text-align: justify}</style>
 
 Theoretical calculation tools and high throughput screening methods have played an irreplaceable role in materials chemistry research. By using multiscale and high throughput calculation methods, my research mainly focuses on the key scientific problems related to the interface interaction in energy storage materials.
  
