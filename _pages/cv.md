@@ -20,8 +20,8 @@ redirect_from:
   * Graduate student researcher in [Prof. Kristin A. Persson](https://perssongroup.lbl.gov/) research group (2016 - 2021)
 
 * Tsinghua University
-  * Master’s student in [Prof. Qiang Zhang](https://www.qianggroup.com/) (张强) research group (2014 - 2016)
-  * Undergraduate graduation project in [Prof. Qiang Zhang](https://www.qianggroup.com/) (张强) and [Prof. Qiang Cai](https://www.mse.tsinghua.edu.cn/info/1024/1650.htm) (蔡强) groups (2013 - 2014)
+  * Master’s student in [Prof. Qiang Zhang](https://www.qianggroup.com/wp/en/home/) (张强) research group (2014 - 2016)
+  * Undergraduate graduation project in [Prof. Qiang Zhang](https://www.qianggroup.com/wp/en/home/) (张强) and [Prof. Qiang Cai](https://www.mse.tsinghua.edu.cn/info/1024/1650.htm) (蔡强) groups (2013 - 2014)
   * Undergraduate Student Research Training program in [Prof. Xiumei Wang](https://www.mse.tsinghua.edu.cn/info/1024/1601.htm) (王秀梅) research group (2012 - 2013)
 
 ## Honors and Awards
