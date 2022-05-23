@@ -46,6 +46,6 @@ author_profile: true
 (1) Peng, H.-J.; **Hou, T.-Z.**; Zhang, Q.; Huang, J.-Q.; Cheng, X.-B.; Guo, M.-Q.; Yuan, Z.; He, L.-Y.; Wei, F. Strongly Coupled Interfaces between a Heterogeneous Carbon Host and a Sulfur-Containing Guest for Highly Stable Lithium–Sulfur Batteries: Mechanistic Insight into Capacity Degradation. *Adv. Mater. Interfaces* **2014,** *1*, 1400227. [[doi](https://doi.org/10.1002/admi.201400227){:target="_blank"}] [[pdf](https://tingzhenghou.github.io/files/papers/AMI.pdf){:target="_blank"}]
 
 
-{% if site.scholar_link == true %}
-  You can also find my full publications on <u><a href="{{author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</u>
+{% if site.scholar_link %}
+  You can also find my full publications on <u><a href="{{site.scholar_link}}" target="_blank">Google Scholar</a>.</u>
 {% endif %}
