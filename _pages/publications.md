@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 (20) **Hou, T.**<sup>‡</sup>; Xu, W.<sup>‡</sup>; Pei, X.; Jiang, L.; Yaghi, O. M.; Persson, K. A. Conduction Mechanism and Design of Metal–Organic Frameworks Based Quasi-Solid-State Electrolytes. *J. Am. Chem. Soc.*, Revised.
 
 (19) Spotte-Smith, E. W. C.; Kam, R. L.; Barter, D.; Xie, X.; **Hou, T.**; Dwaraknath, S.; Blau, S. M.; Persson, K. A. Toward a Mechanistic Model of Solid–Electrolyte Interphase Formation and Evolution in Lithium-Ion Batteries. *ACS Energy Lett.* **2022,** *7*, 1446-1453. [[doi](https://doi.org/10.1021/acsenergylett.2c00517)] [[pdf](https://tingzhenghou.github.io/files/papers/ACSEL-2022-kMC.pdf)] 
@@ -49,3 +45,7 @@ author_profile: true
 
 (1) Peng, H.-J.; **Hou, T.-Z.**; Zhang, Q.; Huang, J.-Q.; Cheng, X.-B.; Guo, M.-Q.; Yuan, Z.; He, L.-Y.; Wei, F. Strongly Coupled Interfaces between a Heterogeneous Carbon Host and a Sulfur-Containing Guest for Highly Stable Lithium–Sulfur Batteries: Mechanistic Insight into Capacity Degradation. *Adv. Mater. Interfaces* **2014,** *1*, 1400227. [[doi](https://doi.org/10.1002/admi.201400227)] [[pdf](https://tingzhenghou.github.io/files/papers/AMI.pdf)]
 
+
+{% if site.scholar_link == true %}
+  You can also find my full publications on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
