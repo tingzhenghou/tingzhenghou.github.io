@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="text-align: right">
+<div style="text-align: justify">
 Theoretical calculation tools and high throughput screening methods have played an irreplaceable role in materials chemistry research. By using multiscale and high throughput calculation methods, my research mainly focuses on the key scientific problems related to the interfacial interactions and reactions in energy storage materials.
  
 ## Interfacial Interactions in Li–S Battery Cathodes
