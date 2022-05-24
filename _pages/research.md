@@ -28,3 +28,9 @@ There is intense interest in developing new anode materials that store a higher 
 <div style="text-align: justify">
 Details.
 </div>
+
+## Modeling and Design of Novel Solid-State Electrolytes
+
+<div style="text-align: justify">
+Solid-state electrolytes (SSEs) with high mechanical strength and ionic conductivity are anticipated to revolutionize the energy storage industry. This is due to their significant contributions to improved safety, low-temperature performance and volumetric energy density as compared to conventional liquid electrolytes. However, the detailed ionic transport mechanisms, and how exactly the anionic species and solvent molecules cooperatively facilitate the Li<sup>+</sup> diffusion are still unclear. I use molecular dynamics simulations in combination with quantum chemistry and grand canonical Monte Carlo to study the ionic conduction mechanism of SSEs at the atomistic level, which is challenging to obtain from experimental measurements. The aim of this work is to develop accurate theoretical models that can predict and optimize the Li<sup>+</sup> transport properties in SSEs, and to provide guidance for experimental efforts on possible improvements. I am currently focusing on modeling a particular type of SSEs based on anionic metal–organic frameworks (MOFs) to understand the critical role of the mixing solvent in Li<sup>+</sup> conduction.
+</div>
