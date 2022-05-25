@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <div style="text-align: justify">
-Theoretical calculation tools have played an irreplaceable role in materials research. By using multiscale and high throughput calculation methods, my research mainly focuses on the key scientific problems related to the interfacial interactions and reactions in energy storage materials.
+Theoretical calculation tools have played an irreplaceable role in materials research. By using multiscale and high-throughput calculation methods, my research mainly focuses on the key scientific problems related to the interfacial interactions and reactions in energy storage materials.
 </div>
  
 ## Interfacial Interactions in Lithium–Sulfur Battery Cathodes
