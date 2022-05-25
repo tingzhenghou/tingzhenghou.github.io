@@ -7,16 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
 img.res {
     float: right;
     width: 60%;
 }
-
 @media screen and (max-width: 800px) and (orientation:landscape), screen and (max-height: 300px) {
     img.res {
         width: 100%;
     }
 }
+</style>
 
 <div style="text-align: justify">
 Theoretical calculation tools have played an irreplaceable role in materials research. By using multiscale and high-throughput calculation methods, my research mainly focuses on the key scientific problems related to the interfacial interactions and reactions in energy storage materials.
