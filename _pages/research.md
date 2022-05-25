@@ -14,8 +14,10 @@ Theoretical calculation tools have played an irreplaceable role in materials res
 ## Interfacial Interactions in Lithium–Sulfur Battery Cathodes
 
 <div style="text-align: justify">
-<img src="/images/resLiS.jpg" alt="Li bond vs H bond" style="align:right;width:60%;hspace:5;vspace:5"/>
+<img src="/images/resLiS.jpg" alt="Li bond vs H bond" style="float:right;width:60%" hspace="50" vspace="50"/>
+<p>
 The lithium–sulfur battery is a promising high-energy-density storage system. One of the major issues hindering its practical application is the solvation and diffusion of lithium polysulfide intermediates, which in combination with the subsequent paradox reactions is known as the shuttle effect. One widely investigated approach to suppress the shuttle effect is to anchor these intermediates using heteroatom-doped nanocarbon. However, the understanding of the related mechanism is still deficient. I use density functional theory (DFT) to model the interactions between various heteroatoms-doped nanocarbon materials and lithium polysulfides, and propose design rules for the doped carbon. Using the theoretical framework, I systematically quantify the binding energy between nitrogen-, oxygen-, boron-, fluorine-, sulfur-, phosphorous-, and chloride-doped graphene nanoribbons and lithium polysulfides, and its relationship with the electronegativity of the dopants. To further explain the calculated strong dipole–dipole interactions between electron-rich dopants (e.g., pyridinic nitrogen) and polysulfides, I apply the lithium bond theory to reveal the electrostatic origin. In close collaboration with experimentalists, I work on the identification of the lithium bond in lithium–sulfur batteries using quantum chemistry and <sup>7</sup>Li nuclear magnetic resonance (NMR) spectroscopy. This direct comparison between the theatrical predictions and experimental observations enables the development of a quantitative descriptor for the lithium bond strength, which further severs as a predictor of the corresponding electrochemical performance. This work highlights the importance of lithium bond chemistry in regulating the interfacial interactions in lithium–sulfur cathodes, which is helpful for the rational design and practical applications of lithium–sulfur batteries.
+</p>
 </div>
 
 ## Additives for Lithium-Ion Battery Electrolytes
