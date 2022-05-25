@@ -31,7 +31,7 @@ There is intense interest in developing new anode materials that store a higher 
 <div style="text-align: justify">
 Despite the extensive employment of electrolytes with mixed solvents, ions and additives, the role of each ingredient with regards to the solvation structure, transport properties, and reduction behavior is not fully understood. Without a clear comprehension of the intrinsic chemistry, conventional Edisonian approach for electrolyte development has been inefficient, impeding the demanding application of high-capacity energy storage systems. Hence, there is a pressing need to develop a coherent computational framework that can evaluate or predict the key properties of electrolytes. My colleagues and I work on the development of high-throughput infrastructure to automate the force field generation, file and database I/O, job management, and results analysis of molecular dynamics simulations of electrolyte systems. The workflows have been applied to obtain energy-storage relevant properties of a class of lithium-ion battery electrolytes consisting of binary/ternary-mixed carbonates. The continued development and iteration of the infrastructure will aid in screening optimal electrolytes in terms of composition, mass ratio, and concentration for specific battery applications.
 </div>
-<img src="/images/resGen2new.png" alt="High-throughput MD" style="width:60%;"/>
+<img src="/images/resHTMD.png" alt="High-throughput MD" style="width:60%;"/>
 
 ## Modeling and Design of Novel Solid-State Electrolytes
 
