@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tingzheng Hou"
 title_separator          : "-"
-name                     : &name "Tingzheng Hou, Ph.D."
+name                     : &name "Tingzheng Hou, Ph.D"
 description              : &description "Postdoctoral Scholar at the University of California, Berkeley"
 url                      : https://tingzhenghou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
