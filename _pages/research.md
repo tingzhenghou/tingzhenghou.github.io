@@ -15,7 +15,7 @@ author_profile: true
         float: right;
         width: 60%;
     }
-    @media screen and (max-width: 800px) and (orientation:landscape) {
+    @media only screen and (max-width: 800px) and (orientation:portrait) {
         .res {
             width: 100%;
         }
