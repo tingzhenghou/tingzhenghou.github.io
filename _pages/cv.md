@@ -38,3 +38,10 @@ redirect_from:
   * [The Materials Project](https://materialsproject.org/about){:target="_blank"}
 * Research Mentor
   * [Xiang Chen](https://scholar.google.co.jp/citations?user=q44q6B0AAAAJ){:target="_blank"}, Tsinghua University
+
+<script src="/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: '#ddd',
+  textColor: '#003262'
+})</script>

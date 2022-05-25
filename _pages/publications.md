@@ -49,3 +49,10 @@ author_profile: true
 {% if site.scholar_link %}
   You can also find my full publications on <a href="{{site.scholar_link}}" target="_blank">Google Scholar</a>.
 {% endif %}
+
+<script src="/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: '#ddd',
+  textColor: '#003262'
+})</script>
