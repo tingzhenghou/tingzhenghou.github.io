@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 
 <style>
-img.res {
+.res {
     float: right;
     width: 60%;
 }
-@media screen and (max-width: 800px) and (orientation:landscape), screen and (max-height: 300px) {
-    img.res {
+@media screen and (max-width: 800px) and (orientation:landscape) {
+    .res {
         width: 100%;
     }
 }
