@@ -62,6 +62,6 @@ Solid-state electrolytes (SSEs) with high mechanical strength and ionic conducti
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
   diameter: 56,
-  backgroundColor: 'rgb(255, 82, 82)',
-  textColor: '#fff'
+  backgroundColor: '#ddd',
+  textColor: '#003262'
 })</script>
