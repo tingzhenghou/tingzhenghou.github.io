@@ -33,7 +33,7 @@ redirect_from:
   
 ## Academic service
 * Peer reviewer: 
-  * [Nature Catalysis](https://www.nature.com/natcatal/){:target="_blank"}, [Chemistry of Materials](https://pubs.acs.org/journal/cmatex){:target="_blank"}, [Research](https://spj.sciencemag.org/journals/research/){:target="_blank"}, [RSC Advances](https://www.rsc.org/journals-books-databases/about-journals/rsc-advances/){:target="_blank"}
+  * *[Nature Catalysis](https://www.nature.com/natcatal/){:target="_blank"}*, *[Chemistry of Materials](https://pubs.acs.org/journal/cmatex){:target="_blank"}*, *[Research](https://spj.sciencemag.org/journals/research/){:target="_blank"}*, *[RSC Advances](https://www.rsc.org/journals-books-databases/about-journals/rsc-advances/){:target="_blank"}*
 * Developer
   * [The Materials Project](https://materialsproject.org/about){:target="_blank"}
 * Research Mentor
