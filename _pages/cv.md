@@ -49,6 +49,11 @@ redirect_from:
   * [Dr. Jagjit Nanda](https://www.ornl.gov/staff-profile/jagjit-nanda)@ORNL
 * China:
   * [Prof. Jia-Qi Huang](https://arims.bit.edu.cn/xztd/jsml/js/0e91766ff8234c34ab1f6a5f420b87da.htm)@BIT
+  * [Prof. Bo Li](http://sourcedb.imr.cas.cn/zw/rck/fyjy_imr/201408/t20140821_4189339.html)@IMR CAS
+  * [Dr. Cheng Tang](https://researchers.adelaide.edu.au/profile/cheng.tang)@Tsinghua
+  * [Prof. Hongjie Peng](https://faculty.uestc.edu.cn/penghongjie/en/index.htm)@UESTC
+  * [Prof. Xin-Bing Cheng](https://power.seu.edu.cn/cxb/list.htm)@SEU
+  * [Prof. Bo-Quang Li](https://arims.bit.edu.cn/xztd/jsml/js/0acf6c0d816640679df4a302568e444f.htm)@BIT
 
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
