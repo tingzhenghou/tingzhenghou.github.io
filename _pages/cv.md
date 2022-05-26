@@ -41,11 +41,14 @@ redirect_from:
 
 ## Collaborators
 * United States:
-[Prof. Omar M. Yaghi](https://chemistry.berkeley.edu/faculty/chem/yaghi)@UCB, [Prof. Jie Yao](https://mse.berkeley.edu/people_new/yao/)@UCB, [Dr. Gao Liu](https://eta.lbl.gov/people/gao-liu)@LBNL, [Dr. Zhengcheng Zhang](https://www.anl.gov/profile/zhengcheng-zhang)@ANL, [Dr. Nathan R. Neale](https://www.nrel.gov/research/staff/nathan-neale.html)@NREL, [Dr. Jagjit Nanda](https://www.ornl.gov/staff-profile/jagjit-nanda)@ORNL
+
+[Prof. Omar M. Yaghi@UCB](https://chemistry.berkeley.edu/faculty/chem/yaghi), [Prof. Jie Yao@UCB](https://mse.berkeley.edu/people_new/yao/), [Dr. Gao Liu@LBNL](https://eta.lbl.gov/people/gao-liu), [Dr. Zhengcheng Zhang@ANL](https://www.anl.gov/profile/zhengcheng-zhang), [Dr. Nathan R. Neale@NREL](https://www.nrel.gov/research/staff/nathan-neale.html), [Dr. Jagjit Nanda@ORNL](https://www.ornl.gov/staff-profile/jagjit-nanda)
 * China:
-[Prof. Fei Wei](https://www.chemeng.tsinghua.edu.cn/info/1094/2395.htm)@Tsinghua, [Prof. Jia-Qi Huang](https://arims.bit.edu.cn/xztd/jsml/js/0e91766ff8234c34ab1f6a5f420b87da.htm)@BIT, [Prof. Bo Li](http://sourcedb.imr.cas.cn/zw/rck/fyjy_imr/201408/t20140821_4189339.html)@IMR CAS, [Prof. Hongjie Peng](https://faculty.uestc.edu.cn/penghongjie/en/index.htm)@UESTC, [Prof. Xin-Bing Cheng](https://power.seu.edu.cn/cxb/list.htm)@SEU, [Prof. Bo-Quang Li](https://arims.bit.edu.cn/xztd/jsml/js/0acf6c0d816640679df4a302568e444f.htm)@BIT
-* Australia
-[Dr. Cheng Tang](https://researchers.adelaide.edu.au/profile/cheng.tang)@Adelaide
+
+[Prof. Fei Wei@Tsinghua](https://www.chemeng.tsinghua.edu.cn/info/1094/2395.htm), [Prof. Jia-Qi Huang@BIT](https://arims.bit.edu.cn/xztd/jsml/js/0e91766ff8234c34ab1f6a5f420b87da.htm), [Prof. Bo Li@IMR CAS](http://sourcedb.imr.cas.cn/zw/rck/fyjy_imr/201408/t20140821_4189339.html), [Prof. Hongjie Peng@UESTC](https://faculty.uestc.edu.cn/penghongjie/en/index.htm), [Prof. Xin-Bing Cheng@SEU](https://power.seu.edu.cn/cxb/list.htm), [Prof. Bo-Quang Li@BIT](https://arims.bit.edu.cn/xztd/jsml/js/0acf6c0d816640679df4a302568e444f.htm)
+* Australia:
+
+[Dr. Cheng Tang@Adelaide](https://researchers.adelaide.edu.au/profile/cheng.tang)
 
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
