@@ -41,21 +41,11 @@ redirect_from:
 
 ## Collaborators
 * United States:
-  * [Prof. Omar M. Yaghi](https://chemistry.berkeley.edu/faculty/chem/yaghi)@UCB
-  * [Prof. Jie Yao](https://mse.berkeley.edu/people_new/yao/)@UCB
-  * [Dr. Gao Liu](https://eta.lbl.gov/people/gao-liu)@LBNL
-  * [Dr. Zhengcheng Zhang](https://www.anl.gov/profile/zhengcheng-zhang)@ANL
-  * [Dr. Nathan R. Neale](https://www.nrel.gov/research/staff/nathan-neale.html)@NREL
-  * [Dr. Jagjit Nanda](https://www.ornl.gov/staff-profile/jagjit-nanda)@ORNL
+[Prof. Omar M. Yaghi](https://chemistry.berkeley.edu/faculty/chem/yaghi)@UCB, [Prof. Jie Yao](https://mse.berkeley.edu/people_new/yao/)@UCB, [Dr. Gao Liu](https://eta.lbl.gov/people/gao-liu)@LBNL, [Dr. Zhengcheng Zhang](https://www.anl.gov/profile/zhengcheng-zhang)@ANL, [Dr. Nathan R. Neale](https://www.nrel.gov/research/staff/nathan-neale.html)@NREL, [Dr. Jagjit Nanda](https://www.ornl.gov/staff-profile/jagjit-nanda)@ORNL
 * China:
-  * [Prof. Fei Wei](https://www.chemeng.tsinghua.edu.cn/info/1094/2395.htm)@Tsinghua
-  * [Prof. Jia-Qi Huang](https://arims.bit.edu.cn/xztd/jsml/js/0e91766ff8234c34ab1f6a5f420b87da.htm)@BIT
-  * [Prof. Bo Li](http://sourcedb.imr.cas.cn/zw/rck/fyjy_imr/201408/t20140821_4189339.html)@IMR CAS
-  * [Prof. Hongjie Peng](https://faculty.uestc.edu.cn/penghongjie/en/index.htm)@UESTC
-  * [Prof. Xin-Bing Cheng](https://power.seu.edu.cn/cxb/list.htm)@SEU
-  * [Prof. Bo-Quang Li](https://arims.bit.edu.cn/xztd/jsml/js/0acf6c0d816640679df4a302568e444f.htm)@BIT
+[Prof. Fei Wei](https://www.chemeng.tsinghua.edu.cn/info/1094/2395.htm)@Tsinghua, [Prof. Jia-Qi Huang](https://arims.bit.edu.cn/xztd/jsml/js/0e91766ff8234c34ab1f6a5f420b87da.htm)@BIT, [Prof. Bo Li](http://sourcedb.imr.cas.cn/zw/rck/fyjy_imr/201408/t20140821_4189339.html)@IMR CAS, [Prof. Hongjie Peng](https://faculty.uestc.edu.cn/penghongjie/en/index.htm)@UESTC, [Prof. Xin-Bing Cheng](https://power.seu.edu.cn/cxb/list.htm)@SEU, [Prof. Bo-Quang Li](https://arims.bit.edu.cn/xztd/jsml/js/0acf6c0d816640679df4a302568e444f.htm)@BIT
 * Australia
-  * [Dr. Cheng Tang](https://researchers.adelaide.edu.au/profile/cheng.tang)@Adelaide
+[Dr. Cheng Tang](https://researchers.adelaide.edu.au/profile/cheng.tang)@Adelaide
 
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
