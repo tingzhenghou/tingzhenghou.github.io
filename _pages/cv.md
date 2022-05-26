@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Materials Science and Engineering, University of California, Berkeley (2021)
+* Ph.D. in Materials Science and Engineering, University of California, Berkeley (2021)
 * M.S. in Chemical Engineering, Tsinghua University (2016)
 * B.S. in Materials Science and Engineering, Tsinghua University (2014)
 
