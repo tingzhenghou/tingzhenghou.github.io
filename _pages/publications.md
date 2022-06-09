@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(20) **Hou, T.**<sup>‡</sup>; Xu, W.<sup>‡</sup>; Pei, X.; Jiang, L.; Yaghi, O. M.; Persson, K. A. Ionic Conduction Mechanism and Design of Metal–Organic Frameworks Based Quasi-Solid-State Electrolytes. *J. Am. Chem. Soc.*, DOI: 10.1021/jacs.2c03710. [[doi](https://doi.org/10.1021/jacs.2c03710){:target="_blank"}]
+(20) **Hou, T.**<sup>‡</sup>; Xu, W.<sup>‡</sup>; Pei, X.; Jiang, L.; Yaghi, O. M.; Persson, K. A. Ionic Conduction Mechanism and Design of Metal–Organic Frameworks Based Quasi-Solid-State Electrolytes. *J. Am. Chem. Soc.* **2022,**, DOI: 10.1021/jacs.2c03710. [[doi](https://doi.org/10.1021/jacs.2c03710){:target="_blank"}]
 
 (19) Spotte-Smith, E. W. C.; Kam, R. L.; Barter, D.; Xie, X.; **Hou, T.**; Dwaraknath, S.; Blau, S. M.; Persson, K. A. Toward a Mechanistic Model of Solid–Electrolyte Interphase Formation and Evolution in Lithium-Ion Batteries. *ACS Energy Lett.* **2022,** *7*, 1446-1453. [[doi](https://doi.org/10.1021/acsenergylett.2c00517){:target="_blank"}] [[pdf](https://tingzhenghou.github.io/files/papers/ACSEL-2022-kMC.pdf){:target="_blank"}]<!--CC-BY--> 
 
