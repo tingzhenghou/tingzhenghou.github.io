@@ -56,7 +56,10 @@ Despite the extensive employment of electrolytes with mixed solvents, ions, and 
 ## Modeling and Design of Novel Solid-State Electrolytes
 
 <div class="res-text">
+<img class="res" src="/images/resSSE.png" alt="MOF-based QSSE"/>
+<p>
 Solid-state electrolytes (SSEs) with high mechanical strength and ionic conductivity are anticipated to revolutionize the energy storage industry. This is due to their significant contributions to improved safety, low-temperature performance, and volumetric energy density as compared to conventional liquid electrolytes. However, the detailed ionic transport mechanisms, and how exactly the species in the SSE matrix cooperatively facilitate the cation diffusion are still unclear. I use molecular dynamics simulations as well as quantum chemistry and grand canonical Monte Carlo to study the ionic conduction mechanism of SSEs at the atomistic level, which is challenging to obtain from experimental measurements. The aim of this work is to develop accurate theoretical models that can predict and optimize the cation transport properties in SSEs, and to provide guidance for experimental efforts on possible improvements. I am currently focusing on the modeling of a particular type of SSEs based on anionic metal–organic frameworks (MOFs) to understand the roles of the anionic framewrok and the mixing solvent in the ion transport of lithium-ion batteries.
+</p>
 </div>
 
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
