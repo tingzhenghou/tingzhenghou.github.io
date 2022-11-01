@@ -15,8 +15,8 @@ redirect_from:
 * B.S. in Materials Science and Engineering, Tsinghua University (2014)
 
 ## Research experience
-* Tsinghua Shenzhen International Graduate School, Shenzhen
-  * Incoming assistant professor (2022)
+* Tsinghua Shenzhen International Graduate School, Tsinghua University
+  * Tenure-track assistant professor (2022-Present)
 
 * University of California, Berkeley
   * Postdoctoral scholar in [Prof. Kristin A. Persson](https://perssongroup.lbl.gov/){:target="_blank"} research group (2021 - 2022)
