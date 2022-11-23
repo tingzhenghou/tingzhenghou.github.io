@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(22) **Hou, T.**<sup>*</sup>; Chen, X.; Jiang, L.; Tang, C. Advances and Atomistic Insights of Electrolytes for Lithium-Ion Batteries and Beyond. *J. Electrochem.* **2022**, accepted. [[doi](https://doi.org/10.13208/j.electrochem.2219007){:target="_blank"}] 
+(22) **Hou, T.**<sup>\*</sup>; Chen, X.; Jiang, L.; Tang, C. Advances and Atomistic Insights of Electrolytes for Lithium-Ion Batteries and Beyond. *J. Electrochem.* **2022**, accepted. [[doi](https://doi.org/10.13208/j.electrochem.2219007){:target="_blank"}] 
 
 (21) **Hou, T.**<sup>‡</sup>; Xu, W.<sup>‡</sup>; Pei, X.; Jiang, L.; Yaghi, O. M.; Persson, K. A. Ionic Conduction Mechanism and Design of Metal–Organic Frameworks Based Quasi-Solid-State Electrolytes. *J. Am. Chem. Soc.* **2022**, *144*, 13446-13450. ([Front cover](https://pubs.acs.org/toc/jacsat/144/30)) [[doi](https://doi.org/10.1021/jacs.2c03710){:target="_blank"}] [[pdf](https://tingzhenghou.github.io/files/papers/JACS-2022-Ionic-Conduction.pdf){:target="_blank"}]<!--CC BY--> 
 
