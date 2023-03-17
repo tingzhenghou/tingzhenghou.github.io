@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(23) **Hou, T.**\*; Xu, W\*. Deep dive into anionic metal–organic frameworks based quasi-solid-state electrolytes. *J. Energy Chem.* **2022**, accepted.
+(23) **Hou, T.**\*; Xu, W\*. Deep dive into anionic metal–organic frameworks based quasi-solid-state electrolytes. *J. Energy Chem.* **2023**, In Press. [[doi](https://doi.org/10.1016/j.jechem.2023.02.048){:target="_blank"}]
 
 (22) **Hou, T.**\*; Chen, X.; Jiang, L.; Tang, C. Advances and Atomistic Insights of Electrolytes for Lithium-Ion Batteries and Beyond. *J. Electrochem.* **2022**, *28*, 2219007. [[doi](https://doi.org/10.13208/j.electrochem.2219007){:target="_blank"}] [[pdf](https://tingzhenghou.github.io/files/papers/JoE-2022.pdf){:target="_blank"}]
 
