@@ -32,6 +32,7 @@ Prof. Tingzheng Hou
 
 <p>
 Shendong Tan (Ph.D. student, 0th year)
+
 Junhong Liao (Master's student, 1st year)
 </p>
 
