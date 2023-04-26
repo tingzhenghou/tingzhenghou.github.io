@@ -32,8 +32,6 @@ author_profile: true
 * Junhong Liao (Master's student, 1st year)
 
 
-## Master's students
-
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
   diameter: 56,
