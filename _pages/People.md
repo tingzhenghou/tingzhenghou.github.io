@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "People"
+permalink: /people/
 author_profile: true
 ---
 
@@ -21,10 +21,6 @@ author_profile: true
         }
     }
 </style>
-
-<div class="res-text">
-Theoretical calculation tools have played an irreplaceable role in materials research. By using multiscale and high-throughput calculation methods, my research mainly focuses on the key scientific problems related to the interfacial interactions and reactions in energy storage materials.
-</div>
  
 ## Principal Investigator
 

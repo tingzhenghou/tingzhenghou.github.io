@@ -12,4 +12,4 @@ I am Tingzheng Hou (侯廷政), an assistant professor in Institue of Materials 
 
 My research interests include the computational modeling and rational design of novel energy storage materials, the development of high throughput computational infrastructures, and the application of artificial intelligence in materials science. I have authored or co-authored 24 refereed research papers with a total citation over 6,000. I am an invited peer reviewer for *Nature Catalysis*, *Journal of the American Chemical Society*, *Advanced Functional Materials*, *Chemistry of Materials*, *Research*, *RSC Advances*, *Chinese Chemical Letters*, etc.
 
-The lab has openings for postdoctoral researchers and graduate students.
+See details of lab openings [here](https://tingzhenghou.github.io/openings/).
