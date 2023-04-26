@@ -24,17 +24,13 @@ author_profile: true
  
 ## Principal Investigator
 
-<p>
-Prof. Tingzheng Hou
-</p>
+* Prof. Tingzheng Hou
 
 ## Graduate students
 
-<p>
-Shendong Tan (Ph.D. student, 0th year)
+* Shendong Tan (Ph.D. student, 0th year)
+* Junhong Liao (Master's student, 1st year)
 
-Junhong Liao (Master's student, 1st year)
-</p>
 
 ## Master's students
 
