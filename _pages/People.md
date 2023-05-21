@@ -28,8 +28,8 @@ author_profile: true
 
 ## Graduate students
 
-* Shendong Tan (Ph.D. student, 0th year)
-* Junhong Liao (Master's student, 1st year)
+* Shendong Tan (Incoming Ph.D. student)
+* Junhong Liao (1st year Master's student, co-advised by Prof. Shixi Zhao)
 
 
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
