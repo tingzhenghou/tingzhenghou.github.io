@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(26) Mi, J.; Chen, L.; Ma, J.; Yang, K.; **Hou, T.**; Liu, M.; Lv, W.; He, Y.-B. Defect Strategy in Solid‐State Lithium Batteries. *Small Methods* **2023**, 2301162. [[doi](https://doi.org/10.1002/smtd.202301162){:target="_blank"}]
+
 (25) Yao, N.; Yu, L.; Fu, Z.-H.; Shen, X.; **Hou, T.-Z.**; Liu, X.; Gao, Y.-C.; Zhang, R.; Zhao, C.-Z.; Chen, X.; Zhang, Q. Probing the Origin of Viscosity of Liquid Electrolytes for Lithium Batteries. *Angew. Chem. Int. Ed.* **2023**, e202305331. [[doi](https://doi.org/10.1002/anie.202305331){:target="_blank"}]
 
 (24) Cohen, O. A.; Macdermott-Opeskin, H.; Lee, L.; **Hou, T.**; Fong, K. D.; Kingsbury R.; Wang, J.; Persson, K. A. SolvationAnalysis: A Python toolkit for understanding liquid solvation structure in classical molecular dynamics simulations. *J. Open Source Softw.* **2023**, *8*, 5183. [[doi](https://doi.org/10.21105/joss.05183){:target="_blank"}] [[pdf](https://joss.theoj.org/papers/10.21105/joss.05183.pdf){:target="_blank"}]
