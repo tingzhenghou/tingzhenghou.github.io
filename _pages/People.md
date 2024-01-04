@@ -30,7 +30,7 @@ author_profile: true
 
 ## Postdoctoral Fellows
 
-* Hao Chen (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)
+* Dr. Hao Chen (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)
 
 ## PhD students
 
