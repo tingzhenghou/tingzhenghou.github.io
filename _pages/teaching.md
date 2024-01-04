@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+* Tsinghua Shenzhen International Graduate School
+  * Techniques in Computational Materials Science, Instructor (Spring 2024)
+  * Materials Genome Engineering and Large-scale Research Facilities, Instructor (Spring 2024)
+  * Introduction of physics chemistry disciplines, Guest Instructor (Fall 2023)
+
 * University of California, Berkeley
   * [MSE 130: Experimental Materials Science and Design](https://mse.berkeley.edu/courses/){:target="_blank"}, Graduate Student Instructor (Fall 2020)
 
