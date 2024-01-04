@@ -21,6 +21,8 @@ author_profile: true
         }
     }
 </style>
+
+<img src="/images/groupphoto1.jpg"/>
  
 ## Principal Investigator
 
