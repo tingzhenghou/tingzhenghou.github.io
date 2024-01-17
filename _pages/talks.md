@@ -4,6 +4,10 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+### 2024
+
+* **Hou, T.** Atomistic insights and rational design of electrolyte materials. Invited talk, School of Chemistry and Chemical Engineering, Sun Yat-sen University, Guangzhou. (Jan. 2023)
+
 ### 2023
 
 * **Hou, T.** Ionic conduction mechanism and design of metal–organic framework based quasi-solid-state electrolytes. Invited talk, The 1st World Energy Materials Conference, Shenzhen. (Nov. 2023)
