@@ -28,6 +28,7 @@ redirect_from:
   * Undergraduate Student Research Training program in [Prof. Xiumei Wang](https://www.mse.tsinghua.edu.cn/info/1024/1601.htm){:target="_blank"} (王秀梅) research group (2012 - 2013)
 
 ## Honors and Awards
+* Chinese Government Award for Outstanding Self-financed Students Abroad (2022)
 * First-class Award of Natural Science, China Ministry of Education (2019)
 *	China Top Cited Author Award, IOP Publishing (2018)
 *	Mitsui Chemicals Graduate Scholarship, Tsinghua University (2015)
