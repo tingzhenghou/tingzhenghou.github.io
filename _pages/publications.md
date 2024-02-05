@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### 2024
 
-(27) Liu, H.; Yan, T.; Tan, S.; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.; Liu, B. Observation on microenvironment changes of dynamic catalysts in acidic CO2 reduction. *J. Am. Chem. Soc.* **2024**, accepted.
+(27) Liu, H.; Yan, T.; Tan, S.; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.; Liu, B. Observation on microenvironment changes of dynamic catalysts in acidic CO<sub>2</sub> reduction. *J. Am. Chem. Soc.* **2024**, accepted.
 
 ### 2023
 
