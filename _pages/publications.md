@@ -6,11 +6,11 @@ author_profile: true
 ---
 ### 2024
 
-(27) Liu, H.; Yan, T.; Tan, S.; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.; Liu, B. Observation on microenvironment changes of dynamic catalysts in acidic CO<sub>2</sub> reduction. *J. Am. Chem. Soc.* **2024**, accepted.
+(27) Liu, H.; Yan, T.; Tan, S.; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.; Liu, B. Observation on microenvironment changes of dynamic catalysts in acidic CO<sub>2</sub> reduction. *J. Am. Chem. Soc.* **2024**, In press.
+
+(26) Mi, J.; Chen, L.; Ma, J.; Yang, K.; **Hou, T.**; Liu, M.; Lv, W.; He, Y.-B. Defect Strategy in Solid‐State Lithium Batteries. *Small Methods* **2024**, *8*, 2301162. [[doi](https://doi.org/10.1002/smtd.202301162){:target="_blank"}]
 
 ### 2023
-
-(26) Mi, J.; Chen, L.; Ma, J.; Yang, K.; **Hou, T.**; Liu, M.; Lv, W.; He, Y.-B. Defect Strategy in Solid‐State Lithium Batteries. *Small Methods* **2023**, 2301162. [[doi](https://doi.org/10.1002/smtd.202301162){:target="_blank"}]
 
 (25) Yao, N.; Yu, L.; Fu, Z.-H.; Shen, X.; **Hou, T.-Z.**; Liu, X.; Gao, Y.-C.; Zhang, R.; Zhao, C.-Z.; Chen, X.; Zhang, Q. Probing the Origin of Viscosity of Liquid Electrolytes for Lithium Batteries. *Angew. Chem. Int. Ed.* **2023**, e202305331. [[doi](https://doi.org/10.1002/anie.202305331){:target="_blank"}]
 
