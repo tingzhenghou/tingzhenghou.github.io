@@ -16,7 +16,7 @@ author_profile: true
 
 (24) Cohen, O. A.; Macdermott-Opeskin, H.; Lee, L.; **Hou, T.**; Fong, K. D.; Kingsbury R.; Wang, J.; Persson, K. A. SolvationAnalysis: A Python toolkit for understanding liquid solvation structure in classical molecular dynamics simulations. *J. Open Source Softw.* **2023**, *8*, 5183. [[doi](https://doi.org/10.21105/joss.05183){:target="_blank"}] [[pdf](https://joss.theoj.org/papers/10.21105/joss.05183.pdf){:target="_blank"}]
 
-(23) **Hou, T.**\*; Xu, W\*. Deep dive into anionic metal–organic frameworks based quasi-solid-state electrolytes. *J. Energy Chem.* **2023**, *81*, 313-320. [[doi](https://doi.org/10.1016/j.jechem.2023.02.048){:target="_blank"}] [[pdf](https://authors.elsevier.com/a/1gp057STUOFCM9){:target="_blank"}]
+(23) **Hou, T.**\*; Xu, W\*. Deep dive into anionic metal–organic frameworks based quasi-solid-state electrolytes. *J. Energy Chem.* **2023**, *81*, 313-320. [[doi](https://doi.org/10.1016/j.jechem.2023.02.048){:target="_blank"}]
 
 ### 2022
 
