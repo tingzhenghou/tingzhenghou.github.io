@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### 2024
 
-(27) Liu, H.; Yan, T.; Tan, S.; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.; Liu, B. Observation on microenvironment changes of dynamic catalysts in acidic CO<sub>2</sub> reduction. *J. Am. Chem. Soc.* **2024**, doi: 10.1021/jacs.3c12321. [[doi](https://pubs.acs.org/doi/abs/10.1021/jacs.3c12321){:target="_blank"}]
+(27) Liu, H.; Yan, T.; Tan, S.; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.; Liu, B. Observation on microenvironment changes of dynamic catalysts in acidic CO<sub>2</sub> reduction. *J. Am. Chem. Soc.* **2024**, *146*, 5333–5342. [[doi](https://pubs.acs.org/doi/abs/10.1021/jacs.3c12321){:target="_blank"}]
 
 (26) Mi, J.; Chen, L.; Ma, J.; Yang, K.; **Hou, T.**; Liu, M.; Lv, W.; He, Y.-B. Defect Strategy in Solid‐State Lithium Batteries. *Small Methods* **2024**, *8*, 2301162. [[doi](https://doi.org/10.1002/smtd.202301162){:target="_blank"}]
 
@@ -16,7 +16,7 @@ author_profile: true
 
 (24) Cohen, O. A.; Macdermott-Opeskin, H.; Lee, L.; **Hou, T.**; Fong, K. D.; Kingsbury R.; Wang, J.; Persson, K. A. SolvationAnalysis: A Python toolkit for understanding liquid solvation structure in classical molecular dynamics simulations. *J. Open Source Softw.* **2023**, *8*, 5183. [[doi](https://doi.org/10.21105/joss.05183){:target="_blank"}] [[pdf](https://joss.theoj.org/papers/10.21105/joss.05183.pdf){:target="_blank"}]
 
-(23) **Hou, T.**\*; Xu, W\*. Deep dive into anionic metal–organic frameworks based quasi-solid-state electrolytes. *J. Energy Chem.* **2023**, *81*, 313-320. [[doi](https://doi.org/10.1016/j.jechem.2023.02.048){:target="_blank"}]
+(23) **Hou, T.**\*; Xu, W. Deep dive into anionic metal–organic frameworks based quasi-solid-state electrolytes. *J. Energy Chem.* **2023**, *81*, 313-320. [[doi](https://doi.org/10.1016/j.jechem.2023.02.048){:target="_blank"}]
 
 ### 2022
 
