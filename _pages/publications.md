@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### 2024
 
-(28) Zhu, Y.; Lao, Z.; Zhang, M.; **Hou, T.**\*; Xiao, X.; Piao, Z.; Lu, G.; Han, Z.; Gao, R.; Nie, L.; Wu, X.; Song, Y.; Ji, C.; Wang, J.; Zhou, G.\* A locally solvent-tethered polymer electrolyte for ultra-long-life lithium metal batteries. *Nat. Commun.* **2024**, in revision.
+(28) Zhu, Y.; Lao, Z.; Zhang, M.; **Hou, T.**\*; Xiao, X.; Piao, Z.; Lu, G.; Han, Z.; Gao, R.; Nie, L.; Wu, X.; Song, Y.; Ji, C.; Wang, J.; Zhou, G.\* A locally solvent-tethered polymer electrolyte for ultra-long-life lithium metal batteries. *Nat. Commun.* **2024**, accepted in principle.
 
 (27) Liu, H.; Yan, T.; Tan, S.; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.\*; Liu, B.\* Observation on microenvironment changes of dynamic catalysts in acidic CO<sub>2</sub> reduction. *J. Am. Chem. Soc.* **2024**, *146*, 5333–5342. [[doi](https://pubs.acs.org/doi/abs/10.1021/jacs.3c12321){:target="_blank"}]
 
