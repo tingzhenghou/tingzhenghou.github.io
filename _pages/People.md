@@ -50,6 +50,7 @@ author_profile: true
 
 * Bochun Liang (2nd year PhD student from City University of Hong Kong)
 
+<img src="/images/groupphoto2.jpg"/>
 
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
