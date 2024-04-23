@@ -6,9 +6,11 @@ author_profile: true
 ---
 ### 2024
 
-(28) Zhu, Y.; Lao, Z.; Zhang, M.; **Hou, T.**\*; Xiao, X.; Piao, Z.; Lu, G.; Han, Z.; Gao, R.; Nie, L.; Wu, X.; Song, Y.; Ji, C.; Wang, J.; Zhou, G.\* A locally solvent-tethered polymer electrolyte for ultra-long-life lithium metal batteries. *Nat. Commun.* **2024**, accepted in principle.
+(29) Guo, S.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ma, J.; Chen, L.; Yang, K.; Zhu, Q.; Ma, Y.; Shi, P.; Wei, Y.; An, X.; Ren, Q.; Huang, Y.; Zhu, Y.; Cheng, Y.; Lv, W.; **Hou, T.**\*; Liu, M.\*; He, Y.\*; Yang, Q.; Kang, F.\* Dissociation mechanism of lithium salt by BaTiO3 with spontaneous polarization. *Energy Environ. Sci.* **2024**, accepted.
 
-(27) Liu, H.; Yan, T.; Tan, S.; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.\*; Liu, B.\* Observation on microenvironment changes of dynamic catalysts in acidic CO<sub>2</sub> reduction. *J. Am. Chem. Soc.* **2024**, *146*, 5333–5342. [[doi](https://pubs.acs.org/doi/abs/10.1021/jacs.3c12321){:target="_blank"}]
+(28) Zhu, Y.<sup>‡</sup>; Lao, Z.<sup>‡</sup>; Zhang, M.<sup>‡</sup>; **Hou, T.**\*; Xiao, X.; Piao, Z.; Lu, G.; Han, Z.; Gao, R.; Nie, L.; Wu, X.; Song, Y.; Ji, C.; Wang, J.; Zhou, G.\* A locally solvent-tethered polymer electrolyte for ultra-long-life lithium metal batteries. *Nat. Commun.* **2024**, accepted.
+
+(27) Liu, H.<sup>‡</sup>; Yan, T.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.\*; Liu, B.\* Observation on microenvironment changes of dynamic catalysts in acidic CO<sub>2</sub> reduction. *J. Am. Chem. Soc.* **2024**, *146*, 5333–5342. [[doi](https://pubs.acs.org/doi/abs/10.1021/jacs.3c12321){:target="_blank"}]
 
 (26) Mi, J.; Chen, L.; Ma, J.; Yang, K.; **Hou, T.**; Liu, M.\*; Lv, W.; He, Y.-B.\* Defect Strategy in Solid‐State Lithium Batteries. *Small Methods* **2024**, *8*, 2301162. [[doi](https://doi.org/10.1002/smtd.202301162){:target="_blank"}]
 
