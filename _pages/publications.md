@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### 2024
 
-(29) Guo, S.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ma, J.; Chen, L.; Yang, K.; Zhu, Q.; Ma, Y.; Shi, P.; Wei, Y.; An, X.; Ren, Q.; Huang, Y.; Zhu, Y.; Cheng, Y.; Lv, W.; **Hou, T.**\*; Liu, M.\*; He, Y.\*; Yang, Q.; Kang, F.\* Dissociation mechanism of lithium salt by BaTiO3 with spontaneous polarization. *Energy Environ. Sci.* **2024**, accepted.
+(29) Guo, S.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ma, J.; Chen, L.; Yang, K.; Zhu, Q.; Ma, Y.; Shi, P.; Wei, Y.; An, X.; Ren, Q.; Huang, Y.; Zhu, Y.; Cheng, Y.; Lv, W.; **Hou, T.**\*; Liu, M.\*; He, Y.\*; Yang, Q.; Kang, F.\* Dissociation mechanism of lithium salt by BaTiO3 with spontaneous polarization. *Energy Environ. Sci.* **2024**, accepted. [[doi](https://doi.org/10.1039/D4EE00798K){:target="_blank"}]
 
 (28) Zhu, Y.<sup>‡</sup>; Lao, Z.<sup>‡</sup>; Zhang, M.<sup>‡</sup>; **Hou, T.**\*; Xiao, X.; Piao, Z.; Lu, G.; Han, Z.; Gao, R.; Nie, L.; Wu, X.; Song, Y.; Ji, C.; Wang, J.; Zhou, G.\* A locally solvent-tethered polymer electrolyte for ultra-long-life lithium metal batteries. *Nat. Commun.* **2024**, accepted.
 
