@@ -6,8 +6,8 @@ author_profile: true
 ---
 ### 2024
 
-* **Hou, T.** Theory and Data Driven Energy Materials Discovery. Invited talk, Symposium on 2D Materials in Decarbonization, Khalifa University, Abu Dhabi. (Jan. 2023)
-* **Hou, T.** Atomistic insights and rational design of electrolyte materials. Invited talk, School of Chemistry and Chemical Engineering, Sun Yat-sen University, Guangzhou. (Jan. 2023)
+* **Hou, T.** Theory and Data Driven Energy Materials Discovery. Invited talk, Symposium on 2D Materials in Decarbonization, Khalifa University, Abu Dhabi. (Jan. 2024)
+* **Hou, T.** Atomistic insights and rational design of electrolyte materials. Invited talk, School of Chemistry and Chemical Engineering, Sun Yat-sen University, Guangzhou. (Jan. 2024)
 
 ### 2023
 
