@@ -6,9 +6,9 @@ author_profile: true
 ---
 ### 2024
 
-(29) Guo, S.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ma, J.; Chen, L.; Yang, K.; Zhu, Q.; Ma, Y.; Shi, P.; Wei, Y.; An, X.; Ren, Q.; Huang, Y.; Zhu, Y.; Cheng, Y.; Lv, W.; **Hou, T.**\*; Liu, M.\*; He, Y.\*; Yang, Q.; Kang, F.\* Dissociation mechanism of lithium salt by BaTiO3 with spontaneous polarization. *Energy Environ. Sci.* **2024**, accepted. [[doi](https://doi.org/10.1039/D4EE00798K){:target="_blank"}]
+(29) Guo, S.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ma, J.; Chen, L.; Yang, K.; Zhu, Q.; Ma, Y.; Shi, P.; Wei, Y.; An, X.; Ren, Q.; Huang, Y.; Zhu, Y.; Cheng, Y.; Lv, W.; **Hou, T.**\*; Liu, M.\*; He, Y.\*; Yang, Q.; Kang, F.\* Dissociation mechanism of lithium salt by BaTiO3 with spontaneous polarization. *Energy Environ. Sci.* **2024**, *17*, 3797–3806. [[doi](https://doi.org/10.1039/D4EE00798K){:target="_blank"}]
 
-(28) Zhu, Y.<sup>‡</sup>; Lao, Z.<sup>‡</sup>; Zhang, M.<sup>‡</sup>; **Hou, T.**\*; Xiao, X.; Piao, Z.; Lu, G.; Han, Z.; Gao, R.; Nie, L.; Wu, X.; Song, Y.; Ji, C.; Wang, J.; Zhou, G.\* A locally solvent-tethered polymer electrolyte for ultra-long-life lithium metal batteries. *Nat. Commun.* **2024**, accepted. [[doi](https://doi.org/10.1038/s41467-024-48078-7){:target="_blank"}]
+(28) Zhu, Y.<sup>‡</sup>; Lao, Z.<sup>‡</sup>; Zhang, M.<sup>‡</sup>; **Hou, T.**\*; Xiao, X.; Piao, Z.; Lu, G.; Han, Z.; Gao, R.; Nie, L.; Wu, X.; Song, Y.; Ji, C.; Wang, J.; Zhou, G.\* A locally solvent-tethered polymer electrolyte for ultra-long-life lithium metal batteries. *Nat. Commun.* **2024**, *15*, 3914. [[doi](https://doi.org/10.1038/s41467-024-48078-7){:target="_blank"}]
 
 (27) Liu, H.<sup>‡</sup>; Yan, T.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Sun, L.; Zhang, Z.; Hu, S.; Li, S.; Kang, X.; Lei, Y.; Jiang, L.; **Hou, T.**; Liu, L.; Yu, Q.\*; Liu, B.\* Observation on microenvironment changes of dynamic catalysts in acidic CO<sub>2</sub> reduction. *J. Am. Chem. Soc.* **2024**, *146*, 5333–5342. [[doi](https://pubs.acs.org/doi/abs/10.1021/jacs.3c12321){:target="_blank"}]
 
