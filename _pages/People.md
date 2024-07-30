@@ -22,7 +22,7 @@ author_profile: true
     }
 </style>
 
-<img src="/images/groupphoto1.jpg"/>
+<img src="/images/groupphoto3.jpg"/>
  
 ## Principal Investigator
 
