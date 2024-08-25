@@ -46,7 +46,7 @@ redirect_from:
 ## Collaborators
 * UCB/LBNL:
 
-[Prof. Kristin A. Persson](https://perssongroup.lbl.gov/), 
+  * [Prof. Kristin A. Persson](https://perssongroup.lbl.gov/), 
 [Prof. Gerbrand Ceder](https://ceder.berkeley.edu/), 
 [Prof. Omar M. Yaghi](https://chemistry.berkeley.edu/faculty/chem/yaghi), 
 [Prof. Jie Yao](https://mse.berkeley.edu/people_new/yao/), 
@@ -54,7 +54,7 @@ redirect_from:
 
 * Tsinghua SIGS:
 
-[Prof. Feiyu Kang](https://www.sigs.tsinghua.edu.cn/kfy_en/list.htm), 
+  * [Prof. Feiyu Kang](https://www.sigs.tsinghua.edu.cn/kfy_en/list.htm), 
 [Prof. Yan-Bing He](https://www.sigs.tsinghua.edu.cn/hyb_en/list.htm), 
 [Prof. Bilu Liu](https://www.sigs.tsinghua.edu.cn/lbl_en/list.htm), 
 [Prof. Wei Lv](https://www.sigs.tsinghua.edu.cn/lw_en/list.htm), 
@@ -71,20 +71,20 @@ redirect_from:
 
 * Tsinghua ChemE:
 
-[Prof. Qiang Zhang](https://www.chemeng.tsinghua.edu.cn/info/1168/2609.htm), 
+  * [Prof. Qiang Zhang](https://www.chemeng.tsinghua.edu.cn/info/1168/2609.htm), 
 [Prof. Cheng Tang](https://www.chemeng.tsinghua.edu.cn/info/1162/3559.htm), 
 [Prof. Xiang Chen](https://www.chemeng.tsinghua.edu.cn/info/1095/3612.htm), 
 [Prof. Chenzi Zhao](https://www.chemeng.tsinghua.edu.cn/info/1168/3613.htm)
 
 * BIT:
 
-[Prof. Jia-Qi Huang](https://arims.bit.edu.cn/xztd/jsml1/clkxygc/ba6437f3b7c3454d9142a411c12afb1a.htm),
+  * [Prof. Jia-Qi Huang](https://arims.bit.edu.cn/xztd/jsml1/clkxygc/ba6437f3b7c3454d9142a411c12afb1a.htm),
 [Prof. Bo-Quan Li](https://arims.bit.edu.cn/xztd/jsml1/clkxygc/aaf6017b10874d6aae9213a51266dde0.htm), 
 [Prof. Xue-Qiang Zhang](https://arims.bit.edu.cn/xztd/jsml1/clkxygc/d3dcff5d2b204b68924106af7f40ed35.htm)
 
 * Other:
 
-[Prof. Zhengyan Lun@UCAS](https://lungroup.github.io/), 
+  * [Prof. Zhengyan Lun@UCAS](https://lungroup.github.io/), 
 [Prof. Zhejun Li@WHU](http://jszy.whu.edu.cn/lizhejun/en/index.htm), 
 [Prof. Xin-Bing Cheng@SEU](https://power.seu.edu.cn/cxb/list.htm), 
 [Prof. Hongjie Peng@UESTC](https://faculty.uestc.edu.cn/penghongjie/en/index.htm), 
