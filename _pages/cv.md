@@ -47,77 +47,49 @@ redirect_from:
 * UCB/LBNL:
 
 [Prof. Kristin A. Persson](https://perssongroup.lbl.gov/), 
-
 [Prof. Gerbrand Ceder](https://ceder.berkeley.edu/), 
-
 [Prof. Omar M. Yaghi](https://chemistry.berkeley.edu/faculty/chem/yaghi), 
-
 [Prof. Jie Yao](https://mse.berkeley.edu/people_new/yao/), 
-
-[Dr. Gao Liu](https://eta.lbl.gov/people/gao-liu), 
+[Dr. Gao Liu](https://eta.lbl.gov/people/gao-liu)
 
 * Tsinghua SIGS:
 
 [Prof. Feiyu Kang](https://www.sigs.tsinghua.edu.cn/kfy_en/list.htm), 
-
 [Prof. Yan-Bing He](https://www.sigs.tsinghua.edu.cn/hyb_en/list.htm), 
-
 [Prof. Bilu Liu](https://www.sigs.tsinghua.edu.cn/lbl_en/list.htm), 
-
 [Prof. Wei Lv](https://www.sigs.tsinghua.edu.cn/lw_en/list.htm), 
-
 [Prof. Guangmin Zhou](https://www.sigs.tsinghua.edu.cn/zgm_en/list.htm), 
-
 [Prof. Jia Li](https://www.sigs.tsinghua.edu.cn/lj_en/main.htm), 
-
 [Prof. Yidan Cao](https://www.sigs.tsinghua.edu.cn/cyd_en/main.htm), 
-
 [Prof. Lele Peng](https://www.sigs.tsinghua.edu.cn/pll_en/main.htm), 
-
 [Prof. Man Chung Tang](https://www.sigs.tsinghua.edu.cn/dmc_en/main.htm), 
-
 [Prof. Shixi Zhao](https://www.sigs.tsinghua.edu.cn/zsx/main.htm), 
-
 [Prof. Ming Liu](https://www.sigs.tsinghua.edu.cn/lm/main.htm), 
-
 [Prof. Ziqiang Wang](https://www.sigs.tsinghua.edu.cn/wzq/list.htm), 
-
 [Prof. Jong Mui Choo](https://www.sigs.tsinghua.edu.cn/ymz_en/main.htm), 
-
-[Prof. Hao Guo](https://www.sigs.tsinghua.edu.cn/gh_en/main.htm), 
+[Prof. Hao Guo](https://www.sigs.tsinghua.edu.cn/gh_en/main.htm)
 
 * Tsinghua ChemE:
 
 [Prof. Qiang Zhang](https://www.chemeng.tsinghua.edu.cn/info/1168/2609.htm), 
-
 [Prof. Cheng Tang](https://www.chemeng.tsinghua.edu.cn/info/1162/3559.htm), 
-
 [Prof. Xiang Chen](https://www.chemeng.tsinghua.edu.cn/info/1095/3612.htm), 
-
 [Prof. Chenzi Zhao](https://www.chemeng.tsinghua.edu.cn/info/1168/3613.htm)
 
 * BIT:
 
 [Prof. Jia-Qi Huang](https://arims.bit.edu.cn/xztd/jsml1/clkxygc/ba6437f3b7c3454d9142a411c12afb1a.htm),
-
 [Prof. Bo-Quan Li](https://arims.bit.edu.cn/xztd/jsml1/clkxygc/aaf6017b10874d6aae9213a51266dde0.htm), 
-
 [Prof. Xue-Qiang Zhang](https://arims.bit.edu.cn/xztd/jsml1/clkxygc/d3dcff5d2b204b68924106af7f40ed35.htm)
 
 * Other:
 
 [Prof. Zhengyan Lun@UCAS](https://lungroup.github.io/), 
-
 [Prof. Zhejun Li@WHU](http://jszy.whu.edu.cn/lizhejun/en/index.htm), 
-
 [Prof. Xin-Bing Cheng@SEU](https://power.seu.edu.cn/cxb/list.htm), 
-
 [Prof. Hongjie Peng@UESTC](https://faculty.uestc.edu.cn/penghongjie/en/index.htm), 
-
 [Dr. Zhengcheng Zhang@ANL](https://www.anl.gov/profile/zhengcheng-zhang), 
-
 [Dr. Nathan R. Neale@NREL](https://www.nrel.gov/research/staff/nathan-neale.html), 
-
 [Dr. Jagjit Nanda@Stanford](https://www.ornl.gov/staff-profile/jagjit-nanda)
 
 <script src="/assets/js/vanilla-back-to-top.min.js"></script>
