@@ -42,9 +42,9 @@ author_profile: true
 ## Master's students
 
 * Junhong Liao (3rd year Master's student, co-advised by Prof. Shixi Zhao)
-* Chaoyuan Ji (2nd year Master's student)
+* Chaoyuan Ji (2nd year Master's student, co-advised by Prof. Jia Li)
 * Jun Yang (2nd year Master's student)
-* Zihui Li (2nd year Master's student)
+* Zihui Li (2nd year Master's student, co-advised by Prof. Jia Li)
 * Hongliang Zhu (1st year Master's student)
 * Wenke Ji (1st year Master's student)
 * Rongao Li (1st year Master's student, co-advised by Prof. Mui Choo Jong)
