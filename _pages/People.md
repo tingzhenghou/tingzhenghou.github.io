@@ -35,20 +35,23 @@ author_profile: true
 
 ## PhD students
 
-* Shendong Tan (1st year Ph.D. student)
-* Xiang Zhang (incoming Ph.D. student)
-* Jiajing Chen (incoming Ph.D. student)
+* Shendong Tan (2nd year Ph.D. student)
+* Xiang Zhang (1st year Ph.D. student)
+* Jiajing Chen (1st year Ph.D. student)
 
 ## Master's students
 
-* Junhong Liao (2nd year Master's student, co-advised by Prof. Shixi Zhao)
-* Chaoyuan Ji (1st year Master's student)
-* Jun Yang (1st year Master's student)
-* Zihui Li (1st year Master's student)
+* Junhong Liao (3rd year Master's student, co-advised by Prof. Shixi Zhao)
+* Chaoyuan Ji (2nd year Master's student)
+* Jun Yang (2nd year Master's student)
+* Zihui Li (2nd year Master's student)
+* Hongliang Zhu (1st year Master's student)
+* Wenke Ji (1st year Master's student)
+* Rongao Li (1st year Master's student, co-advised by Prof. Mui Choo Jong)
 
 ## Visiting students
 
-* Bochun Liang (2nd year PhD student from City University of Hong Kong)
+* Bochun Liang (3rd year PhD student from City University of Hong Kong)
 
 <img src="/images/groupphoto2.jpg"/>
 
