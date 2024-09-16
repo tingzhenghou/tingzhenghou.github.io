@@ -26,44 +26,72 @@ author_profile: true
  
 ## Principal Investigator
 
+<div class="res-text">
 * Prof. Tingzheng Hou
+</div>
 
 ## Postdoctoral Fellows
 
-* Dr. Yaoshu Xie
+<div class="res-text">
+<p>* Dr. Yaoshu Xie</p>
 <img class="res" src="/images/xys.jpg" alt="Dr. Yaoshu Xie"/>
-* Dr. Hao Chen (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)
+</div>
+<div class="res-text">
+<p>* Dr. Hao Chen (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)</p>
+</div>
 
 ## PhD students
 
-* Shendong Tan (2nd year Ph.D. student)
+<div class="res-text">
+<p>* Shendong Tan (2nd year Ph.D. student)</p>
 <img class="res" src="/images/tsd.jpg" alt="Shendong Tan"/>
-* Xiang Zhang (1st year Ph.D. student)
+</div>
+<div class="res-text">
+<p>* Xiang Zhang (1st year Ph.D. student)</p>
 <img class="res" src="/images/zx.jpg" alt="Xiang Zhang"/>
-* Jiajing Chen (1st year Ph.D. student)
+</div>
+<div class="res-text">
+<p>* Jiajing Chen (1st year Ph.D. student)</p>
 <img class="res" src="/images/cjj.jpg" alt="Jiajiang Chen"/>
+</div>
 
 ## Master's students
 
-* Junhong Liao (3rd year Master's student, co-advised by Prof. Shixi Zhao)
+<div class="res-text">
+<p>* Junhong Liao (3rd year Master's student, co-advised by Prof. Shixi Zhao)</p>
 <img class="res" src="/images/ljh.jpg" alt="Junhong Liao"/>
-* Chaoyuan Ji (2nd year Master's student, co-advised by Prof. Jia Li)
+</div>
+<div class="res-text">
+<p>* Chaoyuan Ji (2nd year Master's student, co-advised by Prof. Jia Li)</p>
 <img class="res" src="/images/jcy.jpg" alt="Chaoyuan Ji"/>
-* Jun Yang (2nd year Master's student)
+</div>
+<div class="res-text">
+<p>* Jun Yang (2nd year Master's student)</p>
 <img class="res" src="/images/yj.jpg" alt="Jun Yang"/>
-* Zihui Li (2nd year Master's student, co-advised by Prof. Jia Li)
+</div>
+<div class="res-text">
+<p>* Zihui Li (2nd year Master's student, co-advised by Prof. Jia Li)</p>
 <img class="res" src="/images/lzh.jpg" alt="Zihui Li"/>
-* Hongliang Zhu (1st year Master's student)
+</div>
+<div class="res-text">
+<p>* Hongliang Zhu (1st year Master's student)</p>
 <img class="res" src="/images/zhl.jpg" alt="Hongliang Zhu"/>
-* Wenke Ji (1st year Master's student)
+</div>
+<div class="res-text">
+<p>* Wenke Ji (1st year Master's student)</p>
 <img class="res" src="/images/jwk.jpg" alt="Wenke Ji"/>
-* Rongao Li (1st year Master's student, co-advised by Prof. Mui Choo Jong)
+</div>
+<div class="res-text">
+<p>* Rongao Li (1st year Master's student, co-advised by Prof. Mui Choo Jong)</p>
 <img class="res" src="/images/lra.jpg" alt="Rongao Li"/>
+</div>
 
 ## Visiting students
 
-* Bochun Liang (3rd year PhD student from City University of Hong Kong)
+<div class="res-text">
+<p>* Bochun Liang (3rd year PhD student from City University of Hong Kong)</p>
 <img class="res" src="/images/lbc.jpg" alt="Bochun Liang"/>
+</div>
 
 <img src="/images/groupphoto5.jpg"/>
 
