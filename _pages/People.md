@@ -10,6 +10,7 @@ author_profile: true
 <style>
     .res-text {
         text-align: justify;
+        clear: both;
     }
     .res {
         float: left;
