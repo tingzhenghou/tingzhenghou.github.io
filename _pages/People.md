@@ -62,7 +62,7 @@ author_profile: true
 <div class="profile">
     <div class="profile-info">
         <div class="text-info">
-            <h5 class="name">Prof. Tingzheng Hou</h2>
+            <h5 class="name">Prof. Tingzheng Hou</h5>
             <p class="email"><a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a></p>
         </div>
     </div>
@@ -75,7 +75,7 @@ author_profile: true
         <div class="profile-info">
             <img src="/images/xys.jpg" alt="Dr. Yaoshu Xie" class="avatar">
             <div class="text-info">
-                <h5 class="name">Dr. Yaoshu Xie</h2>
+                <h5 class="name">Dr. Yaoshu Xie</h5>
                 <p class="email"><a href="mailto:jasonxie@sz.tsinghua.edu.cn">jasonxie@sz.tsinghua.edu.cn</a></p>
             </div>
         </div>
@@ -84,7 +84,7 @@ author_profile: true
         <div class="profile-info">
             <img src="/images/ch.jpg" alt="Dr. Hao Chen" class="avatar">
             <div class="text-info">
-                <h5 class="name">Dr. Hao Chen (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)</h2>
+                <h5 class="name">Dr. Hao Chen (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)</h5>
                 <p class="email"><a href="mailto:haochen@ucas.ac.cn">haochen@ucas.ac.cn</a></p>
             </div>
         </div>
