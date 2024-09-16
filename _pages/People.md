@@ -15,6 +15,7 @@ author_profile: true
     .res {
         float: left;
         width: 15%;
+        border-radius: 50%;
     }
     @media only screen and (max-width: 800px) and (orientation:portrait) {
         .res {
