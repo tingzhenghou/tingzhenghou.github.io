@@ -40,7 +40,7 @@ author_profile: true
         border-radius: 50%;
         width: 100 px;
         height: 100 px;
-        object-fit: cover;
+        object-fit: none;
         margin-right: 8px; /* Space between avatar and text */
     }
     .text-info {
