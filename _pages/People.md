@@ -40,7 +40,7 @@ author_profile: true
 [jasonxie@sz.tsinghua.edu.cn](mailto:jasonxie@sz.tsinghua.edu.cn)
 <img class="res" src="/images/xys.jpg" alt="Dr. Yaoshu Xie"/>
 </div>
-<p></p>
+<br>
 <div class="res-text" markdown="1">
 <b>Dr. Hao Chen</b> (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences) <br>
 [haochen@ucas.ac.cn](mailto:haochen@ucas.ac.cn)
@@ -53,13 +53,13 @@ author_profile: true
 [tsd23@mails.tsinghua.edu.cn](mailto:tsd23@mails.tsinghua.edu.cn)
 <img class="res" src="/images/tsd.jpg" alt="Shendong Tan"/>
 </div>
-<p></p>
+<br>
 <div class="res-text" markdown="1">
 <b>Xiang Zhang</b> (1st year Ph.D. student)
 [xiang-zh24@mails.tsinghua.edu.cn](mailto:xiang-zh24@mails.tsinghua.edu.cn)
 <img class="res" src="/images/zx.jpg" alt="Xiang Zhang"/>
 </div>
-<p></p>
+<br>
 <div class="res-text" markdown="1">
 <b>Jiajing Chen</b> (1st year Ph.D. student)
 [chenjiaj24@mails.tsinghua.edu.cn](mailto:chenjiaj24@mails.tsinghua.edu.cn)
@@ -73,37 +73,37 @@ author_profile: true
 [liaojh22@mails.tsinghua.edu.cn](mailto:liaojh22@mails.tsinghua.edu.cn)
 <img class="res" src="/images/ljh.jpg" alt="Junhong Liao"/>
 </div>
-<p></p>
+<br>
 <div class="res-text" markdown="1">
 <b>Chaoyuan Ji</b> (2nd year Master's student, co-advised by Prof. Jia Li)
 [jcy23@mails.tsinghua.edu.cn](mailto:jcy23@mails.tsinghua.edu.cn)
 <img class="res" src="/images/jcy.jpg" alt="Chaoyuan Ji"/>
 </div>
-<p></p>
+<br>
 <div class="res-text" markdown="1">
 <b>Jun Yang</b> (2nd year Master's student)
 [yang-j23@mails.tsinghua.edu.cn](mailto:yang-j23@mails.tsinghua.edu.cn)
 <img class="res" src="/images/yj.jpg" alt="Jun Yang"/>
 </div>
-<p></p>
+<br>
 <div class="res-text" markdown="1">
 <b>Zihui Li</b> (2nd year Master's student, co-advised by Prof. Jia Li)
 [zh-li23@mails.tsinghua.edu.cn](mailto:zh-li23@mails.tsinghua.edu.cn)
 <img class="res" src="/images/lzh.jpg" alt="Zihui Li"/>
 </div>
-<p></p>
+<br>
 <div class="res-text" markdown="1">
 <b>Hongliang Zhu</b> (1st year Master's student)
 [zhu-hl24@mails.tsinghua.edu.cn](mailto:zhu-hl24@mails.tsinghua.edu.cn)
 <img class="res" src="/images/zhl.jpg" alt="Hongliang Zhu"/>
 </div>
-<p></p>
+<br>
 <div class="res-text" markdown="1">
 <b>Wenke Ji</b> (1st year Master's student)
 [jwk.24@mail.tsinghua.edu.cn](mailto:jwk.24@mail.tsinghua.edu.cn)
 <img class="res" src="/images/jwk.jpg" alt="Wenke Ji"/>
 </div>
-<p></p>
+<br>
 <div class="res-text" markdown="1">
 <b>Rongao Li</b> (1st year Master's student, co-advised by Prof. Mui Choo Jong)
 [lra24@mails.tsinghua.edu.cn](mailto:lra24@mails.tsinghua.edu.cn)
@@ -117,7 +117,7 @@ author_profile: true
 [bochliang2-c@my.cityu.edu.hk](mailto:bochliang2-c@my.cityu.edu.hk)
 <img class="res" src="/images/lbc.jpg" alt="Bochun Liang"/>
 </div>
-<p></p>
+<br>
 
 <img src="/images/groupphoto5.jpg"/>
 
