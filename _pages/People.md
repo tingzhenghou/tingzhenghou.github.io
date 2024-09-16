@@ -28,19 +28,19 @@ author_profile: true
  
 ## Principal Investigator
 
-<div class="res-text">
+<div class="res-text" markdown="1">
 <b>Prof. Tingzheng Hou</b>
-<p>tingzhenghou@sz.tsinghua.edu.cn</p>
+[tingzhenghou@sz.tsinghua.edu.cn](mailto:tingzhenghou@sz.tsinghua.edu.cn)
 </div>
 
 ## Postdoctoral Fellows
 
-<div class="res-text">
+<div class="res-text" markdown="1>
 <b>Dr. Yaoshu Xie</b>
-<p>tingzhenghou@sz.tsinghua.edu.cn</p>
+[jasonxie@sz.tsinghua.edu.cn](mailto:jasonxie@sz.tsinghua.edu.cn)
 <img class="res" src="/images/xys.jpg" alt="Dr. Yaoshu Xie"/>
 </div>
-
+<p></p>
 <div class="res-text">
 <b>Dr. Hao Chen</b> (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)</b>
 </div>
@@ -51,12 +51,12 @@ author_profile: true
 <b>Shendong Tan</b> (2nd year Ph.D. student)
 <img class="res" src="/images/tsd.jpg" alt="Shendong Tan"/>
 </div>
-
+<p></p>
 <div class="res-text">
 <b>Xiang Zhang</b> (1st year Ph.D. student)
 <img class="res" src="/images/zx.jpg" alt="Xiang Zhang"/>
 </div>
-
+<p></p>
 <div class="res-text">
 <b>Jiajing Chen</b> (1st year Ph.D. student)
 <img class="res" src="/images/cjj.jpg" alt="Jiajiang Chen"/>
@@ -68,32 +68,32 @@ author_profile: true
 <b>Junhong Liao</b> (3rd year Master's student, co-advised by Prof. Shixi Zhao)
 <img class="res" src="/images/ljh.jpg" alt="Junhong Liao"/>
 </div>
-
+<p></p>
 <div class="res-text">
 <b>Chaoyuan Ji</b> (2nd year Master's student, co-advised by Prof. Jia Li)
 <img class="res" src="/images/jcy.jpg" alt="Chaoyuan Ji"/>
 </div>
-
+<p></p>
 <div class="res-text">
 <b>Jun Yang</b> (2nd year Master's student)
 <img class="res" src="/images/yj.jpg" alt="Jun Yang"/>
 </div>
-
+<p></p>
 <div class="res-text">
 <b>Zihui Li</b> (2nd year Master's student, co-advised by Prof. Jia Li)
 <img class="res" src="/images/lzh.jpg" alt="Zihui Li"/>
 </div>
-
+<p></p>
 <div class="res-text">
 <b>Hongliang Zhu</b> (1st year Master's student)
 <img class="res" src="/images/zhl.jpg" alt="Hongliang Zhu"/>
 </div>
-
+<p></p>
 <div class="res-text">
 <b>Wenke Ji</b> (1st year Master's student)
 <img class="res" src="/images/jwk.jpg" alt="Wenke Ji"/>
 </div>
-
+<p></p>
 <div class="res-text">
 <b>Rongao Li</b> (1st year Master's student, co-advised by Prof. Mui Choo Jong)
 <img class="res" src="/images/lra.jpg" alt="Rongao Li"/>
