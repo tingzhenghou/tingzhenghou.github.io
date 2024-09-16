@@ -10,7 +10,6 @@ author_profile: true
 <style>
     .res-text {
         text-align: justify;
-        display: inline-block;
     }
     .res {
         float: left;
@@ -29,15 +28,13 @@ author_profile: true
 ## Principal Investigator
 
 <div class="res-text" markdown="1">
-<b>Prof. Tingzheng Hou</b> <br>
-[tingzhenghou@sz.tsinghua.edu.cn](mailto:tingzhenghou@sz.tsinghua.edu.cn)
+<b>Prof. Tingzheng Hou</b> [tingzhenghou@sz.tsinghua.edu.cn](mailto:tingzhenghou@sz.tsinghua.edu.cn)
 </div>
 
 ## Postdoctoral Fellows
 
 <div class="res-text" markdown="1">
-<b>Dr. Yaoshu Xie</b> <br>
-[jasonxie@sz.tsinghua.edu.cn](mailto:jasonxie@sz.tsinghua.edu.cn)
+<b>Dr. Yaoshu Xie</b> [jasonxie@sz.tsinghua.edu.cn](mailto:jasonxie@sz.tsinghua.edu.cn)
 <img class="res" src="/images/xys.jpg" alt="Dr. Yaoshu Xie"/>
 </div>
 <p></p>
