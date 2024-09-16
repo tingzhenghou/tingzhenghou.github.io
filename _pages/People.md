@@ -38,9 +38,7 @@ author_profile: true
     }
     .avatar {
         border-radius: 50%;
-        width: 100 px;
-        height: 100 px;
-        object-fit: none;
+        width: 15%;
         margin-right: 8px; /* Space between avatar and text */
     }
     .text-info {
