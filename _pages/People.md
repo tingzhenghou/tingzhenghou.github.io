@@ -30,12 +30,14 @@ author_profile: true
 
 <div class="res-text">
 <b>Prof. Tingzheng Hou</b>
+<p>tingzhenghou@sz.tsinghua.edu.cn</p>
 </div>
 
 ## Postdoctoral Fellows
 
 <div class="res-text">
 <b>Dr. Yaoshu Xie</b>
+<p>tingzhenghou@sz.tsinghua.edu.cn</p>
 <img class="res" src="/images/xys.jpg" alt="Dr. Yaoshu Xie"/>
 </div>
 
