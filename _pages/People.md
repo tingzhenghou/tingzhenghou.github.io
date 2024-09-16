@@ -29,20 +29,21 @@ author_profile: true
 ## Principal Investigator
 
 <div class="res-text" markdown="1">
-<b>Prof. Tingzheng Hou</b>
+<b>Prof. Tingzheng Hou</b> <br>
 [tingzhenghou@sz.tsinghua.edu.cn](mailto:tingzhenghou@sz.tsinghua.edu.cn)
 </div>
 
 ## Postdoctoral Fellows
 
-<div class="res-text" markdown="1>
-<b>Dr. Yaoshu Xie</b>
+<div class="res-text" markdown="1">
+<b>Dr. Yaoshu Xie</b> <br>
 [jasonxie@sz.tsinghua.edu.cn](mailto:jasonxie@sz.tsinghua.edu.cn)
 <img class="res" src="/images/xys.jpg" alt="Dr. Yaoshu Xie"/>
 </div>
 <p></p>
 <div class="res-text">
-<b>Dr. Hao Chen</b> (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)</b>
+<b>Dr. Hao Chen</b> (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)</b> <br>
+[haochen@ucas.ac.cn](mailto:haochen@ucas.ac.cn)
 </div>
 
 ## PhD students
@@ -105,6 +106,7 @@ author_profile: true
 <b>Bochun Liang</b> (3rd year PhD student from City University of Hong Kong)
 <img class="res" src="/images/lbc.jpg" alt="Bochun Liang"/>
 </div>
+<p></p>
 
 <img src="/images/groupphoto5.jpg"/>
 
