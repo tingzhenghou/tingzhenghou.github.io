@@ -25,15 +25,12 @@ author_profile: true
         flex-wrap: wrap;
         gap: 20px; /* Space between profiles */
         justify-content: center; /* Center profiles in the container */
-        padding: 20px;
+        padding: 5px;
     }
     .profile {
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        padding: 16px;
-        width: 300px; /* Adjust width as needed */
-        background-color: #f9f9f9;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border: 0px;
+        padding: 8px;
+        width: 45%; /* Adjust width as needed */
     }
     .profile-info {
         display: flex;
@@ -44,7 +41,7 @@ author_profile: true
         width: 100px;
         height: 100px;
         object-fit: cover;
-        margin-right: 16px; /* Space between avatar and text */
+        margin-right: 8px; /* Space between avatar and text */
     }
     .text-info {
         display: flex;
@@ -52,12 +49,7 @@ author_profile: true
         justify-content: center;
     }
     .name {
-        font-size: 1.2em;
         margin-bottom: 8px;
-    }
-    .email {
-        color: #555;
-        font-size: 0.9em;
     }
     @media only screen and (max-width: 800px) and (orientation:portrait) {
         .res {
