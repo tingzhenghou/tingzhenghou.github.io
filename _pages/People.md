@@ -59,10 +59,6 @@ author_profile: true
  
 ## Principal Investigator
 
-<div class="res-text">
-
-<a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a>
-
 <div class="profile">
     <div class="profile-info">
         <div class="text-info">
