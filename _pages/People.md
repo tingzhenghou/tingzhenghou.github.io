@@ -38,8 +38,8 @@ author_profile: true
     }
     .avatar {
         border-radius: 50%;
-        width: 15%;
-        height: 15%;
+        width: 200 px;
+        height: 200 px;
         object-fit: cover;
         margin-right: 8px; /* Space between avatar and text */
     }
@@ -62,15 +62,15 @@ author_profile: true
 <div class="res-text">
 
 <a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a>
-</div>
-    <div class="profile">
-        <div class="profile-info">
-            <div class="text-info">
-                <h5 class="name">Prof. Tingzheng Hou</h2>
-                <p class="email"><a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a></p>
-            </div>
+
+<div class="profile">
+    <div class="profile-info">
+        <div class="text-info">
+            <h5 class="name">Prof. Tingzheng Hou</h2>
+            <p class="email"><a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a></p>
         </div>
     </div>
+</div>
 
 ## Postdoctoral Fellows
 
