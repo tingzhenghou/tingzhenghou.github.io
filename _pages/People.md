@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 <style>
+    table, th, td {
+        border: 0px;
+    }
     .res-text {
         text-align: justify;
         clear: both;
@@ -29,12 +32,9 @@ author_profile: true
 ## Principal Investigator
 
 <div class="res-text" markdown="1">
-<table>
-  <tr>
-    <td><b>Prof. Tingzheng Hou</b></td>
-    <td><a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a></td>
-  </tr>
-</table>
+<b>Prof. Tingzheng Hou</b>
+
+<a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a>
 </div>
 
 ## Postdoctoral Fellows
@@ -73,6 +73,7 @@ author_profile: true
 [chenjiaj24@mails.tsinghua.edu.cn](mailto:chenjiaj24@mails.tsinghua.edu.cn)
 <img class="res" src="/images/cjj.jpg" alt="Jiajiang Chen"/>
 </div>
+<br>
 
 ## Master's students
 
@@ -117,6 +118,7 @@ author_profile: true
 [lra24@mails.tsinghua.edu.cn](mailto:lra24@mails.tsinghua.edu.cn)
 <img class="res" src="/images/lra.jpg" alt="Rongao Li"/>
 </div>
+<br>
 
 ## Visiting students
 
