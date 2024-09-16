@@ -29,15 +29,23 @@ author_profile: true
 ## Principal Investigator
 
 <div class="res-text" markdown="1">
-<b>Prof. Tingzheng Hou</b> <br>
-[tingzhenghou@sz.tsinghua.edu.cn](mailto:tingzhenghou@sz.tsinghua.edu.cn)
+<table>
+  <tr>
+    <td><b>Prof. Tingzheng Hou</b></td>
+    <td><a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a></td>
+  </tr>
+</table>
 </div>
 
 ## Postdoctoral Fellows
 
 <div class="res-text" markdown="1">
-<b>Dr. Yaoshu Xie</b> <br>
-[jasonxie@sz.tsinghua.edu.cn](mailto:jasonxie@sz.tsinghua.edu.cn)
+<table>
+  <tr>
+    <td><b>Dr. Yaoshu Xie</b></td>
+    <td>[jasonxie@sz.tsinghua.edu.cn](mailto:jasonxie@sz.tsinghua.edu.cn)</td>
+  </tr>
+</table>
 <img class="res" src="/images/xys.jpg" alt="Dr. Yaoshu Xie"/>
 </div>
 <br>
