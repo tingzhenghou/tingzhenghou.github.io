@@ -38,8 +38,8 @@ author_profile: true
     }
     .avatar {
         border-radius: 50%;
-        width: 100px;
-        height: 100px;
+        width: 15%;
+        height: 15%;
         object-fit: cover;
         margin-right: 8px; /* Space between avatar and text */
     }
@@ -47,9 +47,6 @@ author_profile: true
         display: flex;
         flex-direction: column;
         justify-content: center;
-    }
-    .name {
-        margin-bottom: 8px;
     }
     @media only screen and (max-width: 800px) and (orientation:portrait) {
         .res {
