@@ -60,8 +60,7 @@ author_profile: true
 <div class="profile">
     <div class="profile-info">
         <div class="text-info">
-            <p class="name">Prof. Tingzheng Hou</p>
-            <p class="email"><a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a></p>
+            <p>Prof. Tingzheng Hou <br> <a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a></p>
         </div>
     </div>
 </div>
