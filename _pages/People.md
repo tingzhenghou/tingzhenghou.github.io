@@ -174,6 +174,10 @@ author_profile: true
             </div>
         </div>
     </div>
+    <div class="profile">
+        <div class="profile-info">
+        </div>
+    </div>
 </div>
 
 ## Visiting students
