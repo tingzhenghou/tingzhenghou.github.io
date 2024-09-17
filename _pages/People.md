@@ -24,7 +24,7 @@ author_profile: true
         display: flex;
         flex-wrap: wrap;
         gap: 20px; /* Space between profiles */
-        justify-content: center; /* Center profiles in the container */
+        justify-content: left; /* Center profiles in the container */
         padding: 5px;
     }
     .profile {
@@ -60,7 +60,7 @@ author_profile: true
 <div class="profile">
     <div class="profile-info">
         <div class="text-info">
-            <h4 class="name">Prof. Tingzheng Hou</h4>
+            <p class="name">Prof. Tingzheng Hou</p>
             <p class="email"><a href="mailto:tingzhenghou@sz.tsinghua.edu.cn">tingzhenghou@sz.tsinghua.edu.cn</a></p>
         </div>
     </div>
@@ -73,8 +73,7 @@ author_profile: true
         <div class="profile-info">
             <img src="/images/xys.jpg" alt="Dr. Yaoshu Xie" class="avatar">
             <div class="text-info">
-                <p>Dr. Yaoshu Xie</p>
-                <p><a href="mailto:jasonxie@sz.tsinghua.edu.cn">jasonxie@sz.tsinghua.edu.cn</a></p>
+                <p>Dr. Yaoshu Xie <br> <a href="mailto:jasonxie@sz.tsinghua.edu.cn">jasonxie@sz.tsinghua.edu.cn</a></p>
             </div>
         </div>
     </div>
