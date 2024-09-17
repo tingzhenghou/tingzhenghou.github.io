@@ -118,57 +118,77 @@ author_profile: true
 
 ## Master's students
 
-<div class="res-text">
-Junhong Liao (3rd year Master's student, co-advised by Prof. Shixi Zhao)
-[liaojh22@mails.tsinghua.edu.cn](mailto:liaojh22@mails.tsinghua.edu.cn)
-<img class="res" src="/images/ljh.jpg" alt="Junhong Liao"/>
+<div class="container">
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/ljh.jpg" alt="Junhong Liao" class="avatar">
+            <div class="text-info">
+                <p>Junhong Liao <br> 3rd year Master's student, co-advised by Prof. Shixi Zhao <br> <a href="mailto:liaojh22@mails.tsinghua.edu.cn">liaojh22@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/jcy.jpg" alt="Chaoyuan Ji" class="avatar">
+            <div class="text-info">
+                <p>Chaoyuan Ji<br> 2nd year Master's student, co-advised by Prof. Jia Li <br> <a href="mailto:jcy23@mails.tsinghua.edu.cn">jcy23@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/yj.jpg" alt="Jun Yang" class="avatar">
+            <div class="text-info">
+                <p>Jun Yang<br> 2nd year Master's student <br> <a href="mailto:yang-j23@mails.tsinghua.edu.cn">yang-j23@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/lzh.jpg" alt="Zihui Li" class="avatar">
+            <div class="text-info">
+                <p>Zihui Li <br> 2nd year Master's student, co-advised by Prof. Jia Li <br> <a href="zh-li23@mails.tsinghua.edu.cn">zh-li23@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/zhl.jpg" alt="Hongliang Zhu" class="avatar">
+            <div class="text-info">
+                <p>Hongliang Zhu <br> 1st year Master's student <br> <a href="mailto:zhu-hl24@mails.tsinghua.edu.cn">zhu-hl24@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/jwk.jpg" alt="Wenke Ji" class="avatar">
+            <div class="text-info">
+                <p>Wenke Ji <br> 1st year Master's student <br> <a href="mailto:jwk.24@mail.tsinghua.edu.cn">jwk.24@mail.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/lra.jpg" alt="Rongao Li" class="avatar">
+            <div class="text-info">
+                <p>Rongao Li <br> 1st year Master's student, co-advised by Prof. Mui Choo Jong <br> <a href="mailto:lra24@mails.tsinghua.edu.cn">lra24@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
 </div>
-<br>
-<div class="res-text">
-Chaoyuan Ji (2nd year Master's student, co-advised by Prof. Jia Li)
-[jcy23@mails.tsinghua.edu.cn](mailto:jcy23@mails.tsinghua.edu.cn)
-<img class="res" src="/images/jcy.jpg" alt="Chaoyuan Ji"/>
-</div>
-<br>
-<div class="res-text">
-Jun Yang (2nd year Master's student)
-[yang-j23@mails.tsinghua.edu.cn](mailto:yang-j23@mails.tsinghua.edu.cn)
-<img class="res" src="/images/yj.jpg" alt="Jun Yang"/>
-</div>
-<br>
-<div class="res-text">
-Zihui Li (2nd year Master's student, co-advised by Prof. Jia Li)
-[zh-li23@mails.tsinghua.edu.cn](mailto:zh-li23@mails.tsinghua.edu.cn)
-<img class="res" src="/images/lzh.jpg" alt="Zihui Li"/>
-</div>
-<br>
-<div class="res-text">
-Hongliang Zhu (1st year Master's student)
-[zhu-hl24@mails.tsinghua.edu.cn](mailto:zhu-hl24@mails.tsinghua.edu.cn)
-<img class="res" src="/images/zhl.jpg" alt="Hongliang Zhu"/>
-</div>
-<br>
-<div class="res-text">
-Wenke Ji (1st year Master's student)
-[jwk.24@mail.tsinghua.edu.cn](mailto:jwk.24@mail.tsinghua.edu.cn)
-<img class="res" src="/images/jwk.jpg" alt="Wenke Ji"/>
-</div>
-<br>
-<div class="res-text">
-Rongao Li (1st year Master's student, co-advised by Prof. Mui Choo Jong)
-[lra24@mails.tsinghua.edu.cn](mailto:lra24@mails.tsinghua.edu.cn)
-<img class="res" src="/images/lra.jpg" alt="Rongao Li"/>
-</div>
-<br>
 
 ## Visiting students
 
-<div class="res-text">
-Bochun Liang (3rd year PhD student from City University of Hong Kong)
-[bochliang2-c@my.cityu.edu.hk](mailto:bochliang2-c@my.cityu.edu.hk)
-<img class="res" src="/images/lbc.jpg" alt="Bochun Liang"/>
+<div class="container">
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/lbc.jpg" alt="Bochun Liang" class="avatar">
+            <div class="text-info">
+                <p>Bochun Liang <br> 3rd year PhD student from City University of Hong Kong <br> <a href="mailto:bochliang2-c@my.cityu.edu.hk">bochliang2-c@my.cityu.edu.hk</a></p>
+            </div>
+        </div>
+    </div>
 </div>
-<br>
 
 <img src="/images/groupphoto5.jpg"/>
 
