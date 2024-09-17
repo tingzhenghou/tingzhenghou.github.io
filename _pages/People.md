@@ -38,8 +38,8 @@ author_profile: true
     }
     .avatar {
         border-radius: 50%;
-        width: 15%;
-        margin-right: 8px; /* Space between avatar and text */
+        width: 30%;
+        margin-right: 5px; /* Space between avatar and text */
     }
     .text-info {
         display: flex;
@@ -73,8 +73,8 @@ author_profile: true
         <div class="profile-info">
             <img src="/images/xys.jpg" alt="Dr. Yaoshu Xie" class="avatar">
             <div class="text-info">
-                <h4 class="name">Dr. Yaoshu Xie</h4>
-                <p class="email"><a href="mailto:jasonxie@sz.tsinghua.edu.cn">jasonxie@sz.tsinghua.edu.cn</a></p>
+                <p>Dr. Yaoshu Xie</p>
+                <p><a href="mailto:jasonxie@sz.tsinghua.edu.cn">jasonxie@sz.tsinghua.edu.cn</a></p>
             </div>
         </div>
     </div>
@@ -82,8 +82,8 @@ author_profile: true
         <div class="profile-info">
             <img src="/images/ch.jpg" alt="Dr. Hao Chen" class="avatar">
             <div class="text-info">
-                <h4 class="name">Dr. Hao Chen (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)</h4>
-                <p class="email"><a href="mailto:haochen@ucas.ac.cn">haochen@ucas.ac.cn</a></p>
+                <p>Dr. Hao Chen (co-advised by Prof. Zhengyan Lun@University of Chinese Academy of Sciences)</p>
+                <p><a href="mailto:haochen@ucas.ac.cn">haochen@ucas.ac.cn</a></p>
             </div>
         </div>
     </div>
@@ -91,24 +91,35 @@ author_profile: true
 
 ## PhD students
 
-<div class="res-text">
-Shendong Tan (2nd year Ph.D. student)
-[tsd23@mails.tsinghua.edu.cn](mailto:tsd23@mails.tsinghua.edu.cn)
-<img class="res" src="/images/tsd.jpg" alt="Shendong Tan"/>
+<div class="container">
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/tsd.jpg" alt="Shendong Tan" class="avatar">
+            <div class="text-info">
+                <p>Shendong Tan (2nd year Ph.D. student)</p>
+                <p><a href="mailto:tsd23@mails.tsinghua.edu.cn">tsd23@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/zx.jpg" alt="Xiang Zhang" class="avatar">
+            <div class="text-info">
+                <p>Xiang Zhang (1st year Ph.D. student)</p>
+                <p><a href="mailto:xiang-zh24@mails.tsinghua.edu.cn">xiang-zh24@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/cjj.jpg" alt="Jiajiang Chen" class="avatar">
+            <div class="text-info">
+                <p>Jiajing Chen (1st year Ph.D. student)</p>
+                <p><a href="mailto:chenjiaj24@mails.tsinghua.edu.cn">chenjiaj24@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
 </div>
-<br>
-<div class="res-text">
-Xiang Zhang (1st year Ph.D. student)
-[xiang-zh24@mails.tsinghua.edu.cn](mailto:xiang-zh24@mails.tsinghua.edu.cn)
-<img class="res" src="/images/zx.jpg" alt="Xiang Zhang"/>
-</div>
-<br>
-<div class="res-text">
-Jiajing Chen (1st year Ph.D. student)
-[chenjiaj24@mails.tsinghua.edu.cn](mailto:chenjiaj24@mails.tsinghua.edu.cn)
-<img class="res" src="/images/cjj.jpg" alt="Jiajiang Chen"/>
-</div>
-<br>
 
 ## Master's students
 
