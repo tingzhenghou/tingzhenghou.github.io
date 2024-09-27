@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2024
+(30) Ma, Y.; Qiu, Y.; Yang, K.\*; Lv, S.; Li, Y.; An, X.; Xiao, G.; Han, Z.; Ma, Y.; Chen, L.; Zhang, D.; Lv, W.; Tian, Y.\*; **Hou, T.**; Liu, M.; Zhou, Z.; Kang, F.; He, Y.\* Competitive Li-ion Coordination Constructing Three-Dimensional Transport Network for Ultra-High Ionic Conductivity of Composite Solid-State Electrolyte. *Energy Environ. Sci.* **2024**, Accepted. [[doi](https://doi.org/10.1039/D4EE03134B){:target="_blank"}]
+
 
 (29) Guo, S.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ma, J.; Chen, L.; Yang, K.; Zhu, Q.; Ma, Y.; Shi, P.; Wei, Y.; An, X.; Ren, Q.; Huang, Y.; Zhu, Y.; Cheng, Y.; Lv, W.; **Hou, T.**\*; Liu, M.\*; He, Y.\*; Yang, Q.; Kang, F.\* Dissociation mechanism of lithium salt by BaTiO3 with spontaneous polarization. *Energy Environ. Sci.* **2024**, *17*, 3797–3806. [[doi](https://doi.org/10.1039/D4EE00798K){:target="_blank"}]
 

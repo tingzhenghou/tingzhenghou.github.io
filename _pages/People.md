@@ -50,6 +50,11 @@ author_profile: true
         .avatar {
             width: 100%;
         }
+        .profile {
+        border: 0px;
+        padding: 8px;
+        width: 100%; /* Adjust width as needed */
+        }
     }
 </style>
 
