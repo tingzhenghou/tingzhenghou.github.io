@@ -171,7 +171,6 @@ author_profile: true
             </div>
         </div>
     </div>
-    <br>
     <div class="profile">
         <div class="profile-info">
             <img src="/images/lra.jpg" alt="Rongao Li" class="avatar">
