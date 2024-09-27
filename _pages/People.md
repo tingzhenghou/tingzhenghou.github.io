@@ -47,18 +47,14 @@ author_profile: true
         justify-content: center;
     }
     @media only screen and (max-width: 800px) and (orientation:portrait) {
-        .avatar {
-            justify-content: center;
-        }
         .profile {
         border: 0px;
         padding: 8px;
         width: 100%; /* Adjust width as needed */
         }
-        .profile-info {
-        display: flex;
-        flex-wrap: wrap;
-        }
+        .text-info {
+        width: 60%;
+    }
     }
 </style>
 
