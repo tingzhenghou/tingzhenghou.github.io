@@ -47,7 +47,7 @@ author_profile: true
         justify-content: center;
     }
     @media only screen and (max-width: 800px) and (orientation:portrait) {
-        .res {
+        .avatar {
             width: 100%;
         }
     }
