@@ -48,7 +48,8 @@ author_profile: true
     }
     @media only screen and (max-width: 800px) and (orientation:portrait) {
         .avatar {
-            width: 100%;
+            width: 80%;
+            justify-content: center;
         }
         .profile {
         border: 0px;
