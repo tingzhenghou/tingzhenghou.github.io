@@ -55,6 +55,10 @@ author_profile: true
         padding: 8px;
         width: 100%; /* Adjust width as needed */
         }
+        .profile-info {
+        display: flex;
+        flex-wrap: wrap;
+        }
     }
 </style>
 
