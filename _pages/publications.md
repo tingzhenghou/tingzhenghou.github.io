@@ -5,7 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2024
+(36) Chen, L.; Gu, T.; Mi, J.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Li, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. In Revision.
+
+(35) Chen, H.; Zhang, Y.; Zhao, Y.; Liao, J.; He, J.; Yu, R.; Tan, S.; Zhang, R.; **Hou, T.**\*; Sun, X.\*; Lun, Z.\* Defect Engineering for Cation Disordered Rocksalt Cathodes via Chelator Optimization. Revised.
+
+
+(34) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; Hou, T.; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
+
+
+(33) Li, H.; Shao, Y.; Zhang, Z.; Tahir, M. N.; **Hou, T.**; Gan, L.; Ding, F.; Li, J.\* Understanding the Unique Selectivity of Cobalt Phthalocyanine in Multielectron Reduction of Carbon Dioxide. Revised.
+
+
 (32) Zhou, S.; Liao, J.; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *ACS Nano* **2024**, Accepted.
+
 
 (31) Lian, J.; Tan, S.; Lou, J.; Cui, W.; Han, Z.; **Hou, T.**\*; Liu, M.\*; Wang, Z.\* Unique Non-Chelating Multidentate Ligand Tuning Solvation Structure and Interfacial Chemistry for High-Voltage Lithium Metal Batteries. *Adv. Funct. Mater.* **2024**, In press. [[doi](https://doi.org/10.1002/adfm.202421802){:target="_blank"}]
 
