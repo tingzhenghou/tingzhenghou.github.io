@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2024
-(36) Chen, L.; Gu, T.; Mi, J.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Li, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. In Revision.
+(36) Chen, L.; Gu, T.; Mi, J.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Li, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. In revision.
 
 (35) Chen, H.; Zhang, Y.; Zhao, Y.; Liao, J.; He, J.; Yu, R.; Tan, S.; Zhang, R.; **Hou, T.**\*; Sun, X.\*; Lun, Z.\* Defect Engineering for Cation Disordered Rocksalt Cathodes via Chelator Optimization. Revised.
 
