@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2024
-(31) Lian, J.; Tan, S.; Lou, J.; Cui, W.; Han, Z.; **Hou, T.**\*; Liu, M.\*; Wang, Z.\* Eminent cyanated Ether Electrolyte and Interfacial Chemistry enable High-Voltage Lithium Metal Batteries. *Adv. Funct. Mater.* **2024**, In press.
+(32) Zhou, S.; Liao, J.; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *ACS Nano* **2024**, Accepted.
+
+(31) Lian, J.; Tan, S.; Lou, J.; Cui, W.; Han, Z.; **Hou, T.**\*; Liu, M.\*; Wang, Z.\* Unique Non-Chelating Multidentate Ligand Tuning Solvation Structure and Interfacial Chemistry for High-Voltage Lithium Metal Batteries. *Adv. Funct. Mater.* **2024**, In press. [[doi](https://doi.org/10.1002/adfm.202421802){:target="_blank"}]
 
 
 (30) Ma, Y.; Qiu, Y.; Yang, K.\*; Lv, S.; Li, Y.; An, X.; Xiao, G.; Han, Z.; Ma, Y.; Chen, L.; Zhang, D.; Lv, W.; Tian, Y.\*; **Hou, T.**; Liu, M.; Zhou, Z.; Kang, F.; He, Y.\* Competitive Li-ion Coordination Constructing Three-Dimensional Transport Network for Ultra-High Ionic Conductivity of Composite Solid-State Electrolyte. *Energy Environ. Sci.* **2024**, *17*, 8274-8283. [[doi](https://doi.org/10.1039/D4EE03134B){:target="_blank"}]
