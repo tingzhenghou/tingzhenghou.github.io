@@ -13,10 +13,10 @@ author_profile: true
 (34) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; Hou, T.; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
 
 
-(33) Li, H.; Shao, Y.; Zhang, Z.; Tahir, M. N.; **Hou, T.**; Gan, L.; Ding, F.; Li, J.\* Understanding the Unique Selectivity of Cobalt Phthalocyanine in Multielectron Reduction of Carbon Dioxide. Revised.
+(33) Li, H.; Shao, Y.; Zhang, Z.; Tahir, M. N.; **Hou, T.**; Gan, L.; Ding, F.; Li, J.\* Understanding the Unique Selectivity of Cobalt Phthalocyanine in Multielectron Reduction of Carbon Dioxide. *ACS Catal.* **2024**, In press.
 
 
-(32) Zhou, S.; Liao, J.; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *ACS Nano* **2024**, Accepted.
+(32) Zhou, S.; Liao, J.; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *ACS Nano* **2024**, In press.
 
 
 (31) Lian, J.; Tan, S.; Lou, J.; Cui, W.; Han, Z.; **Hou, T.**\*; Liu, M.\*; Wang, Z.\* Unique Non-Chelating Multidentate Ligand Tuning Solvation Structure and Interfacial Chemistry for High-Voltage Lithium Metal Batteries. *Adv. Funct. Mater.* **2024**, In press. [[doi](https://doi.org/10.1002/adfm.202421802){:target="_blank"}]
