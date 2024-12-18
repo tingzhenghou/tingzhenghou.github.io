@@ -13,7 +13,7 @@ author_profile: true
 (34) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; Hou, T.; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
 
 
-(33) Zhou, S.; Liao, J.; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *ACS Nano* **2024**, In press.
+(33) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *ACS Nano* **2024**, accepted. [[doi](https://doi.org/10.1021/acsnano.4c12022){:target="_blank"}]
 
 
 (32) Li, H.; Shao, Y.; Zhang, Z.; Tahir, M. N.; **Hou, T.**; Gan, L.; Ding, F.; Li, J.\* Understanding the Unique Selectivity of Cobalt Phthalocyanine in Multielectron Reduction of Carbon Dioxide. *ACS Catal.* **2024**, accepted. [[doi](https://doi.org/10.1021/acscatal.4c05744){:target="_blank"}]
