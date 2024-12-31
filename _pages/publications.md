@@ -4,25 +4,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### 2024
+### 2025
 (36) Chen, L.; Gu, T.; Mi, J.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Li, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. In revision.
 
 (35) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; Hou, T.; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
 
-(34) Chen, H.; Zhang, Y.; Zhao, Y.; Liao, J.; He, J.; Yu, R.; Tan, S.; Zhang, R.; **Hou, T.**\*; Sun, X.\*; Lun, Z.\* Chelator Optimization Enabled Defect Engineering for Cation Disordered Rocksalt Cathodes via Solution-based Synthesis Method. *Energy Storage Mater.* **2024**, accepted. [[doi](https://doi.org/10.1016/j.ensm.2024.103990){:target="_blank"}]
+(34) Chen, H.; Zhang, Y.; Zhao, Y.; Liao, J.; He, J.; Yu, R.; Tan, S.; Zhang, R.; **Hou, T.**\*; Sun, X.\*; Lun, Z.\* Chelator Optimization Enabled Defect Engineering for Cation Disordered Rocksalt Cathodes via Solution-based Synthesis Method. *Energy Storage Mater.* **2025**, accepted. [[doi](https://doi.org/10.1016/j.ensm.2024.103990){:target="_blank"}]
 
+(33) Lian, J.; Tan, S.; Lou, J.; Lan, J.; Cui, W.; Han, Z.; Zheng, G.; **Hou, T.**\*; Lv, W.\*; Liu, M.\*; Wang, Z.\* Unique Non-Chelating Multidentate Ligand Tuning Solvation Structure and Interfacial Chemistry for High-Voltage Lithium Metal Batteries. *Adv. Funct. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adfm.202421802){:target="_blank"}]
 
-(33) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *ACS Nano* **2024**, accepted. [[doi](https://doi.org/10.1021/acsnano.4c12022){:target="_blank"}]
+(32) Li, H.; Shao, Y.; Zhang, Z.; Tahir, M. N.; **Hou, T.**; Gan, L.; Ding, F.; Li, J.\* Understanding the Unique Selectivity of Cobalt Phthalocyanine in Multielectron Reduction of Carbon Dioxide. *ACS Catal.* **2025**, *15*, 139–147. [[doi](https://doi.org/10.1021/acscatal.4c05744){:target="_blank"}]
 
+### 2024
 
-(32) Li, H.; Shao, Y.; Zhang, Z.; Tahir, M. N.; **Hou, T.**; Gan, L.; Ding, F.; Li, J.\* Understanding the Unique Selectivity of Cobalt Phthalocyanine in Multielectron Reduction of Carbon Dioxide. *ACS Catal.* **2024**, accepted. [[doi](https://doi.org/10.1021/acscatal.4c05744){:target="_blank"}]
-
-
-(31) Lian, J.; Tan, S.; Lou, J.; Lan, J.; Cui, W.; Han, Z.; Zheng, G.; **Hou, T.**\*; Lv, W.\*; Liu, M.\*; Wang, Z.\* Unique Non-Chelating Multidentate Ligand Tuning Solvation Structure and Interfacial Chemistry for High-Voltage Lithium Metal Batteries. *Adv. Funct. Mater.* **2024**, accepted. [[doi](https://doi.org/10.1002/adfm.202421802){:target="_blank"}]
-
+(31) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *ACS Nano* **2024**, *18*, 35356–35367. [[doi](https://doi.org/10.1021/acsnano.4c12022){:target="_blank"}]
 
 (30) Ma, Y.; Qiu, Y.; Yang, K.\*; Lv, S.; Li, Y.; An, X.; Xiao, G.; Han, Z.; Ma, Y.; Chen, L.; Zhang, D.; Lv, W.; Tian, Y.\*; **Hou, T.**; Liu, M.; Zhou, Z.; Kang, F.; He, Y.\* Competitive Li-ion Coordination Constructing Three-Dimensional Transport Network for Ultra-High Ionic Conductivity of Composite Solid-State Electrolyte. *Energy Environ. Sci.* **2024**, *17*, 8274-8283. [[doi](https://doi.org/10.1039/D4EE03134B){:target="_blank"}]
-
 
 (29) Guo, S.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ma, J.; Chen, L.; Yang, K.; Zhu, Q.; Ma, Y.; Shi, P.; Wei, Y.; An, X.; Ren, Q.; Huang, Y.; Zhu, Y.; Cheng, Y.; Lv, W.; **Hou, T.**\*; Liu, M.\*; He, Y.\*; Yang, Q.; Kang, F.\* Dissociation mechanism of lithium salt by BaTiO3 with spontaneous polarization. *Energy Environ. Sci.* **2024**, *17*, 3797–3806. [[doi](https://doi.org/10.1039/D4EE00798K){:target="_blank"}]
 
