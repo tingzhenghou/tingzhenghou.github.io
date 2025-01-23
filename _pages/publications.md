@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
+(38) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. In revision.
+
+(37) Wang, J.; Guillot, S.; Usrey, M.; **Hou, T.**\*; Persson, K.\* Elucidating gas reduction effects of organosilicon additives in lithium-ion batteries. In revision
+
 (36) Chen, L.; Gu, T.; Mi, J.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Li, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. In revision.
 
 (35) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; Hou, T.; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
