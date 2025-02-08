@@ -7,11 +7,11 @@ author_profile: true
 ### 2025
 (38) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. In revision.
 
-(37) Wang, J.; Guillot, S.; Usrey, M.; **Hou, T.**\*; Persson, K.\* Elucidating gas reduction effects of organosilicon additives in lithium-ion batteries. In revision
+(37) Chen, L.; Gu, T.; Mi, J.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Li, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. In revision.
 
-(36) Chen, L.; Gu, T.; Mi, J.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Li, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. In revision.
+(36) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; Hou, T.; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
 
-(35) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; Hou, T.; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
+(35) Wang, J.; Guillot, S.; Usrey, M.; **Hou, T.**\*; Persson, K.\* Elucidating gas reduction effects of organosilicon additives in lithium-ion batteries. *J. Am. Chem. Soc.* **2025**, accepted.
 
 (34) Chen, H.; Zhang, Y.; Zhao, Y.; Liao, J.; He, J.; Yu, R.; Tan, S.; Zhang, R.; **Hou, T.**\*; Sun, X.\*; Lun, Z.\* Chelator Optimization Enabled Defect Engineering for Cation Disordered Rocksalt Cathodes via Solution-based Synthesis Method. *Energy Storage Mater.* **2025**, accepted. [[doi](https://doi.org/10.1016/j.ensm.2024.103990){:target="_blank"}]
 
