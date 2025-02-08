@@ -13,7 +13,7 @@ author_profile: true
 
 (35) Wang, J.; Guillot, S.; Usrey, M.; **Hou, T.**\*; Persson, K.\* Elucidating gas reduction effects of organosilicon additives in lithium-ion batteries. *J. Am. Chem. Soc.* **2025**, accepted.
 
-(34) Chen, H.; Zhang, Y.; Zhao, Y.; Liao, J.; He, J.; Yu, R.; Tan, S.; Zhang, R.; **Hou, T.**\*; Sun, X.\*; Lun, Z.\* Chelator Optimization Enabled Defect Engineering for Cation Disordered Rocksalt Cathodes via Solution-based Synthesis Method. *Energy Storage Mater.* **2025**, accepted. [[doi](https://doi.org/10.1016/j.ensm.2024.103990){:target="_blank"}]
+(34) Chen, H.; Zhang, Y.; Zhao, Y.; Liao, J.; He, J.; Yu, R.; Tan, S.; Zhang, R.; **Hou, T.**\*; Sun, X.\*; Lun, Z.\* Chelator Optimization Enabled Defect Engineering for Cation Disordered Rocksalt Cathodes via Solution-based Synthesis Method. *Energy Storage Mater.* **2025**, *75*, 103990. [[doi](https://doi.org/10.1016/j.ensm.2024.103990){:target="_blank"}]
 
 (33) Lian, J.; Tan, S.; Lou, J.; Lan, J.; Cui, W.; Han, Z.; Zheng, G.; **Hou, T.**\*; Lv, W.\*; Liu, M.\*; Wang, Z.\* Unique Non-Chelating Multidentate Ligand Tuning Solvation Structure and Interfacial Chemistry for High-Voltage Lithium Metal Batteries. *Adv. Funct. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adfm.202421802){:target="_blank"}]
 
