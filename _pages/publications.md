@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-(38) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. In revision.
+(40) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. In revision.
 
-(37) Chen, L.; Gu, T.; Mi, J.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Li, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. In revision.
+(39) Chen, L.; Gu, T.; Mi, J.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Li, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. In revision.
 
-(36) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; Hou, T.; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
+(38) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; Hou, T.; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
+
+(37) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. In revision.
+
+(36) Han, Z.; **Hou, T.**; Zhang, C.\*; Liu, M.\*; He, Y.-B.\* Ionic Liquid Reinforcing Ether Coordination of Localized High Concentration Electrolyte Enables High-voltage Lithium Metal Batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202416668){:target="_blank"}]
 
 (35) Wang, J.; Guillot, S.; Usrey, M.; **Hou, T.**\*; Persson, K.\* Elucidating gas reduction effects of organosilicon additives in lithium-ion batteries. *J. Am. Chem. Soc.* **2025**, accepted.
 
@@ -23,9 +27,9 @@ author_profile: true
 
 (31) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *ACS Nano* **2024**, *18*, 35356–35367. [[doi](https://doi.org/10.1021/acsnano.4c12022){:target="_blank"}]
 
-(30) Ma, Y.; Qiu, Y.; Yang, K.\*; Lv, S.; Li, Y.; An, X.; Xiao, G.; Han, Z.; Ma, Y.; Chen, L.; Zhang, D.; Lv, W.; Tian, Y.\*; **Hou, T.**; Liu, M.; Zhou, Z.; Kang, F.; He, Y.\* Competitive Li-ion Coordination Constructing Three-Dimensional Transport Network for Ultra-High Ionic Conductivity of Composite Solid-State Electrolyte. *Energy Environ. Sci.* **2024**, *17*, 8274-8283. [[doi](https://doi.org/10.1039/D4EE03134B){:target="_blank"}]
+(30) Ma, Y.; Qiu, Y.; Yang, K.\*; Lv, S.; Li, Y.; An, X.; Xiao, G.; Han, Z.; Ma, Y.; Chen, L.; Zhang, D.; Lv, W.; Tian, Y.\*; **Hou, T.**; Liu, M.; Zhou, Z.; Kang, F.; He, Y.-B.\* Competitive Li-ion Coordination Constructing Three-Dimensional Transport Network for Ultra-High Ionic Conductivity of Composite Solid-State Electrolyte. *Energy Environ. Sci.* **2024**, *17*, 8274-8283. [[doi](https://doi.org/10.1039/D4EE03134B){:target="_blank"}]
 
-(29) Guo, S.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ma, J.; Chen, L.; Yang, K.; Zhu, Q.; Ma, Y.; Shi, P.; Wei, Y.; An, X.; Ren, Q.; Huang, Y.; Zhu, Y.; Cheng, Y.; Lv, W.; **Hou, T.**\*; Liu, M.\*; He, Y.\*; Yang, Q.; Kang, F.\* Dissociation mechanism of lithium salt by BaTiO3 with spontaneous polarization. *Energy Environ. Sci.* **2024**, *17*, 3797–3806. [[doi](https://doi.org/10.1039/D4EE00798K){:target="_blank"}]
+(29) Guo, S.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ma, J.; Chen, L.; Yang, K.; Zhu, Q.; Ma, Y.; Shi, P.; Wei, Y.; An, X.; Ren, Q.; Huang, Y.; Zhu, Y.; Cheng, Y.; Lv, W.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Yang, Q.-H.; Kang, F.\* Dissociation mechanism of lithium salt by BaTiO3 with spontaneous polarization. *Energy Environ. Sci.* **2024**, *17*, 3797–3806. [[doi](https://doi.org/10.1039/D4EE00798K){:target="_blank"}]
 
 (28) Zhu, Y.<sup>‡</sup>; Lao, Z.<sup>‡</sup>; Zhang, M.<sup>‡</sup>; **Hou, T.**\*; Xiao, X.; Piao, Z.; Lu, G.; Han, Z.; Gao, R.; Nie, L.; Wu, X.; Song, Y.; Ji, C.; Wang, J.; Zhou, G.\* A locally solvent-tethered polymer electrolyte for ultra-long-life lithium metal batteries. *Nat. Commun.* **2024**, *15*, 3914. [[doi](https://doi.org/10.1038/s41467-024-48078-7){:target="_blank"}]
 
