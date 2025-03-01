@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-(41) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; Hou, T. Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Submitted.
+(41) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Submitted.
 
 (40) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; **Hou, T.**; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.-B.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. Revised.
 
