@@ -19,7 +19,7 @@ author_profile: true
 
 (36) Han, Z.; Chen, L.; Zheng, G.; Zhang, D.; Yang, K.; Xiao, G.; Xu, H.; Li, Y.; An, X.; Ma, Y.; Guo, S.; Chen, Y.;  **Hou, T.**; Cao, Y.; Zhang, C.\*; He, Y.-B.\*; Liu, M.\* Ionic Liquid Reinforcing Ether Coordination of Localized High Concentration Electrolyte Enables High-voltage Lithium Metal Batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202416668){:target="_blank"}]
 
-(35) Wang, J.; Guillot, S.; Usrey, M.; **Hou, T.**\*; Persson, K.\* Elucidating gas reduction effects of organosilicon additives in lithium-ion batteries. *J. Am. Chem. Soc.* **2025**, accepted. [[doi](https://doi.org/10.1021/jacs.5c00402){:target="_blank"}]
+(35) Wang, J.; Guillot, S.; Usrey, M.; **Hou, T.**\*; Persson, K.\* Elucidating gas reduction effects of organosilicon additives in lithium-ion batteries. *J. Am. Chem. Soc.* **2025**, *147*, 8841–8851. [[doi](https://doi.org/10.1021/jacs.5c00402){:target="_blank"}]
 
 (34) Chen, H.; Zhang, Y.; Zhao, Y.; Liao, J.; He, J.; Yu, R.; Tan, S.; Zhang, R.; **Hou, T.**\*; Sun, X.\*; Lun, Z.\* Chelator Optimization Enabled Defect Engineering for Cation Disordered Rocksalt Cathodes via Solution-based Synthesis Method. *Energy Storage Mater.* **2025**, *75*, 103990. [[doi](https://doi.org/10.1016/j.ensm.2024.103990){:target="_blank"}]
 
