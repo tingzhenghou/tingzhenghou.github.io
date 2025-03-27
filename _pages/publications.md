@@ -5,15 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-(42) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Under review.
+(43) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Under review.
 
-(41) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. Revised.
+(42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. Revised.
 
-(40) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; **Hou, T.**; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.-B.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
+(41) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; **Hou, T.**; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.-B.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
 
-(39) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, accepted. [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}]
+(40) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, accepted.
 
-(38) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, accepted.
+(39) Yan, Y.; Hu, J.; Gao, Y.; **Hou, T.**; Zhang, B.; Li, B.; Liang, J.; Kang, F.; Zhai, D.\* *Angew. Chem. Int. Ed.* **2025**, accepted. [[doi](https://doi.org/10.1002/anie.202502872){:target="_blank"}]
+
+(38) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, accepted. [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}]
 
 (37) Dai, P.; Liao, J.; Li, J.; Zhou, S.; Liu, Y.; **Hou, T.**; Cao, G.\*; Zhao, S.\* Structural Instability of NCM-LATP Composite Cathode during Co-sintering. *Adv. Funct. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adfm.202421775){:target="_blank"}]
 
