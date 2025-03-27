@@ -9,9 +9,9 @@ author_profile: true
 
 (42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. Revised.
 
-(41) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; **Hou, T.**; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.-B.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
+(41) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, accepted.
 
-(40) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, accepted.
+(40) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; **Hou, T.**; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.-B.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
 
 (39) Yan, Y.; Hu, J.; Gao, Y.; **Hou, T.**; Zhang, B.; Li, B.; Liang, J.; Kang, F.; Zhai, D.\* *Angew. Chem. Int. Ed.* **2025**, accepted. [[doi](https://doi.org/10.1002/anie.202502872){:target="_blank"}]
 
