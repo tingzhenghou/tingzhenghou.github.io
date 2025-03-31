@@ -11,7 +11,7 @@ author_profile: true
 
 (41) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, accepted.
 
-(40) Xiao, G.; Yang, K.; Qiu, Y.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Han, Z.; Shi, P.; **Hou, T.**; Yan, H.; Tian, Y.\*; Cao, Y.\*; Liu, M.\*; He, Y.-B.\* Dielectric-tailored space charge layer and ion coordination structure for high-voltage polymer all-solid-state lithium batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
+(40) Xiao, G.; Yang, K.; Qiu, Y.; Shi, P.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Mi, J.; Han, Z.; **Hou, T.**; Yan, H.; Tian, Y.\*; Zhang, X.; Cao, Y.\*; Liu, M.\*; Zhou, Z.; He, Y.-B.\* Dielectric-Tailored Space Charge Layer and Ion Coordination Structure for High-Voltage Polymer All-Solid-State Lithium Batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
 
 (39) Yan, Y.; Hu, J.; Gao, Y.; **Hou, T.**; Zhang, B.; Li, B.; Liang, J.; Kang, F.; Zhai, D.\* Unveiling the Influence of Dehydrofluorination of Poly(vinylidene fluoride) Binder on the Failure of Graphite Anode in Potassium-ion Batteries. *Angew. Chem. Int. Ed.* **2025**, accepted. [[doi](https://doi.org/10.1002/anie.202502872){:target="_blank"}]
 
