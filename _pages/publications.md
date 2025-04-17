@@ -7,7 +7,7 @@ author_profile: true
 ### 2025
 (43) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Under review.
 
-(42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. Revised.
+(42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. *Chem. Rev.* **2025**, accepted.
 
 (41) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, accepted.
 
