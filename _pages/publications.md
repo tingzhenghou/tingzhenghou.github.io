@@ -9,23 +9,23 @@ author_profile: true
 
 (42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. *Chem. Rev.* **2025**, accepted.
 
-(41) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, accepted.
+(41) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, *16*, 3517. [[doi](https://doi.org/10.1038/s41467-025-58689-3){:target="_blank"}]
 
 (40) Xiao, G.; Yang, K.; Qiu, Y.; Shi, P.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Mi, J.; Han, Z.; **Hou, T.**; Yan, H.; Tian, Y.\*; Zhang, X.; Cao, Y.\*; Liu, M.\*; Zhou, Z.; He, Y.-B.\* Dielectric-Tailored Space Charge Layer and Ion Coordination Structure for High-Voltage Polymer All-Solid-State Lithium Batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
 
 (39) Yan, Y.; Hu, J.; Gao, Y.; **Hou, T.**; Zhang, B.; Li, B.; Liang, J.; Kang, F.; Zhai, D.\* Unveiling the Influence of Dehydrofluorination of Poly(vinylidene fluoride) Binder on the Failure of Graphite Anode in Potassium-ion Batteries. *Angew. Chem. Int. Ed.* **2025**, accepted. [[doi](https://doi.org/10.1002/anie.202502872){:target="_blank"}]
 
-(38) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, accepted. [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}]
+(38) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, *106*, 631–641. [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}]
 
 (37) Dai, P.; Liao, J.; Li, J.; Zhou, S.; Liu, Y.; **Hou, T.**; Cao, G.\*; Zhao, S.\* Structural Instability of NCM-LATP Composite Cathode during Co-sintering. *Adv. Funct. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adfm.202421775){:target="_blank"}]
 
-(36) Han, Z.; Chen, L.; Zheng, G.; Zhang, D.; Yang, K.; Xiao, G.; Xu, H.; Li, Y.; An, X.; Ma, Y.; Guo, S.; Chen, Y.;  **Hou, T.**; Cao, Y.; Zhang, C.\*; He, Y.-B.\*; Liu, M.\* Ionic Liquid Reinforcing Ether Coordination of Localized High Concentration Electrolyte Enables High-voltage Lithium Metal Batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202416668){:target="_blank"}]
+(36) Han, Z.; Chen, L.; Zheng, G.; Zhang, D.; Yang, K.; Xiao, G.; Xu, H.; Li, Y.; An, X.; Ma, Y.; Guo, S.; Chen, Y.;  **Hou, T.**; Cao, Y.; Zhang, C.\*; He, Y.-B.\*; Liu, M.\* Ionic Liquid Reinforcing Ether Coordination of Localized High Concentration Electrolyte Enables High-voltage Lithium Metal Batteries. *Adv. Mater.* **2025**, *37*, 2416668. [[doi](https://doi.org/10.1002/adma.202416668){:target="_blank"}]
 
 (35) Wang, J.; Guillot, S.; Usrey, M.; **Hou, T.**\*; Persson, K.\* Elucidating gas reduction effects of organosilicon additives in lithium-ion batteries. *J. Am. Chem. Soc.* **2025**, *147*, 8841–8851. [[doi](https://doi.org/10.1021/jacs.5c00402){:target="_blank"}]
 
 (34) Chen, H.; Zhang, Y.; Zhao, Y.; Liao, J.; He, J.; Yu, R.; Tan, S.; Zhang, R.; **Hou, T.**\*; Sun, X.\*; Lun, Z.\* Chelator Optimization Enabled Defect Engineering for Cation Disordered Rocksalt Cathodes via Solution-based Synthesis Method. *Energy Storage Mater.* **2025**, *75*, 103990. [[doi](https://doi.org/10.1016/j.ensm.2024.103990){:target="_blank"}]
 
-(33) Lian, J.; Tan, S.; Lou, J.; Lan, J.; Cui, W.; Han, Z.; Zheng, G.; **Hou, T.**\*; Lv, W.\*; Liu, M.\*; Wang, Z.\* Unique Non-Chelating Multidentate Ligand Tuning Solvation Structure and Interfacial Chemistry for High-Voltage Lithium Metal Batteries. *Adv. Funct. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adfm.202421802){:target="_blank"}]
+(33) Lian, J.; Tan, S.; Lou, J.; Lan, J.; Cui, W.; Han, Z.; Zheng, G.; **Hou, T.**\*; Lv, W.\*; Liu, M.\*; Wang, Z.\* Unique Non-Chelating Multidentate Ligand Tuning Solvation Structure and Interfacial Chemistry for High-Voltage Lithium Metal Batteries. *Adv. Funct. Mater.* **2025**, *35*, 2421802. [[doi](https://doi.org/10.1002/adfm.202421802){:target="_blank"}]
 
 (32) Li, H.; Shao, Y.; Zhang, Z.; Tahir, M. N.; **Hou, T.**; Gan, L.; Ding, F.; Li, J.\* Understanding the Unique Selectivity of Cobalt Phthalocyanine in Multielectron Reduction of Carbon Dioxide. *ACS Catal.* **2025**, *15*, 139–147. [[doi](https://doi.org/10.1021/acscatal.4c05744){:target="_blank"}]
 
