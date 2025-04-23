@@ -106,7 +106,7 @@ author_profile: true
         <div class="profile-info">
             <img src="/images/zx.jpg" alt="Xiang Zhang" class="avatar">
             <div class="text-info">
-                <p>Xiang Zhang <br> Ph.D. student <br> <a href="mailto:xiang-zh24@mails.tsinghua.edu.cn">xiang-zh24@mails.tsinghua.edu.cn</a></p>
+                <p>Xiang Zhang <br> Ph.D. candidate <br> <a href="mailto:xiang-zh24@mails.tsinghua.edu.cn">xiang-zh24@mails.tsinghua.edu.cn</a></p>
             </div>
         </div>
     </div>
@@ -114,7 +114,7 @@ author_profile: true
         <div class="profile-info">
             <img src="/images/cjj.jpg" alt="Jiajiang Chen" class="avatar">
             <div class="text-info">
-                <p>Jiajing Chen <br> Ph.D. student <br> <a href="mailto:chenjiaj24@mails.tsinghua.edu.cn">chenjiaj24@mails.tsinghua.edu.cn</a></p>
+                <p>Jiajing Chen <br> Ph.D. candidate <br> <a href="mailto:chenjiaj24@mails.tsinghua.edu.cn">chenjiaj24@mails.tsinghua.edu.cn</a></p>
             </div>
         </div>
     </div>
