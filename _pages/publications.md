@@ -7,9 +7,9 @@ author_profile: true
 ### 2025
 (44) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Under review.
 
-(43) Zhou, S.; Xu, W.; Wang, Z.; Yao, K.; Ji, C.; **Hou, T.**; He, Y.-B.; Guo, H.\* "Like dissolves like" strategy facilitates interfacial polymerization for facile synthesis of highly permeable reverse osmosis membranes. Revised.
+(43) Zhou, S.; Xu, W.; Wang, Z.; Yao, K.; Ji, C.; **Hou, T.**; He, Y.-B.; Guo, H.\* "Like dissolves like" strategy facilitates interfacial polymerization for facile synthesis of highly permeable reverse osmosis membranes. *Nano Lett.* **2025**, accepted.
 
-(42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. *Chem. Rev.* **2025**, accepted.
+(42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. *Chem. Rev.* **2025**, accepted. [[doi](https://doi.org/10.1021/acs.chemrev.4c01012){:target="_blank"}]
 
 (41) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, *16*, 3517. [[doi](https://doi.org/10.1038/s41467-025-58689-3){:target="_blank"}]
 
