@@ -7,7 +7,7 @@ author_profile: true
 ### 2025
 (44) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Under review.
 
-(43) Zhou, S.; Xu, W.; Wang, Z.; Yao, K.; Ji, C.; **Hou, T.**; He, Y.-B.; Guo, H.\* "Like dissolves like" strategy facilitates interfacial polymerization for facile synthesis of highly permeable reverse osmosis membranes. *Nano Lett.* **2025**, accepted.
+(43) Zhou, S.; Xu, W.; Wang, Z.; Yao, K.; Ji, C.; **Hou, T.**; He, Y.-B.; Guo, H.\* "Like dissolves like" strategy facilitates interfacial polymerization for facile synthesis of highly permeable reverse osmosis membranes. *Nano Lett.* **2025**, accepted. [[doi](https://doi.org/10.1021/acs.nanolett.5c01408){:target="_blank"}]
 
 (42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. *Chem. Rev.* **2025**, accepted. [[doi](https://doi.org/10.1021/acs.chemrev.4c01012){:target="_blank"}]
 
