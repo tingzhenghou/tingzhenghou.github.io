@@ -5,15 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-(44) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Under review.
+(45) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Under review.
 
-(43) Zhou, S.; Xu, W.; Wang, Z.; Yao, K.; Ji, C.; **Hou, T.**; He, Y.-B.; Guo, H.\* "Like dissolves like" strategy facilitates interfacial polymerization for facile synthesis of highly permeable reverse osmosis membranes. *Nano Lett.* **2025**, accepted. [[doi](https://doi.org/10.1021/acs.nanolett.5c01408){:target="_blank"}]
+(34) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *Adv. Mater.* **2025**, 2505189. [[doi](https://doi.org/10.1002/adma.202505189){:target="_blank"}]
+
+(43) Zhou, S.; Xu, W.; Wang, Z.; Yao, K.; Ji, C.; **Hou, T.**; He, Y.-B.; Guo, H.\* "Like dissolves like" strategy facilitates interfacial polymerization for facile synthesis of highly permeable reverse osmosis membranes. *Nano Lett.* **2025**, *25*, 8287-8293. [[doi](https://doi.org/10.1021/acs.nanolett.5c01408){:target="_blank"}]
 
 (42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. *Chem. Rev.* **2025**, accepted. [[doi](https://doi.org/10.1021/acs.chemrev.4c01012){:target="_blank"}]
 
 (41) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, *16*, 3517. [[doi](https://doi.org/10.1038/s41467-025-58689-3){:target="_blank"}]
 
-(40) Xiao, G.; Yang, K.; Qiu, Y.; Shi, P.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Mi, J.; Han, Z.; **Hou, T.**; Yan, H.; Tian, Y.\*; Zhang, X.; Cao, Y.\*; Liu, M.\*; Zhou, Z.; He, Y.-B.\* Dielectric-Tailored Space Charge Layer and Ion Coordination Structure for High-Voltage Polymer All-Solid-State Lithium Batteries. *Adv. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
+(40) Xiao, G.; Yang, K.; Qiu, Y.; Shi, P.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Mi, J.; Han, Z.; **Hou, T.**; Yan, H.; Tian, Y.\*; Zhang, X.; Cao, Y.\*; Liu, M.\*; Zhou, Z.; He, Y.-B.\* Dielectric-Tailored Space Charge Layer and Ion Coordination Structure for High-Voltage Polymer All-Solid-State Lithium Batteries. *Adv. Mater.* **2025**, *37*, 2415411. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
 
 (39) Yan, Y.; Hu, J.; Gao, Y.; **Hou, T.**; Zhang, B.; Li, B.; Liang, J.; Kang, F.; Zhai, D.\* Unveiling the Influence of Dehydrofluorination of Poly(vinylidene fluoride) Binder on the Failure of Graphite Anode in Potassium-ion Batteries. *Angew. Chem. Int. Ed.* **2025**, accepted. [[doi](https://doi.org/10.1002/anie.202502872){:target="_blank"}]
 
