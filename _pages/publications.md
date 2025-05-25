@@ -7,7 +7,7 @@ author_profile: true
 ### 2025
 (45) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Under review.
 
-(34) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *Adv. Mater.* **2025**, 2505189. [[doi](https://doi.org/10.1002/adma.202505189){:target="_blank"}]
+(44) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* The Generality Rules and Synergistic Effect of Mitigating the Jahn-Teller Effect by Multi-sites Compositionally Complex Doping. *Adv. Mater.* **2025**, 2505189. [[doi](https://doi.org/10.1002/adma.202505189){:target="_blank"}]
 
 (43) Zhou, S.; Xu, W.; Wang, Z.; Yao, K.; Ji, C.; **Hou, T.**; He, Y.-B.; Guo, H.\* "Like dissolves like" strategy facilitates interfacial polymerization for facile synthesis of highly permeable reverse osmosis membranes. *Nano Lett.* **2025**, *25*, 8287-8293. [[doi](https://doi.org/10.1021/acs.nanolett.5c01408){:target="_blank"}]
 
