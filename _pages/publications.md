@@ -7,7 +7,7 @@ author_profile: true
 ### 2025
 (46) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. Under review.
 
-(45) Liao, J.; Chen, H.; Xie, Y.; Li, Z.; Tan, S.; Zhou, S.; Jiang, L.; Zhang, X.; Liu, M.; He, Y.-B.; Kang, F.; Lun, Z.\*; Zhao, S.\*; **Hou, T.**\* Modeling Short-Range Order in High-Entropy Cation-Disordered Rocksalt-Type Cathodes. *Adv. Energy Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/aenm.202501857){:target="_blank"}]
+(45) Liao, J.; Chen, H.; Xie, Y.; Li, Z.; Tan, S.; Zhou, S.; Jiang, L.; Zhang, X.; Liu, M.; He, Y.-B.; Kang, F.; Lun, Z.\*; Zhao, S.\*; **Hou, T.**\* Modeling Short-Range Order in High-Entropy Cation-Disordered Rocksalt-Type Cathodes. *Adv. Energy Mater.* **2025**, 2501857. [[doi](https://doi.org/10.1002/aenm.202501857){:target="_blank"}]
 
 (44) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* High-Entropy Li-Rich Layered Cathodes with Negligible Voltage Decay through Migration Retardation Effect. *Adv. Mater.* **2025**, 2505189. [[doi](https://doi.org/10.1002/adma.202505189){:target="_blank"}]
 
@@ -19,7 +19,7 @@ author_profile: true
 
 (40) Xiao, G.; Yang, K.; Qiu, Y.; Shi, P.; Zhong, G.; An, X.; Ma, Y.; Chen, L.; Guo, S.; Mi, J.; Han, Z.; **Hou, T.**; Yan, H.; Tian, Y.\*; Zhang, X.; Cao, Y.\*; Liu, M.\*; Zhou, Z.; He, Y.-B.\* Dielectric-Tailored Space Charge Layer and Ion Coordination Structure for High-Voltage Polymer All-Solid-State Lithium Batteries. *Adv. Mater.* **2025**, *37*, 2415411. [[doi](https://doi.org/10.1002/adma.202415411){:target="_blank"}]
 
-(39) Yan, Y.; Hu, J.; Gao, Y.; **Hou, T.**; Zhang, B.; Li, B.; Liang, J.; Kang, F.; Zhai, D.\* Unveiling the Influence of Dehydrofluorination of Poly(vinylidene fluoride) Binder on the Failure of Graphite Anode in Potassium-ion Batteries. *Angew. Chem. Int. Ed.* **2025**, accepted. [[doi](https://doi.org/10.1002/anie.202502872){:target="_blank"}]
+(39) Yan, Y.; Hu, J.; Gao, Y.; **Hou, T.**; Zhang, B.; Li, B.; Liang, J.; Kang, F.; Zhai, D.\* Unveiling the Influence of Dehydrofluorination of Poly(vinylidene fluoride) Binder on the Failure of Graphite Anode in Potassium-ion Batteries. *Angew. Chem. Int. Ed.* **2025**, *64*, e202502872. [[doi](https://doi.org/10.1002/anie.202502872){:target="_blank"}]
 
 (38) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, *106*, 631–641. [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}]
 
