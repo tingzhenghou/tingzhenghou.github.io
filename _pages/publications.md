@@ -7,7 +7,7 @@ author_profile: true
 ### 2025
 (47) Deng, X.; Liu, L.; Zhang, S.; Chen, Q.; Zhang, X.; Wu, H.; Chen, Y.; **Hou, T.**; Liu, M.; Zhou, D.; Peng, L.\*; Chen, Z.\* Ultrafast charging of two-dimensional polymer cathodes by cross-flow structure design. *Nat. Chem.* **2025**, Accepted.
 
-(46) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. *Chem. Commun.* **2025**, Accepted.
+(46) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. *Chem. Commun.* **2025**, Accepted. [[doi](https://doi.org/10.1039/D5CC01099C){:target="_blank"}]
 
 (45) Liao, J.; Chen, H.; Xie, Y.; Li, Z.; Tan, S.; Zhou, S.; Jiang, L.; Zhang, X.; Liu, M.; He, Y.-B.; Kang, F.; Lun, Z.\*; Zhao, S.\*; **Hou, T.**\* Modeling Short-Range Order in High-Entropy Cation-Disordered Rocksalt-Type Cathodes. *Adv. Energy Mater.* **2025**, 2501857. [[doi](https://doi.org/10.1002/aenm.202501857){:target="_blank"}]
 
