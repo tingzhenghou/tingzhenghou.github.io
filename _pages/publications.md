@@ -23,7 +23,7 @@ author_profile: true
 
 (39) Yan, Y.; Hu, J.; Gao, Y.; **Hou, T.**; Zhang, B.; Li, B.; Liang, J.; Kang, F.; Zhai, D.\* Unveiling the Influence of Dehydrofluorination of Poly(vinylidene fluoride) Binder on the Failure of Graphite Anode in Potassium-ion Batteries. *Angew. Chem. Int. Ed.* **2025**, *64*, e202502872. [[doi](https://doi.org/10.1002/anie.202502872){:target="_blank"}]
 
-(38) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, *106*, 631–641. [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}]
+(38) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, *106*, 631–641. ([AI4Batteries](https://www.sciencedirect.com/special-issue/10C141544P4) Special issue) [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}]
 
 (37) Dai, P.; Liao, J.; Li, J.; Zhou, S.; Liu, Y.; **Hou, T.**; Cao, G.\*; Zhao, S.\* Structural Instability of NCM-LATP Composite Cathode during Co-sintering. *Adv. Funct. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adfm.202421775){:target="_blank"}]
 
