@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
+(48) Chen, J.; Jiang, L.; Tan, S.; Yang, J.; Li, Z.; Bai, C.; Zhang, X.; Li, R.; Xie, Y.; Liu, M.; He, Y.-B.; **Hou, T.**\* Machine-learning-aided screening of inorganic lithium solid-state electrolytes with wide electrochemical window. *J. Mater. Chem. A* **2025**, Accepted.
+
 (47) Deng, X.; Liu, L.; Zhang, S.; Chen, Q.; Zhang, X.; Wu, H.; Chen, Y.; **Hou, T.**; Liu, M.; Zhou, D.; Peng, L.\*; Chen, Z.\* Ultrafast charging of two-dimensional polymer cathodes by cross-flow structure design. *Nat. Chem.* **2025**, Accepted.
 
 (46) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. *Chem. Commun.* **2025**, Accepted. ([2025 Emerging Investigators](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cc&themeid=81fa2e14-4321-4579-9458-97ef3ada6f87))  [[doi](https://doi.org/10.1039/D5CC01099C){:target="_blank"}]
