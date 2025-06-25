@@ -57,7 +57,7 @@ author_profile: true
 
 (25) Yao, N.; Yu, L.; Fu, Z.-H.; Shen, X.; **Hou, T.-Z.**; Liu, X.; Gao, Y.-C.; Zhang, R.; Zhao, C.-Z.; Chen, X.\*; Zhang, Q.\* Probing the Origin of Viscosity of Liquid Electrolytes for Lithium Batteries. *Angew. Chem. Int. Ed.* **2023**, *62*, e202305331. [[doi](https://doi.org/10.1002/anie.202305331){:target="_blank"}]
 
-(24) Cohen, O. A.; Macdermott-Opeskin, H.; Lee, L.; **Hou, T.**; Fong, K. D.; Kingsbury R.; Wang, J.; Persson, K. A.\* SolvationAnalysis: A Python toolkit for understanding liquid solvation structure in classical molecular dynamics simulations. *J. Open Source Softw.* **2023**, *8*, 5183. [[doi](https://doi.org/10.21105/joss.05183){:target="_blank"}] [[pdf](https://joss.theoj.org/papers/10.21105/joss.05183.pdf){:target="_blank"}]
+(24) Cohen, O. A.; Macdermott-Opeskin, H.; Lee, L.; **Hou, T.**; Fong, K. D.; Kingsbury R.; Wang, J.; Persson, K. A.\* SolvationAnalysis: A Python toolkit for understanding liquid solvation structure in classical molecular dynamics simulations. *J. Open Source Softw.* **2023**, *8*, 5183. [[doi](https://doi.org/10.21105/joss.05183){:target="_blank"}] [[pdf](https://joss.theoj.org/papers/10.21105/joss.05183.pdf){:target="_blank"}] [[code](https://github.com/MDAnalysis/solvation-analysis){:target="_blank"}]
 
 (23) **Hou, T.**\*; Xu, W.\* Deep dive into anionic metal–organic frameworks based quasi-solid-state electrolytes. *J. Energy Chem.* **2023**, *81*, 313-320. [[doi](https://doi.org/10.1016/j.jechem.2023.02.048){:target="_blank"}]
 
@@ -71,7 +71,7 @@ author_profile: true
 
 ### 2021
 
-(19) **Hou, T.**\*; Fong, K. D.; Wang, J.; Persson, K. A.\* The solvation structure, transport properties and reduction behavior of carbonate-based electrolytes of lithium-ion batteries. *Chem. Sci.* **2021**, *12*, 14740-14751. ([*ChemSci* Pick of the Week](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=sc&themeid=2b6ac669-d38b-4db4-b319-1a334830c9cb)) [[doi](https://doi.org/10.1039/D1SC04265C){:target="_blank"}] [[pdf](https://tingzhenghou.github.io/files/papers/ChemSci-2021-gen2.pdf){:target="_blank"}]<!--CC BY-NC--> 
+(19) **Hou, T.**\*; Fong, K. D.; Wang, J.; Persson, K. A.\* The solvation structure, transport properties and reduction behavior of carbonate-based electrolytes of lithium-ion batteries. *Chem. Sci.* **2021**, *12*, 14740-14751. ([*ChemSci* Pick of the Week](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=sc&themeid=2b6ac669-d38b-4db4-b319-1a334830c9cb)) [[doi](https://doi.org/10.1039/D1SC04265C){:target="_blank"}] [[pdf](https://tingzhenghou.github.io/files/papers/ChemSci-2021-gen2.pdf){:target="_blank"}] [[code](https://github.com/HouGroup/mdgo){:target="_blank"}]<!--CC BY-NC--> 
 
 ### 2020
 
