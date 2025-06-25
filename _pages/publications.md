@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-(48) Chen, J.; Jiang, L.; Tan, S.; Yang, J.; Li, Z.; Bai, C.; Zhang, X.; Li, R.; Xie, Y.; Liu, M.; He, Y.-B.; **Hou, T.**\* Machine-learning-aided screening of inorganic lithium solid-state electrolytes with wide electrochemical window. *J. Mater. Chem. A* **2025**, Accepted. [[doi](https://doi.org/10.1039/D5TA04197J){:target="_blank"}]
+(48) Chen, J.; Jiang, L.; Tan, S.; Yang, J.; Li, Z.; Bai, C.; Zhang, X.; Li, R.; Xie, Y.; Liu, M.; He, Y.-B.; **Hou, T.**\* Machine-learning-aided screening of inorganic lithium solid-state electrolytes with wide electrochemical window. *J. Mater. Chem. A* **2025**, Accepted. [[doi](https://doi.org/10.1039/D5TA04197J){:target="_blank"}] [dataset [ecw_mp_16k](https://zenodo.org/records/15505298){:target="_blank"}]
 
 (47) Deng, X.; Liu, L.; Zhang, S.; Chen, Q.; Zhang, X.; Wu, H.; Chen, Y.; **Hou, T.**; Liu, M.; Zhou, D.; Peng, L.\*; Chen, Z.\* Ultrafast charging of two-dimensional polymer cathodes by cross-flow structure design. *Nat. Chem.* **2025**, Accepted.
 
 (46) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. *Chem. Commun.* **2025**, Accepted. ([2025 Emerging Investigators](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cc&themeid=81fa2e14-4321-4579-9458-97ef3ada6f87))  [[doi](https://doi.org/10.1039/D5CC01099C){:target="_blank"}]
 
-(45) Liao, J.; Chen, H.; Xie, Y.; Li, Z.; Tan, S.; Zhou, S.; Jiang, L.; Zhang, X.; Liu, M.; He, Y.-B.; Kang, F.; Lun, Z.\*; Zhao, S.\*; **Hou, T.**\* Modeling Short-Range Order in High-Entropy Cation-Disordered Rocksalt-Type Cathodes. *Adv. Energy Mater.* **2025**, 2501857. [[doi](https://doi.org/10.1002/aenm.202501857){:target="_blank"}]
+(45) Liao, J.; Chen, H.; Xie, Y.; Li, Z.; Tan, S.; Zhou, S.; Jiang, L.; Zhang, X.; Liu, M.; He, Y.-B.; Kang, F.; Lun, Z.\*; Zhao, S.\*; **Hou, T.**\* Modeling Short-Range Order in High-Entropy Cation-Disordered Rocksalt-Type Cathodes. *Adv. Energy Mater.* **2025**, 2501857. [[doi](https://doi.org/10.1002/aenm.202501857){:target="_blank"}] [code [SROS](https://github.com/HouGroup/SROS){:target="_blank"}]
 
 (44) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* High-Entropy Li-Rich Layered Cathodes with Negligible Voltage Decay through Migration Retardation Effect. *Adv. Mater.* **2025**, 2505189. [[doi](https://doi.org/10.1002/adma.202505189){:target="_blank"}]
 
@@ -25,7 +25,7 @@ author_profile: true
 
 (39) Yan, Y.; Hu, J.; Gao, Y.; **Hou, T.**; Zhang, B.; Li, B.; Liang, J.; Kang, F.; Zhai, D.\* Unveiling the Influence of Dehydrofluorination of Poly(vinylidene fluoride) Binder on the Failure of Graphite Anode in Potassium-ion Batteries. *Angew. Chem. Int. Ed.* **2025**, *64*, e202502872. [[doi](https://doi.org/10.1002/anie.202502872){:target="_blank"}]
 
-(38) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, *106*, 631–641. ([AI4Batteries](https://www.sciencedirect.com/special-issue/10C141544P4) Special issue) [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}]
+(38) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, *106*, 631–641. ([AI4Batteries](https://www.sciencedirect.com/special-issue/10C141544P4) Special issue) [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}] [code [InterOptimus](https://github.com/HouGroup/InterOptimus){:target="_blank"} [mlipdockers](https://github.com/HouGroup/mlipdockers){:target="_blank"}]
 
 (37) Dai, P.; Liao, J.; Li, J.; Zhou, S.; Liu, Y.; **Hou, T.**; Cao, G.\*; Zhao, S.\* Structural Instability of NCM-LATP Composite Cathode during Co-sintering. *Adv. Funct. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adfm.202421775){:target="_blank"}]
 
