@@ -5,19 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-(48) Chen, J.; Jiang, L.; Tan, S.; Yang, J.; Li, Z.; Bai, C.; Zhang, X.; Li, R.; Xie, Y.; Liu, M.; He, Y.-B.; **Hou, T.**\* Machine-learning-aided screening of inorganic lithium solid-state electrolytes with wide electrochemical window. *J. Mater. Chem. A* **2025**, Accepted. [[doi](https://doi.org/10.1039/D5TA04197J){:target="_blank"}] [[dataset](https://zenodo.org/records/15505298){:target="_blank"}]
+(48) Deng, X.; Liu, L.; Zhang, S.; Chen, Q.; Zhang, X.; Wu, H.; Chen, Y.; **Hou, T.**; Liu, M.; Zhou, D.; Peng, L.\*; Chen, Z.\* Ultrafast charging of two-dimensional polymer cathodes by cross-flow structure design. *Nat. Chem.* **2025**, Accepted.
 
-(47) Deng, X.; Liu, L.; Zhang, S.; Chen, Q.; Zhang, X.; Wu, H.; Chen, Y.; **Hou, T.**; Liu, M.; Zhou, D.; Peng, L.\*; Chen, Z.\* Ultrafast charging of two-dimensional polymer cathodes by cross-flow structure design. *Nat. Chem.* **2025**, Accepted.
+(47) Chen, J.; Jiang, L.; Tan, S.; Yang, J.; Li, Z.; Bai, C.; Zhang, X.; Li, R.; Xie, Y.; Liu, M.; He, Y.-B.; **Hou, T.**\* Machine-learning-aided screening of inorganic lithium solid-state electrolytes with wide electrochemical window. *J. Mater. Chem. A* **2025**, *13*, 23445–23453. [[doi](https://doi.org/10.1039/D5TA04197J){:target="_blank"}] [[dataset](https://zenodo.org/records/15505298){:target="_blank"}]
 
-(46) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. *Chem. Commun.* **2025**, Accepted. ([2025 Emerging Investigators](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cc&themeid=81fa2e14-4321-4579-9458-97ef3ada6f87))  [[doi](https://doi.org/10.1039/D5CC01099C){:target="_blank"}]
+(46) Ji, C.; Tan, S.; Liang, B.; Yang, K.; Li, Z.; Zhu, Y.; Xie, Y.; He, Y.-B.; Li, J.; **Hou, T.**\* Optimizing transport and redox properties of PVDF-based electrolytes through structural design of residual solvents. *Chem. Commun.* **2025**, *61*, 10989–10992. ([2025 Emerging Investigators](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cc&themeid=81fa2e14-4321-4579-9458-97ef3ada6f87))  [[doi](https://doi.org/10.1039/D5CC01099C){:target="_blank"}]
 
 (45) Liao, J.; Chen, H.; Xie, Y.; Li, Z.; Tan, S.; Zhou, S.; Jiang, L.; Zhang, X.; Liu, M.; He, Y.-B.; Kang, F.; Lun, Z.\*; Zhao, S.\*; **Hou, T.**\* Modeling Short-Range Order in High-Entropy Cation-Disordered Rocksalt-Type Cathodes. *Adv. Energy Mater.* **2025**, 2501857. [[doi](https://doi.org/10.1002/aenm.202501857){:target="_blank"}] [[code](https://github.com/HouGroup/SROS){:target="_blank"}]
 
 (44) Zhou, S.<sup>‡</sup>; Liao, J.<sup>‡</sup>; Gao, T.; Sun, Y.; Yu, C.; **Hou, T.**; Zhao, S.\*; Cao, G.\* High-Entropy Li-Rich Layered Cathodes with Negligible Voltage Decay through Migration Retardation Effect. *Adv. Mater.* **2025**, 2505189. [[doi](https://doi.org/10.1002/adma.202505189){:target="_blank"}]
 
-(43) Zhou, S.; Xu, W.; Wang, Z.; Yao, K.; Ji, C.; **Hou, T.**; He, Y.-B.; Guo, H.\* "Like dissolves like" strategy facilitates interfacial polymerization for facile synthesis of highly permeable reverse osmosis membranes. *Nano Lett.* **2025**, *25*, 8287-8293. [[doi](https://doi.org/10.1021/acs.nanolett.5c01408){:target="_blank"}]
+(43) Zhou, S.; Xu, W.; Wang, Z.; Yao, K.; Ji, C.; **Hou, T.**; He, Y.-B.; Guo, H.\* "Like dissolves like" strategy facilitates interfacial polymerization for facile synthesis of highly permeable reverse osmosis membranes. *Nano Lett.* **2025**, *25*, 8287–8293. [[doi](https://doi.org/10.1021/acs.nanolett.5c01408){:target="_blank"}]
 
-(42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. *Chem. Rev.* **2025**, accepted. [[doi](https://doi.org/10.1021/acs.chemrev.4c01012){:target="_blank"}]
+(42) Bai, C.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Xiao, G.<sup>‡</sup>; Chen, J.; Tan, S.; Shi, P.; **Hou, T.**\*; Liu, M.\*; He, Y.-B.\*; Kang, F.\* Understanding the Electrochemical Window of Solid-state Electrolyte in Full Battery Application. *Chem. Rev.* **2025**, *125*, 6541–6608. [[doi](https://doi.org/10.1021/acs.chemrev.4c01012){:target="_blank"}]
 
 (41) Chen, L.; Gu, T.; Mi, J.; Li, Y.; Yang, K.; Ma, J.; An, X.; Jiang, Y.; Zhang, D.; Cheng, X.; Guo, S.; Han, Z.; **Hou, T.**; Cao, Y.; Liu, M.\*; Lv, W.\*; He, Y.-B.\*; Kang, F.\* Homogeneous polymer-ionic solvate electrolyte with weak dipole-dipole interaction enabling long cycling pouch lithium metal battery. *Nat. Commun.* **2025**, *16*, 3517. [[doi](https://doi.org/10.1038/s41467-025-58689-3){:target="_blank"}]
 
