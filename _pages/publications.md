@@ -27,7 +27,7 @@ author_profile: true
 
 (38) Xie, Y.; Yang, J.; Cao, Y.; Lv, W.; He, Y.-B.; Jiang, L.\*; **Hou, T.**\* InterOptimus: an AI-assisted robust workflow for screening ground-state heterogeneous interface structures in lithium batteries. *J. Energy Chem.* **2025**, *106*, 631–641. ([AI4Batteries](https://www.sciencedirect.com/special-issue/10C141544P4) Special issue) [[doi](https://doi.org/10.1016/j.jechem.2025.03.007){:target="_blank"}] [[code](https://github.com/HouGroup/InterOptimus){:target="_blank"}] [[code](https://github.com/HouGroup/mlipdockers){:target="_blank"}]
 
-(37) Dai, P.; Liao, J.; Li, J.; Zhou, S.; Liu, Y.; **Hou, T.**; Cao, G.\*; Zhao, S.\* Structural Instability of NCM-LATP Composite Cathode during Co-sintering. *Adv. Funct. Mater.* **2025**, accepted. [[doi](https://doi.org/10.1002/adfm.202421775){:target="_blank"}]
+(37) Dai, P.; Liao, J.; Li, J.; Zhou, S.; Liu, Y.; **Hou, T.**; Cao, G.\*; Zhao, S.\* Structural Instability of NCM-LATP Composite Cathode during Co-sintering. *Adv. Funct. Mater.* **2025**, *35*, 2421775. [[doi](https://doi.org/10.1002/adfm.202421775){:target="_blank"}]
 
 (36) Han, Z.; Chen, L.; Zheng, G.; Zhang, D.; Yang, K.; Xiao, G.; Xu, H.; Li, Y.; An, X.; Ma, Y.; Guo, S.; Chen, Y.;  **Hou, T.**; Cao, Y.; Zhang, C.\*; He, Y.-B.\*; Liu, M.\* Ionic Liquid Reinforcing Ether Coordination of Localized High Concentration Electrolyte Enables High-voltage Lithium Metal Batteries. *Adv. Mater.* **2025**, *37*, 2416668. [[doi](https://doi.org/10.1002/adma.202416668){:target="_blank"}]
 
