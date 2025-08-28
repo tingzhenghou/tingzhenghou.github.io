@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
+(49) Wang, X.; Ji, C.; Chen, H.; Liu, Y.; Ye, Z.; Hou, T.; Li, Z.\* Size-Induced High Entropy Effect for Optimized Electrolyte Design of Lithium-Ion Batteries. *Adv. Mater.* **2025**, e14068. [[doi](https://doi.org/10.1002/adma.202514068){:target="_blank"}]
+
 (48) Deng, X.; Liu, L.; Zhang, S.; Chen, Q.; Zhang, X.; Wu, H.; Chen, Y.; **Hou, T.**; Liu, M.; Zhou, D.; Peng, L.\*; Chen, Z.\* Ultrafast charging of two-dimensional polymer cathodes by cross-flow structure design. *Nat. Chem.* **2025**, Accepted. [[doi](https://doi.org/10.1038/s41557-025-01899-5){:target="_blank"}]
 
 (47) Chen, J.; Jiang, L.; Tan, S.; Yang, J.; Li, Z.; Bai, C.; Zhang, X.; Li, R.; Xie, Y.; Liu, M.; He, Y.-B.; **Hou, T.**\* Machine-learning-aided screening of inorganic lithium solid-state electrolytes with wide electrochemical window. *J. Mater. Chem. A* **2025**, *13*, 23445–23453. [[doi](https://doi.org/10.1039/D5TA04197J){:target="_blank"}] [[dataset](https://zenodo.org/records/15505298){:target="_blank"}]
