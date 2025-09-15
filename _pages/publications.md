@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-(50) Wang, Z.; Mao, Z.\*; He, X.; Huang, X.; Zhang, H.; Cheng, C.; Chu, S.; **Hou, T.**; Zeng, X.\*; Xie, Y.\* 4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion. *AI for Science*, **2025**, accepted.
+(50) Wang, Z.; Mao, Z.\*; He, X.; Huang, X.; Zhang, H.; Cheng, C.; Chu, S.; **Hou, T.**; Zeng, X.\*; Xie, Y.\* 4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion. *AI for Science*, **2025**, accepted. [[doi](https://doi.org/10.1088/3050-287X/ae05b6){:target="_blank"}]
 
 (49) Wang, X.; Ji, C.; Chen, H.; Liu, Y.; Ye, Z.; Hou, T.; Li, Z.\* Size-Induced High Entropy Effect for Optimized Electrolyte Design of Lithium-Ion Batteries. *Adv. Mater.* **2025**, e14068. [[doi](https://doi.org/10.1002/adma.202514068){:target="_blank"}]
 
