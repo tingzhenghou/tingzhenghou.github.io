@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
+(51) Mi, J.; Yang, J.; Chen, L.; Cui, W.; Li, Y.; An, X.; Ma, J.; Yang, K.; Xie, Y.; Biao, J.; Long, Y.; Ge, H.; Han, B.; Ke, R.; Xiao, G.; Tan, S.; Zhang, D.; Cheng, X.; **Hou, T.**\*; Huang, Y.; Liu, M.; Lv, W.\*; Gan, L.; He, Y.-B.\*; Yang, Q.-H.\*; Kang, F.\* A ductile solid electrolyte interphase for solid-state batteries. Accepted.
+
 (50) Wang, Z.; Mao, Z.\*; He, X.; Huang, X.; Zhang, H.; Cheng, C.; Chu, S.; **Hou, T.**; Zeng, X.\*; Xie, Y.\* 4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion. *AI for Science*, **2025**, *1*, 015003. [[doi](https://doi.org/10.1088/3050-287X/ae05b6){:target="_blank"}]
 
 (49) Wang, X.; Ji, C.; Chen, H.; Liu, Y.; Ye, Z.; Hou, T.; Li, Z.\* Size-Induced High Entropy Effect for Optimized Electrolyte Design of Lithium-Ion Batteries. *Adv. Mater.* **2025**, e14068. [[doi](https://doi.org/10.1002/adma.202514068){:target="_blank"}]
