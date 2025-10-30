@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-(51) Mi, J.<sup>‡</sup>; Yang, J.<sup>‡</sup>; Chen, L.<sup>‡</sup>; Cui, W.<sup>‡</sup>; Li, Y.; An, X.; Ma, J.; Yang, K.; Xie, Y.; Biao, J.; Long, Y.; Ge, H.; Han, B.; Ke, R.; Xiao, G.; Tan, S.; Zhang, D.; Cheng, X.; **Hou, T.**\*; Huang, Y.; Liu, M.; Lv, W.\*; Gan, L.; He, Y.-B.\*; Yang, Q.-H.\*; Kang, F.\* A ductile solid electrolyte interphase for solid-state batteries. *Nature*, **2025**. [[doi](https://www.nature.com/articles/s41586-025-09675-8){:target="_blank"}]
+(51) Mi, J.<sup>‡</sup>; Yang, J.<sup>‡</sup>; Chen, L.<sup>‡</sup>; Cui, W.<sup>‡</sup>; Li, Y.; An, X.; Ma, J.; Yang, K.; Xie, Y.; Biao, J.; Long, Y.; Ge, H.; Han, B.; Ke, R.; Xiao, G.; Tan, S.; Zhang, D.; Cheng, X.; **Hou, T.**\*; Huang, Y.; Liu, M.; Lv, W.\*; Gan, L.; He, Y.-B.\*; Yang, Q.-H.\*; Kang, F.\* A ductile solid electrolyte interphase for solid-state batteries. *Nature*, **2025**. [[doi](https://www.nature.com/articles/s41586-025-09675-8){:target="_blank"}] [[pdf](https://rdcu.be/eNkYX){:target="_blank"}]
 
 (50) Wang, Z.; Mao, Z.\*; He, X.; Huang, X.; Zhang, H.; Cheng, C.; Chu, S.; **Hou, T.**; Zeng, X.\*; Xie, Y.\* 4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion. *AI for Science*, **2025**, *1*, 015003. [[doi](https://doi.org/10.1088/3050-287X/ae05b6){:target="_blank"}]
 
