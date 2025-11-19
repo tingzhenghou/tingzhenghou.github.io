@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
+(52) Zhao, Y.; Ma, Y.; Yang, J.; Chen, L.; Guo, S.; Jiang, C.; Li, Y.; An, X.; Shang, G.; Li, B.; Fu, Z.; Cheng, X.\*; **Hou, T.**\*; He, Y.-B.\* Electron Percolating Shielded Interlayer Enabling Ultrastable All-Solid-State Lithium Metal Batteries. *Adv. Mater.*, **2025**, e15687. [[doi](https://doi.org/10.1002/adma.202515687){:target="_blank"}]
+
 (51) Mi, J.<sup>‡</sup>; Yang, J.<sup>‡</sup>; Chen, L.<sup>‡</sup>; Cui, W.<sup>‡</sup>; Li, Y.; An, X.; Ma, J.; Yang, K.; Xie, Y.; Biao, J.; Long, Y.; Ge, H.; Han, B.; Ke, R.; Xiao, G.; Tan, S.; Zhang, D.; Cheng, X.; **Hou, T.**\*; Huang, Y.; Liu, M.; Lv, W.\*; Gan, L.; He, Y.-B.\*; Yang, Q.-H.\*; Kang, F.\* A ductile solid electrolyte interphase for solid-state batteries. *Nature*, **2025**, *647*, 86–92. [[doi](https://www.nature.com/articles/s41586-025-09675-8){:target="_blank"}] [[pdf](https://rdcu.be/eNkYX){:target="_blank"}]
 
 (50) Wang, Z.; Mao, Z.\*; He, X.; Huang, X.; Zhang, H.; Cheng, C.; Chu, S.; **Hou, T.**; Zeng, X.\*; Xie, Y.\* 4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion. *AI for Science*, **2025**, *1*, 015003. [[doi](https://doi.org/10.1088/3050-287X/ae05b6){:target="_blank"}]
 
-(49) Wang, X.; Ji, C.; Chen, H.; Liu, Y.; Ye, Z.; Hou, T.; Li, Z.\* Size-Induced High Entropy Effect for Optimized Electrolyte Design of Lithium-Ion Batteries. *Adv. Mater.* **2025**, e14068. [[doi](https://doi.org/10.1002/adma.202514068){:target="_blank"}]
+(49) Wang, X.; Ji, C.; Chen, H.; Liu, Y.; Ye, Z.; **Hou, T.**; Li, Z.\* Size-Induced High Entropy Effect for Optimized Electrolyte Design of Lithium-Ion Batteries. *Adv. Mater.* **2025**, *37*, e14068. [[doi](https://doi.org/10.1002/adma.202514068){:target="_blank"}]
 
 (48) Deng, X.; Liu, L.; Zhang, S.; Chen, Q.; Zhang, X.; Wu, H.; Chen, Y.; **Hou, T.**; Liu, M.; Zhou, D.; Peng, L.\*; Chen, Z.\* Ultrafast charging of two-dimensional polymer cathodes by cross-flow structure design. *Nat. Chem.* **2025**, *17*, 1546–1555. [[doi](https://doi.org/10.1038/s41557-025-01899-5){:target="_blank"}]
 
@@ -105,7 +107,7 @@ author_profile: true
 
 (9) Chen, C.-Y.<sup>‡</sup>; Peng, H.-J.<sup>‡</sup>; **Hou, T.-Z.**<sup>‡</sup>; Zhai, P.-Y.; Li, B.-Q.; Tang, C.; Zhu, W.; Huang, J.-Q.; Zhang, Q.\* A Quinonoid-Imine-Enriched Nanostructured Polymer Mediator for Lithium–Sulfur Batteries. *Adv. Mater.* **2017**, *29*, 1606802. [[doi](https://doi.org/10.1002/adma.201606802){:target="_blank"}] [[pdf](https://www.qianggroup.com/wp/pdf/0/2022-PDF/2022-04/Advanced%20Materials%20-%202017%20-%20Chen%20-%20A%20Quinonoid%E2%80%90Imine%E2%80%90Enriched%20Nanostructured%20Polymer%20Mediator%20for%20Lithium%20Sulfur%20Batteries.pdf){:target="_blank"}]<!--use zhang website version-->
 
-(8) Chen, X.; Hou, T.; Peng, H.; Cheng, X.; Huang, J.; Zhang, Q.\* Review on the applications of first-principles calculation in lithium-sulfur batteries. *Energy Storage Science and Technology* **2017**, *6*, 500-521. [[doi](https://doi.org/10.12028/j.issn.2095-4239.2017.0031){:target="_blank"}] [[pdf](https://tingzhenghou.github.io/files/papers/ESST.pdf){:target="_blank"}]<!--中文核心-->
+(8) Chen, X.; **Hou, T.**; Peng, H.; Cheng, X.; Huang, J.; Zhang, Q.\* Review on the applications of first-principles calculation in lithium-sulfur batteries. *Energy Storage Science and Technology* **2017**, *6*, 500-521. [[doi](https://doi.org/10.12028/j.issn.2095-4239.2017.0031){:target="_blank"}] [[pdf](https://tingzhenghou.github.io/files/papers/ESST.pdf){:target="_blank"}]<!--中文核心-->
 
 (7) Chen, X.; Peng, H.-J.; Zhang, R.; **Hou, T.-Z.**; Huang, J.-Q.; Li, B.; Zhang, Q.\* An Analogous Periodic Law for Strong Anchoring of Polysulfides on Polar Hosts in Lithium Sulfur Batteries: S- or Li-Binding on First-Row Transition-Metal Sulfides? *ACS Energy Lett.* **2017**, *2*, 795-801. [[doi](https://doi.org/10.1021/acsenergylett.7b00164){:target="_blank"}] [[pdf](https://www.qianggroup.com/wp/pdf/ACS%20Energy%20Letters-2017-An%20Analogous%20Periodic%20Law%20for%20Strong%20Anchoring%20of%20Polysulfides%20on%20Polar%20Hosts%20in%20Lithium%20Sulfur%20Batteries.pdf){:target="_blank"}]<!--use zhang website version-->
 
