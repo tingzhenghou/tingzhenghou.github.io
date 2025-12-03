@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-(53) Tan, S.; Liang, B.; Lu, D.; Ji, C.; Ji, W.; Li, Z.; **Hou, T.**\*. PEMD: a high-throughput simulation and analysis framework for solid polymer electrolytes. *Digit. Discov.*, **2025**, Accepted.
+(53) Tan, S.; Liang, B.; Lu, D.; Ji, C.; Ji, W.; Li, Z.; **Hou, T.**\*. PEMD: a high-throughput simulation and analysis framework for solid polymer electrolytes. *Digit. Discov.*, **2025**, D5DD00454C. [[doi](https://doi.org/10.1039/D5DD00454C){:target="_blank"}]
 
 (52) Zhao, Y.; Ma, Y.; Yang, J.; Chen, L.; Guo, S.; Jiang, C.; Li, Y.; An, X.; Shang, G.; Li, B.; Fu, Z.; Cheng, X.\*; **Hou, T.**\*; He, Y.-B.\* Electron Percolating Shielded Interlayer Enabling Ultrastable All-Solid-State Lithium Metal Batteries. *Adv. Mater.*, **2025**, e15687. [[doi](https://doi.org/10.1002/adma.202515687){:target="_blank"}]
 
