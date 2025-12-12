@@ -1,0 +1,5 @@
+{
+  "name": "Sycamore State Hub",
+  "description": "A visual dashboard for analyzing Slurm system state, visualizing node occupancy and cluster resource utilization.",
+  "requestFramePermissions": []
+}
