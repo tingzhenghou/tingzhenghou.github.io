@@ -24,6 +24,10 @@ author_profile: false
     margin-left: 20px;
     margin-right: 20px;
   }
+  /* HIDE THE JEKYLL PAGE TITLE */
+  .page__title, .page__header {
+    display: none !important;
+  }
 </style>
 
 <script src="https://cdn.tailwindcss.com"></script>
