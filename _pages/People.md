@@ -89,6 +89,14 @@ author_profile: true
             </div>
         </div>
     </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/ch.jpg" alt="Dr. Xiaoyu Huang" class="avatar">
+            <div class="text-info">
+                <p>Dr. Xiaoyu Huang <br> Joint Postdoctoral Researcher with Sunwoda  <br> <a href="mailto:13752566373@163.com">13752566373@163.com</a></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 ## PhD students
