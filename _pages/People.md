@@ -266,9 +266,9 @@ author_profile: true
 <div class="container">
     <div class="profile">
         <div class="profile-info">
-            <img src="/images/lbc.jpg" alt="Bochun Liang" class="avatar">
+            <img src="/images/lbc.jpg" alt="Dr. Bochun Liang" class="avatar">
             <div class="text-info">
-                <p>Bochun Liang <br> Ph.D., City University of Hong Kong <br> <a href="mailto:bochliang2-c@my.cityu.edu.hk">bochliang2-c@my.cityu.edu.hk</a></p>
+                <p>Dr. Bochun Liang <br> Ph.D., City University of Hong Kong <br> <a href="mailto:bochliang2-c@my.cityu.edu.hk">bochliang2-c@my.cityu.edu.hk</a></p>
             </div>
         </div>
     </div>
