@@ -239,7 +239,7 @@ author_profile: true
         <div class="profile-info">
            <img src="/images/ch.jpg" alt="Xu Yang" class="avatar">
             <div class="text-info">
-                <p>Feihuang Ma<br> Master's student <br> <a href="mailto:yangxu25@mails.tsinghua.edu.cn">yangxu25@mails.tsinghua.edu.cn</a></p>
+                <p>Xu Yang<br> Master's student <br> <a href="mailto:yangxu25@mails.tsinghua.edu.cn">yangxu25@mails.tsinghua.edu.cn</a></p>
             </div>
         </div>
     </div>
