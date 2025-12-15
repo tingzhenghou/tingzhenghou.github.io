@@ -122,7 +122,23 @@ author_profile: true
         <div class="profile-info">
             <img src="/images/ljh.jpg" alt="Junhong Liao" class="avatar">
             <div class="text-info">
-                <p>Junhong Liao <br> Ph.D. student <br> <a href="mailto:liaojh22@mails.tsinghua.edu.cn">liaojh22@mails.tsinghua.edu.cn</a></p>
+                <p>Junhong Liao <br> Ph.D. candidate <br> <a href="mailto:liaojh22@mails.tsinghua.edu.cn">liaojh22@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/ch.jpg" alt="Dexin Lu" class="avatar">
+            <div class="text-info">
+                <p>Dexin Lu <br> Ph.D. student <br> <a href="mailto:ludx25@mails.tsinghua.edu.cn">ludx25@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+            <img src="/images/ch.jpg" alt="Zihan Xu" class="avatar">
+            <div class="text-info">
+                <p>Zihan Xu <br> Ph.D. student <br> <a href="mailto:zihan-xu25@mails.tsinghua.edu.cn">zihan-xu25@mails.tsinghua.edu.cn</a></p>
             </div>
         </div>
     </div>
@@ -181,6 +197,14 @@ author_profile: true
     </div>
     <div class="profile">
         <div class="profile-info">
+            <img src="/images/ch.jpg" alt="Rui Zhang" class="avatar">
+            <div class="text-info">
+                <p>Rui Zhang <br> Master's student, co-advised by Prof. Kuang Yu <br> <a href="mailto:zhang-r24@mails.tsinghua.edu.cn">zhang-r24@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
             <img src="/images/ch.jpg" alt="Nan Wang" class="avatar">
             <div class="text-info">
                 <p>Nan Wang<br> Master's student, co-advised by Prof. Hao Guo <br> <a href="mailto:wn24@mails.tsinghua.edu.cn">wn24@mails.tsinghua.edu.cn</a></p>
@@ -195,6 +219,38 @@ author_profile: true
             </div>
         </div>
     </div>
+    <div class="profile">
+        <div class="profile-info">
+           <img src="/images/ch.jpg" alt="Yanqing Fang" class="avatar">
+            <div class="text-info">
+                <p>Yanqing Fang<br> Master's student <br> <a href="mailto:fangyq21@mails.tsinghua.edu.cn">fangyq21@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+           <img src="/images/ch.jpg" alt="Ziyi Man" class="avatar">
+            <div class="text-info">
+                <p>Ziyi Man<br> Master's student <br> <a href="mailto:manzy25@mails.tsinghua.edu.cn">manzy25@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+           <img src="/images/ch.jpg" alt="Xu Yang" class="avatar">
+            <div class="text-info">
+                <p>Feihuang Ma<br> Master's student <br> <a href="mailto:yangxu25@mails.tsinghua.edu.cn">yangxu25@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="profile">
+        <div class="profile-info">
+           <img src="/images/ch.jpg" alt="Nayema Akter" class="avatar">
+            <div class="text-info">
+                <p>Nayema Akter<br> Master's student <br> <a href="mailto:shu-m25@mails.tsinghua.edu.cn">shu-m25@mails.tsinghua.edu.cn</a></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 ## Alumni
@@ -204,7 +260,7 @@ author_profile: true
         <div class="profile-info">
             <img src="/images/lbc.jpg" alt="Bochun Liang" class="avatar">
             <div class="text-info">
-                <p>Bochun Liang <br> PhD candidate from City University of Hong Kong <br> <a href="mailto:bochliang2-c@my.cityu.edu.hk">bochliang2-c@my.cityu.edu.hk</a></p>
+                <p>Bochun Liang <br> Ph.D., City University of Hong Kong <br> <a href="mailto:bochliang2-c@my.cityu.edu.hk">bochliang2-c@my.cityu.edu.hk</a></p>
             </div>
         </div>
     </div>
