@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### 2026
 
-(53) Tan, S.; Liang, B.; Lu, D.; Ji, C.; Ji, W.; Li, Z.; **Hou, T.**\*. PEMD: a high-throughput simulation and analysis framework for solid polymer electrolytes. *Digit. Discov.*, **2026**, D5DD00454C. [[doi](https://doi.org/10.1039/D5DD00454C){:target="_blank"}]
+(53) Tan, S.; Liang, B.; Lu, D.; Ji, C.; Ji, W.; Li, Z.; **Hou, T.**\*. PEMD: a high-throughput simulation and analysis framework for solid polymer electrolytes. *Digit. Discov.*, **2026**, *5*, 193–202. [[doi](https://doi.org/10.1039/D5DD00454C){:target="_blank"}]
 
 ### 2025
 
