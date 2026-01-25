@@ -16,7 +16,8 @@ redirect_from:
 
 ## Research experience
 * Tsinghua Shenzhen International Graduate School, Tsinghua University
-  * Tenure-track assistant professor (2022-Present)
+  * Tenure-track associate professor (2026-Present)
+  * Tenure-track assistant professor (2022-2025)
 
 * University of California, Berkeley
   * Postdoctoral scholar in [Prof. Kristin A. Persson](https://perssongroup.lbl.gov/){:target="_blank"} research group (2021 - 2022)
