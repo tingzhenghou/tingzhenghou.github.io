@@ -6,6 +6,8 @@ author_profile: true
 ---
 ### 2026
 
+(54) Liang, B.; Huang, X.-Y.; Tan, S.; Wang, T.; Ji, C.; Si, T.; Li, X.-Y.; Chen, H.; Xie, Y.; Jiang, L.; Zhao, C.-Z.\*; Fan, J.\*; **Hou, T.**\*; Zhang, Q. Discontinuous Coordination Boosting Ion Transport in Solid Polymer Electrolytes. *Energy Environ. Sci.*, **2026**, Accepted. [[doi](https://doi.org/10.1039/D5EE05901A){:target="_blank"}]
+
 (53) Tan, S.; Liang, B.; Lu, D.; Ji, C.; Ji, W.; Li, Z.; **Hou, T.**\*. PEMD: a high-throughput simulation and analysis framework for solid polymer electrolytes. *Digit. Discov.*, **2026**, *5*, 193–202. [[doi](https://doi.org/10.1039/D5DD00454C){:target="_blank"}]
 
 ### 2025
