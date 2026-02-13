@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2026
+
 (55) Li, Z.; Tan, S.; Ji, C.; Liao, J.; Xie, Y.; Jiang, L.; **Hou, T.**\*. Reinforcing Transformer-Based Polymer Electrolyte Discovery through High-Fidelity Fine-Tuning and Application-Oriented Screening. *Mater. Today Energy*, **2026**, Accepted. [[doi](https://doi.org/10.1016/j.mtener.2026.102238){:target="_blank"}]
 
 
@@ -12,9 +13,9 @@ author_profile: true
 
 (53) Tan, S.; Liang, B.; Lu, D.; Ji, C.; Ji, W.; Li, Z.; **Hou, T.**\*. PEMD: a high-throughput simulation and analysis framework for solid polymer electrolytes. *Digit. Discov.*, **2026**, *5*, 193–202. [[doi](https://doi.org/10.1039/D5DD00454C){:target="_blank"}]
 
-### 2025
+(52) Zhao, Y.; Ma, Y.; Yang, J.; Chen, L.; Guo, S.; Jiang, C.; Li, Y.; An, X.; Shang, G.; Li, B.; Fu, Z.; Cheng, X.\*; **Hou, T.**\*; He, Y.-B.\* Electron Percolating Shielded Interlayer Enabling Ultrastable All-Solid-State Lithium Metal Batteries. *Adv. Mater.*, **2025**, *38*, e15687. [[doi](https://doi.org/10.1002/adma.202515687){:target="_blank"}]
 
-(52) Zhao, Y.; Ma, Y.; Yang, J.; Chen, L.; Guo, S.; Jiang, C.; Li, Y.; An, X.; Shang, G.; Li, B.; Fu, Z.; Cheng, X.\*; **Hou, T.**\*; He, Y.-B.\* Electron Percolating Shielded Interlayer Enabling Ultrastable All-Solid-State Lithium Metal Batteries. *Adv. Mater.*, **2025**, e15687. [[doi](https://doi.org/10.1002/adma.202515687){:target="_blank"}]
+### 2025
 
 (51) Mi, J.<sup>‡</sup>; Yang, J.<sup>‡</sup>; Chen, L.<sup>‡</sup>; Cui, W.<sup>‡</sup>; Li, Y.; An, X.; Ma, J.; Yang, K.; Xie, Y.; Biao, J.; Long, Y.; Ge, H.; Han, B.; Ke, R.; Xiao, G.; Tan, S.; Zhang, D.; Cheng, X.; **Hou, T.**\*; Huang, Y.; Liu, M.; Lv, W.\*; Gan, L.; He, Y.-B.\*; Yang, Q.-H.\*; Kang, F.\* A ductile solid electrolyte interphase for solid-state batteries. *Nature*, **2025**, *647*, 86–92. [[doi](https://www.nature.com/articles/s41586-025-09675-8){:target="_blank"}] [[pdf](https://rdcu.be/eNkYX){:target="_blank"}]
 
