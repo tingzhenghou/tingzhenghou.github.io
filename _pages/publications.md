@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2026
+(55) Li, Z.; Tan, S.; Ji, C.; Liao, J.; Xie, Y.; Jiang, L.; **Hou, T.**\*. Reinforcing Transformer-Based Polymer Electrolyte Discovery through High-Fidelity Fine-Tuning and Application-Oriented Screening. *Mater. Today Energy*, **2026**, Accepted. [[doi](https://doi.org/10.1016/j.mtener.2026.102238){:target="_blank"}]
+
 
 (54) Liang, B.; Huang, X.-Y.; Tan, S.; Wang, T.; Ji, C.; Si, T.; Li, X.-Y.; Chen, H.; Xie, Y.; Jiang, L.; Zhao, C.-Z.\*; Fan, J.\*; **Hou, T.**\*; Zhang, Q. Discontinuous Coordination Boosting Ion Transport in Solid Polymer Electrolytes. *Energy Environ. Sci.*, **2026**, Accepted. [[doi](https://doi.org/10.1039/D5EE05901A){:target="_blank"}]
 
