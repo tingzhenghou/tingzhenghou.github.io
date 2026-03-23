@@ -6,10 +6,12 @@ author_profile: true
 ---
 ### 2026
 
-(55) Li, Z.; Tan, S.; Ji, C.; Liao, J.; Xie, Y.; Jiang, L.; **Hou, T.**\*. Reinforcing Transformer-Based Polymer Electrolyte Discovery through High-Fidelity Fine-Tuning and Application-Oriented Screening. *Mater. Today Energy*, **2026**, Accepted. [[doi](https://doi.org/10.1016/j.mtener.2026.102238){:target="_blank"}]
+(56) Li, S.; Wang, L.\*; Zhu, H.; Liao, J.; Ye, J.; Huo, S.; Qi, M.; Liu, Y.\*; Xu, C.\*; **Hou, T.**\*; Chen, Z.; He, X.\* Origin of Zonal Polarization in Mn<sup>3+</sup>/Mn<sup>2+</sup> plateau and Its Influence on the Electrochemical Performance of LiMn<sub>γ</sub>Fe<sub>1−γ</sub>PO<sub>4</sub>. *Mater. Today*, **2026**, Accepted. [[doi](https://doi.org/10.1016/j.mattod.2026.103304){:target="_blank"}]
+
+(55) Li, Z.; Tan, S.; Ji, C.; Liao, J.; Xie, Y.; Jiang, L.; **Hou, T.**\*. Reinforcing Transformer-Based Polymer Electrolyte Discovery through High-Fidelity Fine-Tuning and Application-Oriented Screening. *Mater. Today Energy*, **2026**, *57*, 102238. [[doi](https://doi.org/10.1016/j.mtener.2026.102238){:target="_blank"}]
 
 
-(54) Liang, B.; Huang, X.-Y.; Tan, S.; Wang, T.; Ji, C.; Si, T.; Li, X.-Y.; Chen, H.; Xie, Y.; Jiang, L.; Zhao, C.-Z.\*; Fan, J.\*; **Hou, T.**\*; Zhang, Q. Discontinuous coordination boosting ion transport in solid polymer electrolytes. *Energy Environ. Sci.*, **2026**, Accepted. [[doi](https://doi.org/10.1039/D5EE05901A){:target="_blank"}]
+(54) Liang, B.; Huang, X.-Y.; Tan, S.; Wang, T.; Ji, C.; Si, T.; Li, X.-Y.; Chen, H.; Xie, Y.; Jiang, L.; Zhao, C.-Z.\*; Fan, J.\*; **Hou, T.**\*; Zhang, Q. Discontinuous coordination boosting ion transport in solid polymer electrolytes. *Energy Environ. Sci.*, **2026**, *19*, 1616–1629. [[doi](https://doi.org/10.1039/D5EE05901A){:target="_blank"}]
 
 (53) Tan, S.; Liang, B.; Lu, D.; Ji, C.; Ji, W.; Li, Z.; **Hou, T.**\*. PEMD: a high-throughput simulation and analysis framework for solid polymer electrolytes. *Digit. Discov.*, **2026**, *5*, 193–202. [[doi](https://doi.org/10.1039/D5DD00454C){:target="_blank"}]
 
@@ -17,7 +19,7 @@ author_profile: true
 
 ### 2025
 
-(51) Mi, J.<sup>‡</sup>; Yang, J.<sup>‡</sup>; Chen, L.<sup>‡</sup>; Cui, W.<sup>‡</sup>; Li, Y.; An, X.; Ma, J.; Yang, K.; Xie, Y.; Biao, J.; Long, Y.; Ge, H.; Han, B.; Ke, R.; Xiao, G.; Tan, S.; Zhang, D.; Cheng, X.; **Hou, T.**\*; Huang, Y.; Liu, M.; Lv, W.\*; Gan, L.; He, Y.-B.\*; Yang, Q.-H.\*; Kang, F.\* A ductile solid electrolyte interphase for solid-state batteries. *Nature*, **2025**, *647*, 86–92. [[doi](https://www.nature.com/articles/s41586-025-09675-8){:target="_blank"}] [[pdf](https://rdcu.be/eNkYX){:target="_blank"}]
+(51) Mi, J.<sup>‡</sup>; Yang, J.<sup>‡</sup>; Chen, L.<sup>‡</sup>; Cui, W.<sup>‡</sup>; Li, Y.; An, X.; Ma, J.; Yang, K.; Xie, Y.; Biao, J.; Long, Y.; Ge, H.; Han, B.; Ke, R.; Xiao, G.; Tan, S.; Zhang, D.; Cheng, X.; **Hou, T.**\*; Huang, Y.; Liu, M.; Lv, W.\*; Gan, L.; He, Y.-B.\*; Yang, Q.-H.\*; Kang, F.\* A ductile solid electrolyte interphase for solid-state batteries. *Nature*, **2025**, *647*, 86–92. [[doi](https://doi.org/10.1038/s41586-025-09675-8){:target="_blank"}] [[pdf](https://rdcu.be/eNkYX){:target="_blank"}]
 
 (50) Wang, Z.; Mao, Z.\*; He, X.; Huang, X.; Zhang, H.; Cheng, C.; Chu, S.; **Hou, T.**; Zeng, X.\*; Xie, Y.\* 4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion. *AI for Science*, **2025**, *1*, 015003. [[doi](https://doi.org/10.1088/3050-287X/ae05b6){:target="_blank"}]
 
