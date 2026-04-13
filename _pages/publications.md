@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### 2026
 
-(57) Yao, K.; Wu, H.; Su, W.; Shao, Q.; Long, L.; Li, B.; Hou, T.; He, Y.-B.; Qiu, J.; Guo, H.\* Overlooked role of Coulombic and dipole-surface interactions in the rejection of polar contaminants by polyamide membranes. *Environ. Sci. Technol.*, **2026**, Accepted. [[doi](https://doi.org/10.1021/acs.est.5c18676){:target="_blank"}]
+(57) Yao, K.; Wu, H.; Su, W.; Shao, Q.; Long, L.; Li, B.; Hou, T.; He, Y.-B.; Qiu, J.; Guo, H.\* Overlooked role of Coulombic and dipole–surface interactions in the rejection of polar contaminants by polyamide membranes. *Environ. Sci. Technol.*, **2026**, Accepted. [[doi](https://doi.org/10.1021/acs.est.5c18676){:target="_blank"}]
 
 (56) Li, S.; Wang, L.\*; Zhu, H.; Liao, J.; Ye, J.; Huo, S.; Qi, M.; Liu, Y.\*; Xu, C.\*; **Hou, T.**\*; Chen, Z.; He, X.\* Origin of Zonal Polarization in Mn<sup>3+</sup>/Mn<sup>2+</sup> plateau and Its Influence on the Electrochemical Performance of LiMn<sub>γ</sub>Fe<sub>1−γ</sub>PO<sub>4</sub>. *Mater. Today*, **2026**, *96*, 103304. [[doi](https://doi.org/10.1016/j.mattod.2026.103304){:target="_blank"}]
 
