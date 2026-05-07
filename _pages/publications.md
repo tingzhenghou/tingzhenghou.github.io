@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### 2026
 
-(58) Lian, J.; Tan, S.; **Hou, T.**; Wang, Z.\* Molecular engineering enhances dielectric shielding for high-performance lithium-metal batteries. *Energy Storage Mater.* **2026**, Accepted. [[doi](https://doi.org/10.1016/j.ensm.2026.105178){:target="_blank"}]
+(58) Lian, J.; Tan, S.; **Hou, T.**; Wang, Z.\* Molecular engineering enhances dielectric shielding for high-performance lithium-metal batteries. *Energy Storage Mater.*, **2026**, Accepted. [[doi](https://doi.org/10.1016/j.ensm.2026.105178){:target="_blank"}]
 
 (57) Yao, K.; Wu, H.; Su, W.; Shao, Q.; Long, L.; Li, B.; **Hou, T.**; He, Y.-B.; Qiu, J.; Guo, H.\* Overlooked role of Coulombic and dipole–surface interactions in the rejection of polar contaminants by polyamide membranes. *Environ. Sci. Technol.*, **2026**, Accepted. [[doi](https://doi.org/10.1021/acs.est.5c18676){:target="_blank"}]
 
