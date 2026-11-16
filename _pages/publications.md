@@ -23,7 +23,7 @@ author_profile: true
     const expand = full.hidden;
     full.hidden = !expand;
     short.hidden = expand;
-    this.textContent = expand ? '[fold]' : '[expand]';
+    this.textContent = expand ? 'fold' : 'expand';
     return false;
   ">expand</a>]
 </span>
