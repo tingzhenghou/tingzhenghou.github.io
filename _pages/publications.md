@@ -30,7 +30,7 @@ author_profile: true
  pymatgen: 15 years of community growth, new functionality, and future prospects. 2026, arxiv:2610.23538. [[doi](
 https://doi.org/10.48550/arXiv.2610.23538){:target="_blank"}]
 
-(60) Chen, J.; Yang, J.; Xie, Y.; Jiang, L.\*; **Hou, T.**\* Ionic conduction mechanism and design of amorphous Li2O–TaCl5 solid electrolytes. *Energy Mater. Devices*, 2026, *4*, 9370097. [[doi](https://doi.org/10.26599/EMD.2026.9370097){:target="_blank"}]
+(60) Chen, J.; Yang, J.; Xie, Y.; Jiang, L.\*; **Hou, T.**\* Ionic conduction mechanism and design of amorphous Li<sub>2</sub>O–TaCl<sub>5</sub> solid electrolytes. *Energy Mater. Devices*, 2026, *4*, 9370097. [[doi](https://doi.org/10.26599/EMD.2026.9370097){:target="_blank"}]
 
 (59) Tan, S.<sup>‡</sup>; Li, Y.<sup>‡</sup>; Liang, B.; Li, Z.; Ji, C.; Liao, J.; Xie, Y.; Ji, W.; Zhang, R.; Jiang, L.\*; Liu, M.\*; **Hou, T.**\* Labile Semi‐Cage Solvation Structures Enable Efficient Ion Transport in Solid Polymer Electrolytes. *Adv. Energy Mater.*, 2026, *18*, e71128. [[doi](https://doi.org/10.1002/aenm.71128){:target="_blank"}]
 
