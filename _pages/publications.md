@@ -11,12 +11,12 @@ author_profile: true
 (61) 
 <span class="pub-authors">
   <span class="authors-short">
-    George, J.<sup>‡</sup>; Horton, M. K.<sup>‡</sup>; Kaplan, A. D.<sup>‡</sup>; Kavanagh, S. R.<sup>‡</sup>; Riebesell, J.<sup>‡</sup>; Rosen, A. S.<sup>‡</sup>; Yang, H.<sup>‡</sup>; Adams, F.; Amachraa, M.; Andriuc, O.; Ashour, O. A.; Bajaj, S.; Banyas, E.; Barroso-Luque, L.; Berket, K.; Bernstein, N.; Bhardwaj, A.; Bhatti, A. H. U.; Blau, S. M.; Bocklund, B.; Bonkowski, A.; Broberg, D.; Brunin, G.; Bystrom, K.; Cardot, C. A.; Chang, R.; Chen, C.; Chen, W.; Chen, X.; Chiang, Y.; Choudhary, K.; Cohen, O. A.; Costa, M. D.; Dacek III, S. T.; de Jong, M.; Demeyere, T.; Dozier, A. K.; Dunn, A.; Dwaraknath, S.; Dylla, M. T.; Eimre, K.; Epstein, A. R.; Ertural, C.; Esters, M.; Evans, M. L.; Falke, J.; Fekete, A.; Field, B.; Fonari, A.; Frey, N. C.; Gaines II, D. W.; Ganose, A. M.; Giantomassi, M.; Goodall, R. E. A.; Gostin, P.-F.; Gupta, A.; Ha, V.-A.; Hautier, G.; Heinsdorf, N.; Herbst, M. F.; **Hou, T.**; ...; Persson, K. A.; Jain, A.; Ong, S. P.\*
+    George, J.<sup>‡</sup>; Horton, M. K.<sup>‡</sup>; Kaplan, A. D.<sup>‡</sup>; Kavanagh, S. R.<sup>‡</sup>; Riebesell, J.<sup>‡</sup>; Rosen, A. S.<sup>‡</sup>; Yang, H.<sup>‡</sup>; Adams, F.; Amachraa, M.; Andriuc, O.; Ashour, O. A.; Bajaj, S.; Banyas, E.; Barroso-Luque, L.; Berket, K.; Bernstein, N.; Bhardwaj, A.; Bhatti, A. H. U.; Blau, S. M.; Bocklund, B.; Bonkowski, A.; Broberg, D.; Brunin, G.; Bystrom, K.; Cardot, C. A.; Chang, R.; Chen, C.; Chen, W.; Chen, X.; Chiang, Y.; Choudhary, K.; Cohen, O. A.; Costa, M. D.; Dacek III, S. T.; de Jong, M.; Demeyere, T.; Dozier, A. K.; Dunn, A.; Dwaraknath, S.; Dylla, M. T.; Eimre, K.; Epstein, A. R.; Ertural, C.; Esters, M.; Evans, M. L.; Falke, J.; Fekete, A.; Field, B.; Fonari, A.; Frey, N. C.; Gaines II, D. W.; Ganose, A. M.; Giantomassi, M.; Goodall, R. E. A.; Gostin, P.-F.; Gupta, A.; Ha, V.-A.; Hautier, G.; Heinsdorf, N.; Herbst, M. F.; **Hou, T.**; ...; Ong, S. P.\*
   </span>
   <span class="authors-full" hidden>
     George, J.<sup>‡</sup>; Horton, M. K.<sup>‡</sup>; Kaplan, A. D.<sup>‡</sup>; Kavanagh, S. R.<sup>‡</sup>; Riebesell, J.<sup>‡</sup>; Rosen, A. S.<sup>‡</sup>; Yang, H.<sup>‡</sup>; Adams, F.; Amachraa, M.; Andriuc, O.; Ashour, O. A.; Bajaj, S.; Banyas, E.; Barroso-Luque, L.; Berket, K.; Bernstein, N.; Bhardwaj, A.; Bhatti, A. H. U.; Blau, S. M.; Bocklund, B.; Bonkowski, A.; Broberg, D.; Brunin, G.; Bystrom, K.; Cardot, C. A.; Chang, R.; Chen, C.; Chen, W.; Chen, X.; Chiang, Y.; Choudhary, K.; Cohen, O. A.; Costa, M. D.; Dacek III, S. T.; de Jong, M.; Demeyere, T.; Dozier, A. K.; Dunn, A.; Dwaraknath, S.; Dylla, M. T.; Eimre, K.; Epstein, A. R.; Ertural, C.; Esters, M.; Evans, M. L.; Falke, J.; Fekete, A.; Field, B.; Fonari, A.; Frey, N. C.; Gaines II, D. W.; Ganose, A. M.; Giantomassi, M.; Goodall, R. E. A.; Gostin, P.-F.; Gupta, A.; Ha, V.-A.; Hautier, G.; Heinsdorf, N.; Herbst, M. F.; **Hou, T.**; Huck, P.; Ikeda, Y.; Jackson, A. J.; Jayaraman, S.; Kearns, F. R.; Kim, S.; Kingsbury, R. S.; Krajewski, A. M.; Kumagai, Y.; Kuner, M. C.; Laderer, W. T.; Li, W.; Li, X.-G.; Liang, Y. H.; Liu, H.; Liu, K.; Liu, M.; Lutfi, A.; Marchand, O.; McDermott, M. J.; Medasani, B. K.; Meng, F.; Miller, K. D.; Miranda, H.; Mohanakrishnan, R. S.; Montoya, J. H.; Moore, G. C.; Morgan, B. J.; Munro, J. M.; Muraoka, K.; Naik, A. A.; O'Leary, W.; Onwuli, A.; Park, J.; Parsons, D. F.; Pei, K.; Petretto, G.; Purcell, T. A. R.; Qi, J.; Qu, X.; Radchenko, I.; Rajput, N. N.; Ricci, F.; Rich, B. S.; Richards, W. D.; Rignanese, G.-M.; Ruan, X.; Salvato Vallverdu, G.; Schmidt, J.; Shen, J.-X.; Shimogawa, R.; Shinohara, K.; Singh, A. K.; Sivonxay, E.; Smeets, S.; Smidt, T. E.; Sobolev, A.; Spotte-Smith, E. W. C.; Stihl, C.; Sun, W.; Sundberg, J. D.; Suzuki, Y.; Talirz, L.; Tang, H.; Taw, E.; Tezak, C.; Therrien, F.; Thiel, S. D.; Torrisi, S. B.; Turiansky, M. E.; Ueltzen, K.; van Setten, M. J.; Vieten, J.; Vijay, S.; Wagner, N.; Wan, F.; Wang, A.; Wang, J.; Wang, Z.; Ward, L.; Warford, T.; Waroquiers, D.; Wen, M.; Weser, O.; Winner, N.; Winston, D.; Wolloch, M.; Wood, B. M.; Woods-Robinson, R.; Xiao, Y.; Xie, Y.; Yalcin, F.; Yang, R. X.; Ye, W.; Zarabadi-Poor, P.; Zeng, J.; Zhao, H.; Zheng, K.; Zhu, H.; Zhu, Z.; Zimmermann, N. E. R.; Zügner, D.; Persson, K. A.; Jain, A.; Ong, S. P.\*
   </span>
-  <a href="#" onclick="
+  [<a href="#" onclick="
     const p = this.closest('.pub-authors');
     const full = p.querySelector('.authors-full');
     const short = p.querySelector('.authors-short');
@@ -25,9 +25,9 @@ author_profile: true
     short.hidden = expand;
     this.textContent = expand ? '[fold]' : '[expand]';
     return false;
-  ">[expand]</a>
+  ">expand</a>]
 </span>
- pymatgen: 15 years of community growth, new functionality, and future prospects. Arxiv:2610.23538. [[doi](
+ pymatgen: 15 years of community growth, new functionality, and future prospects. 2026, arxiv:2610.23538. [[doi](
 https://doi.org/10.48550/arXiv.2610.23538){:target="_blank"}]
 
 (60) Chen, J.; Yang, J.; Xie, Y.; Jiang, L.\*; **Hou, T.**\* Ionic conduction mechanism and design of amorphous Li2O–TaCl5 solid electrolytes. *Energy Mater. Devices*, 2026, *4*, 9370097. [[doi](https://doi.org/10.26599/EMD.2026.9370097){:target="_blank"}]
@@ -40,9 +40,9 @@ https://doi.org/10.48550/arXiv.2610.23538){:target="_blank"}]
 
 (56) Li, S.; Wang, L.\*; Zhu, H.; Liao, J.; Ye, J.; Huo, S.; Qi, M.; Liu, Y.\*; Xu, C.\*; **Hou, T.**\*; Chen, Z.; He, X.\* Origin of Zonal Polarization in Mn<sup>3+</sup>/Mn<sup>2+</sup> plateau and Its Influence on the Electrochemical Performance of LiMn<sub>γ</sub>Fe<sub>1−γ</sub>PO<sub>4</sub>. *Mater. Today*, **2026**, *96*, 103304. [[doi](https://doi.org/10.1016/j.mattod.2026.103304){:target="_blank"}]
 
-(55) Li, Z.; Tan, S.; Ji, C.; Liao, J.; Xie, Y.; Jiang, L.; **Hou, T.**\*. Reinforcing Transformer-Based Polymer Electrolyte Discovery through High-Fidelity Fine-Tuning and Application-Oriented Screening. *Mater. Today Energy*, **2026**, *57*, 102238. [[doi](https://doi.org/10.1016/j.mtener.2026.102238){:target="_blank"}]
+(55) Li, Z.<sup>‡</sup>; Tan, S.<sup>‡</sup>; Ji, C.; Liao, J.; Xie, Y.; Jiang, L.; **Hou, T.**\*. Reinforcing Transformer-Based Polymer Electrolyte Discovery through High-Fidelity Fine-Tuning and Application-Oriented Screening. *Mater. Today Energy*, **2026**, *57*, 102238. [[doi](https://doi.org/10.1016/j.mtener.2026.102238){:target="_blank"}]
 
-(54) Liang, B.; Huang, X.-Y.; Tan, S.; Wang, T.; Ji, C.; Si, T.; Li, X.-Y.; Chen, H.; Xie, Y.; Jiang, L.; Zhao, C.-Z.\*; Fan, J.\*; **Hou, T.**\*; Zhang, Q. Discontinuous coordination boosting ion transport in solid polymer electrolytes. *Energy Environ. Sci.*, **2026**, *19*, 1616–1629. [[doi](https://doi.org/10.1039/D5EE05901A){:target="_blank"}]
+(54) Liang, B.<sup>‡</sup>; Huang, X.-Y.<sup>‡</sup>; Tan, S.; Wang, T.; Ji, C.; Si, T.; Li, X.-Y.; Chen, H.; Xie, Y.; Jiang, L.; Zhao, C.-Z.\*; Fan, J.\*; **Hou, T.**\*; Zhang, Q. Discontinuous coordination boosting ion transport in solid polymer electrolytes. *Energy Environ. Sci.*, **2026**, *19*, 1616–1629. [[doi](https://doi.org/10.1039/D5EE05901A){:target="_blank"}]
 
 (53) Tan, S.; Liang, B.; Lu, D.; Ji, C.; Ji, W.; Li, Z.; **Hou, T.**\*. PEMD: a high-throughput simulation and analysis framework for solid polymer electrolytes. *Digit. Discov.*, **2026**, *5*, 193–202. [[doi](https://doi.org/10.1039/D5DD00454C){:target="_blank"}]
 
